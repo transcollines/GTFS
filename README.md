@@ -1,5 +1,6 @@
 # GTFS
 Ce répertoire contient les données GTFS officielles de [Transcollines](https://www.transcollines.ca/)!
+Pour plus d'information sur le format GTFS, consultez [la spécification officielle](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md).
 
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.**
 ## Télécharger le GTFS:
