@@ -3,6 +3,9 @@ Ce répertoire contient les données GTFS officielles de [Transcollines](https:/
 Pour plus d'information sur le format GTFS, consultez [la spécification officielle](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md).
 
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.**
+### Nouveauté - 5 août 2020:
+Vous pouvez maintenant consulter les fichiers individuels du GTFS ainsi que leur historique de changement directement dans GitHub!
+
 ## Télécharger le GTFS:
 Pour télécharger le GTFS de Transcollines, utilisez le lien ci-dessous.
 https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca.zip
