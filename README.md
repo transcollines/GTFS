@@ -8,6 +8,10 @@ Pour plus d'information sur le format GTFS, consultez [la spécification officie
 Pour télécharger le GTFS de Transcollines, utilisez le lien ci-dessous.
 https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca.zip
 **En téléchargeant le GTFS, vous acceptez les conditions d'utilisation détaillées dans le fichier `licence.md`**
+## GTFS-Realtime
+Les données GTFS-Realtime de Transcollines sont maintenant disponibles!
+
+Pour plus de détails, rendez-vous au [github.com/transcollines/gtfs-rt](https://github.com/transcollines/gtfs-rt)
 ## Inscription à la liste de distribution des développeurs Transcollines
 Transcollines utilise cette liste de distribution pour informer les développeurs de changements importants au fil GTFS de Transcollines. Il est fortement encouragé de s'y inscrire. Vous devriez recevoir environ un courriel aux deux ou trois mois.
 [Inscrivez-vous ici.](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUNFRTMVM0OFo1NjhMR0ZINEhFUDdVQzU2Uy4u)
