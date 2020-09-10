@@ -1,2 +1,3 @@
 ﻿attribution_id,agency_id,route_id,trip_id,organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email,attribution_phone
-BFTD,Transcollines,,,Brody Flannigan Transit Data pour Transcollines,1,0,0,http://transitdata.ca/fr/accueil/,,
+BRODYFL,Transcollines,,,Brody Flannigan Transit Data pour Transcollines (Données planifiées),1,0,0,http://transitdata.ca/fr/accueil/,,
+CIVILIA,Transcollines,,,Groupe Civilia pour Transcollines (Données en temps réel),1,0,0,https://www.civilia.ca/fr/,,

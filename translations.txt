@@ -1,8 +1,9 @@
 ﻿table_name,field_name,language,translation,record_id,record_sub_id,field_value
 agency,agency_url,en,https://transcollines.ca/home/,Transcollines,,
-attributions,attribution_url,en,https://transcollines.ca/home/,Transcollines,,
-attributions,organization_name,en,Brody Flannigan Transit Data for Transcollines,BFTD,,
-attributions,attribution_url,en,https://transitdata.ca/en/home/,BFTD,,
+attributions,organization_name,en,Groupe Civilia for Transcollines (Real-Time Data),CIVILIA,,
+attributions,attribution_url,en,https://www.civilia.ca/en/,CIVILIA,,
+attributions,organization_name,en,Brody Flannigan Transit Data for Transcollines (Schedule Data),BROFL,,
+attributions,attribution_url,en,https://transitdata.ca/en/home/,BROFL,,
 stops,stop_name,en,de Ste-Cécile-de-Masham | Stationnement P17 (Courtesy Stop),921010,,
 stops,stop_name,en,de Ste-Cécile-de-Masham | Stationnement P17 (Courtesy Stop),921011,,
 stops,stop_name,en,Église St-Stephen's (Courtesy Stop),921039,,
