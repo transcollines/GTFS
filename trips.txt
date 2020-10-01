@@ -59,41 +59,6 @@
 931,2020-Ferie-1,2020-Ferie-1.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Direction Collines,0
 941,2020-Ferie-1,2020-Ferie-1.941G_T01,Station Labrosse via Carrefour,0,401G,941G,,1,Direction Gatineau,0
 941,2020-Ferie-1,2020-Ferie-1.941C_T01,Perkins via Carrefour,1,402G,941C,,1,Direction Collines,0
-921,2020-COVID19-6,2020-COVID19-6.921G_T01,Station les Galeries via Autoroute,0,702T,921G,,1,Direction Gatineau,1
-921,2020-COVID19-6,2020-COVID19-6.921G_T02,Station les Galeries via Autoroute,0,709L,921G,,1,Direction Gatineau,1
-921,2020-COVID19-6,2020-COVID19-6.921C_T01,Masham via Autoroute,1,703L,921C,,1,Direction Collines,0
-921,2020-COVID19-6,2020-COVID19-6.921C_T02,Masham via Variante,1,709L,921CCV,,1,Direction Collines,0
-923,2020-COVID19-6,2020-COVID19-6.923G_T01,Station les Galeries via Old Chelsea,0,703L,923G,,1,Direction Gatineau,1
-923,2020-COVID19-6,2020-COVID19-6.923G_T02,Station les Galeries via Old Chelsea,0,702T,923G,,1,Direction Gatineau,1
-923,2020-COVID19-6,2020-COVID19-6.923C_T01,Masham via Old Chelsea,1,712T,923C,,1,Direction Collines,1
-923,2020-COVID19-6,2020-COVID19-6.923C_T02,Masham via Old Chelsea,1,709L,923C,,1,Direction Collines,1
-923,2020-COVID19-6,2020-COVID19-6.923C_T03,Masham via Old Chelsea,1,712T,923C,,1,Direction Collines,1
-925,2020-COVID19-6,2020-COVID19-6.925G_T01,Station les Galeries via de la Mine,0,706L,925G,,1,Direction Gatineau,0
-925,2020-COVID19-6,2020-COVID19-6.925G_T02,Station les Galeries via de la Mine,0,707G,925G,,1,Direction Gatineau,0
-925,2020-COVID19-6,2020-COVID19-6.925C_T01,Masham via de la Mine,1,707G,925C,,1,Direction Collines,0
-925,2020-COVID19-6,2020-COVID19-6.925C_T02,Masham via de la Mine,1,710L,925C,,1,Direction Collines,0
-931,2020-COVID19-6,2020-COVID19-6.931G_T01,Station de la Gappe via Bouchette,0,705T,931G,,1,Direction Gatineau,1
-931,2020-COVID19-6,2020-COVID19-6.931G_T02,Station de la Gappe via Bouchette,0,705T,931G,,1,Direction Gatineau,1
-931,2020-COVID19-6,2020-COVID19-6.931G_T03,Station de la Gappe via Bouchette,0,708M,931G,,1,Direction Gatineau,1
-931,2020-COVID19-6,2020-COVID19-6.931C_T01,Hogan via Bouchette,1,708M,931C,,1,Direction Collines,1
-931,2020-COVID19-6,2020-COVID19-6.931C_T02,Hogan via Bouchette,1,713T,931C,,1,Direction Collines,1
-931,2020-COVID19-6,2020-COVID19-6.931C_T03,Hogan via Bouchette,1,713T,931C,,1,Direction Collines,1
-933,2020-COVID19-6,2020-COVID19-6.933G_T01,Station de la Gappe via Hogan,0,704G,933G,,1,Direction Gatineau,1
-933,2020-COVID19-6,2020-COVID19-6.933C_T01,Des Érables via Hogan,1,714G,933C,,1,Direction Collines,1
-934,2020-COVID19-6,2020-COVID19-6.934G_T01,Station de la Gappe via Route 307,0,713T,934G,,1,Direction Gatineau,1
-934,2020-COVID19-6,2020-COVID19-6.934C_T01,Hogan via Route 307,1,705T,934C,,1,Direction Collines,1
-941,2020-COVID19-6,2020-COVID19-6.941G_T01,Station Labrosse via Carrefour,0,701G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-6,2020-COVID19-6.941G_T02,Station Labrosse via Carrefour,0,701G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-6,2020-COVID19-6.941G_T03,Station Labrosse via Carrefour,0,708M,941G,,1,Direction Gatineau,1
-941,2020-COVID19-6,2020-COVID19-6.941G_T04,Station Labrosse via Carrefour,0,711G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-6,2020-COVID19-6.941G_T05,Station Labrosse via Carrefour,0,711G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-6,2020-COVID19-6.941C_T01,Perkins via Carrefour,1,701G,941C,,1,Direction Collines,1
-941,2020-COVID19-6,2020-COVID19-6.941C_T02,Perkins via Carrefour,1,701G,941C,,1,Direction Collines,1
-941,2020-COVID19-6,2020-COVID19-6.941C_T03,Perkins via Carrefour,1,708M,941C,,1,Direction Collines,1
-941,2020-COVID19-6,2020-COVID19-6.941C_T04,Perkins via Carrefour,1,711G,941C,,1,Direction Collines,1
-941,2020-COVID19-6,2020-COVID19-6.941C_T05,Perkins via Carrefour,1,711G,941C,,1,Direction Collines,1
-943,2020-COVID19-6,2020-COVID19-6.943G_T01,Station Labrosse via Perkins,0,701G,943GP,,1,Direction Gatineau,1
-943,2020-COVID19-6,2020-COVID19-6.943C_T01,Perkins,1,711G,943CP,,1,Direction Collines,1
 921,2020-COVID19-7,2020-COVID19-7.921G_T01,Station les Galeries via Autoroute,0,702T,921G,,1,Direction Gatineau,1
 921,2020-COVID19-7,2020-COVID19-7.921G_T02,Station les Galeries via Autoroute,0,711L,921G,,1,Direction Gatineau,1
 921,2020-COVID19-7,2020-COVID19-7.921C_T01,Masham via Autoroute,1,703L,921C,,1,Direction Collines,1
@@ -133,3 +98,43 @@
 941,2020-COVID19-7,2020-COVID19-7.941C_T05,Perkins via Carrefour,1,713G,941C,,1,Direction Collines,1
 943,2020-COVID19-7,2020-COVID19-7.943G_T01,Station Labrosse via Perkins,0,701G,943GP,,1,Direction Gatineau,1
 943,2020-COVID19-7,2020-COVID19-7.943C_T01,Perkins,1,713G,943CP,,1,Direction Collines,1
+921,2020-COVID19-8,2020-COVID19-8.921G_T01,Station les Galeries via Autoroute,0,702T,921G,,1,Direction Gatineau,1
+921,2020-COVID19-8,2020-COVID19-8.921G_T02,Station les Galeries via Autoroute,0,703L,921G,,1,Direction Gatineau,1
+921,2020-COVID19-8,2020-COVID19-8.921G_T03,Station les Galeries via Autoroute,0,711L,921G,,1,Direction Gatineau,1
+921,2020-COVID19-8,2020-COVID19-8.921C_T01,Masham via Autoroute,1,703L,921C,,1,Direction Collines,1
+921,2020-COVID19-8,2020-COVID19-8.921C_T02,Masham via Variante,1,711L,921CCV,,1,Direction Collines,1
+922,2020-COVID19-8,2020-COVID19-8.922G_T01,Cégep Gabrielle-Roy via Montagne,0,708M,922G,,1,Direction Gatineau,1
+922,2020-COVID19-8,2020-COVID19-8.922C_T01,Hollow Glen via Montagne,1,717M,922C,,1,Direction Collines,1
+923,2020-COVID19-8,2020-COVID19-8.923G_T01,Station les Galeries via Old Chelsea,0,703L,923G,,1,Direction Gatineau,1
+923,2020-COVID19-8,2020-COVID19-8.923G_T02,Station les Galeries via Old Chelsea,0,702T,923G,,1,Direction Gatineau,1
+923,2020-COVID19-8,2020-COVID19-8.923C_T01,Masham via Old Chelsea,1,714T,923C,,1,Direction Collines,1
+923,2020-COVID19-8,2020-COVID19-8.923C_T02,Masham via Old Chelsea,1,711L,923C,,1,Direction Collines,1
+923,2020-COVID19-8,2020-COVID19-8.923C_T03,Masham via Old Chelsea,1,714T,923C,,1,Direction Collines,1
+925,2020-COVID19-8,2020-COVID19-8.925G_T01,Station les Galeries via de la Mine,0,707L,925G,,1,Direction Gatineau,1
+925,2020-COVID19-8,2020-COVID19-8.925G_T02,Station les Galeries via de la Mine,0,709G,925G,,1,Direction Gatineau,1
+925,2020-COVID19-8,2020-COVID19-8.925C_T01,Masham via de la Mine,1,709G,925C,,1,Direction Collines,1
+925,2020-COVID19-8,2020-COVID19-8.925C_T02,Masham via de la Mine,1,712L,925C,,1,Direction Collines,1
+931,2020-COVID19-8,2020-COVID19-8.931G_T01,Station de la Gappe via Bouchette,0,706T,931G,,1,Direction Gatineau,1
+931,2020-COVID19-8,2020-COVID19-8.931G_T02,Station de la Gappe via Bouchette,0,706T,931G,,1,Direction Gatineau,1
+931,2020-COVID19-8,2020-COVID19-8.931G_T03,Station de la Gappe via Bouchette,0,710M,931G,,1,Direction Gatineau,1
+931,2020-COVID19-8,2020-COVID19-8.931C_T01,Hogan via Bouchette,1,710M,931C,,1,Direction Collines,1
+931,2020-COVID19-8,2020-COVID19-8.931C_T02,Hogan via Bouchette,1,716T,931C,,1,Direction Collines,1
+931,2020-COVID19-8,2020-COVID19-8.931C_T03,Hogan via Bouchette,1,716T,931C,,1,Direction Collines,1
+933,2020-COVID19-8,2020-COVID19-8.933G_T01,Station de la Gappe via Hogan,0,705G,933G,,1,Direction Gatineau,1
+933,2020-COVID19-8,2020-COVID19-8.933C_T01,Des Érables via Hogan,1,718G,933C,,1,Direction Collines,1
+934,2020-COVID19-8,2020-COVID19-8.934G_T01,Station de la Gappe via Route 307,0,716T,934G,,1,Direction Gatineau,1
+934,2020-COVID19-8,2020-COVID19-8.934C_T01,Hogan via Route 307,1,706T,934C,,1,Direction Collines,1
+935,2020-COVID19-8,2020-COVID19-8.935G_T01,Station de la Cité via Lamoureux,0,704M,935G,,1,Direction Gatineau,1
+935,2020-COVID19-8,2020-COVID19-8.935C_T01,Hogan via Lamoureux,1,715M,935C,,1,Direction Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T01,Station Labrosse via Carrefour,0,701G,941G,,1,Direction Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T02,Station Labrosse via Carrefour,0,701G,941G,,1,Direction Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T03,Station Labrosse via Carrefour,0,710M,941G,,1,Direction Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T04,Station Labrosse via Carrefour,0,713G,941G,,1,Direction Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T05,Station Labrosse via Carrefour,0,713G,941G,,1,Direction Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T01,Perkins via Carrefour,1,701G,941C,,1,Direction Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T02,Perkins via Carrefour,1,701G,941C,,1,Direction Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T03,Perkins via Carrefour,1,710M,941C,,1,Direction Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T04,Perkins via Carrefour,1,713G,941C,,1,Direction Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T05,Perkins via Carrefour,1,713G,941C,,1,Direction Collines,1
+943,2020-COVID19-8,2020-COVID19-8.943G_T01,Station Labrosse via Perkins,0,701G,943GP,,1,Direction Gatineau,1
+943,2020-COVID19-8,2020-COVID19-8.943C_T01,Perkins,1,713G,943CP,,1,Direction Collines,1

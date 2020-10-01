@@ -1,2 +1,2 @@
 ﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-Transcollines,Transcollines,https://transcollines.ca/,America/New_York,fr,1-866-310-1114,https://transcollines.ca/tarifs-et-points-de-service/,info@transcollines.ca
+Transcollines,Transcollines,https://transcollines.ca/,America/New_York,fr,1.866.310.1114,https://transcollines.ca/tarifs-et-points-de-service/,info@transcollines.ca
