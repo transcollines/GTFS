@@ -1,148 +1,291 @@
 ﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,tts_stop_name
-921006,,Principale Est | de la Prairie,,45.6432149,-76.0318974,,,0,,,,Principale Est et de la Prairie
+910001,,de Pembroke | Notre-Dame,,45.910234,-77.071849,,,0,,,,de Pembroke et Notre-Dame
+910002,,de Pembroke | Notre-Dame,,45.910369,-77.071994,,,0,,,,de Pembroke et Notre-Dame
+910003,,de Pembroke | de Chapeau-Waltham (Arrêt de courtoisie),,45.917863,-77.076473,,,0,,,,de Pembroke et de Chapeau-Waltham (Arrêt de courtoisie)
+910004,,de Chapeau-Waltham | de Pembroke (Arrêt de courtoisie),,45.918113,-77.076371,,,0,,,,de Chapeau-Waltham et de Pembroke (Arrêt de courtoisie)
+910005,,de Chapeau-Waltham | Dirty-Dozen (Arrêt de courtoisie),,45.918415,-77.049619,,,0,,,,de Chapeau-Waltham et Dirty-Dozen (Arrêt de courtoisie)
+910006,,de Chapeau-Waltham | Dirty-Dozen (Arrêt de courtoisie),,45.918565,-77.049222,,,0,,,,de Chapeau-Waltham et Dirty-Dozen (Arrêt de courtoisie)
+910007,,de Chapeau-Waltham | McGuire (Arrêt de courtoisie),,45.918333,-77.044914,,,0,,,,de Chapeau-Waltham et McGuire (Arrêt de courtoisie)
+910008,,de Chapeau-Waltham | McGuire (Arrêt de courtoisie),,45.918468,-77.044936,,,0,,,,de Chapeau-Waltham et McGuire (Arrêt de courtoisie)
+910009,,de Chapeau-Waltham | Donlan (Arrêt de courtoisie),,45.919468,-77.026037,,,0,,,,de Chapeau-Waltham et Donlan (Arrêt de courtoisie)
+910010,,de Chapeau-Waltham | Donlan (Arrêt de courtoisie),,45.919647,-77.025265,,,0,,,,de Chapeau-Waltham et Donlan (Arrêt de courtoisie)
+910011,,de Chapeau-Waltham | Leslie (Arrêt de courtoisie),,45.919177,-77.013055,,,0,,,,de Chapeau-Waltham et Leslie (Arrêt de courtoisie)
+910012,,de Chapeau-Waltham | Leslie (Arrêt de courtoisie),,45.919345,-77.0129,,,0,,,,de Chapeau-Waltham et Leslie (Arrêt de courtoisie)
+910013,,de Chapeau-Waltham | Campeau (Arrêt de courtoisie),,45.918632,-76.970354,,,0,,,,de Chapeau-Waltham et Campeau (Arrêt de courtoisie)
+910014,,de Chapeau-Waltham | Campeau (Arrêt de courtoisie),,45.918818,-76.970016,,,0,,,,de Chapeau-Waltham et Campeau (Arrêt de courtoisie)
+910015,,de Chapeau-Waltham | Kelly (Arrêt de courtoisie),,45.917348,-76.937406,,,0,,,,de Chapeau-Waltham et Kelly (Arrêt de courtoisie)
+910016,,de Chapeau-Waltham | Kelly (Arrêt de courtoisie),,45.917512,-76.936848,,,0,,,,de Chapeau-Waltham et Kelly (Arrêt de courtoisie)
+910017,,de Chapeau-Waltham | De Souza (Arrêt de courtoisie),,45.916049,-76.926602,,,0,,,,de Chapeau-Waltham et De Souza (Arrêt de courtoisie)
+910018,,de Chapeau-Waltham | Rochon (Arrêt de courtoisie),,45.916975,-76.927943,,,0,,,,de Chapeau-Waltham et Rochon (Arrêt de courtoisie)
+910019,,Route 148 | de Chapeau-Waltham,,45.911485,-76.919054,,,0,,,,Route 148 et de Chapeau-Waltham
+910020,,Route 148 | de Chapeau-Waltham,,45.911608,-76.919065,,,0,,,,Route 148 et de Chapeau-Waltham
+910021,,Route 148 | Romain (Arrêt de courtoisie),,45.91001,-76.910171,,,0,,,,Route 148 et Romain (Arrêt de courtoisie)
+910022,,Route 148 | Romain (Arrêt de courtoisie),,45.910089,-76.909774,,,0,,,,Route 148 et Romain (Arrêt de courtoisie)
+910023,,Route 148 | Robinson (Arrêt de courtoisie),,45.909561,-76.90563,,,0,,,,Route 148 et Robinson (Arrêt de courtoisie)
+910024,,Route 148 | Robinson (Arrêt de courtoisie),,45.909605,-76.905391,,,0,,,,Route 148 et Robinson (Arrêt de courtoisie)
+910025,,Route 148 | de la Rivière-Noire (Arrêt de courtoisie),,45.909406,-76.875613,,,0,,,,Route 148 et de la Rivière-Noire (Arrêt de courtoisie)
+910026,,Route 148 | de la Rivière-Noire (Arrêt de courtoisie),,45.909548,-76.875442,,,0,,,,Route 148 et de la Rivière-Noire (Arrêt de courtoisie)
+910027,,Route 148 | du Devonshire (Arrêt de courtoisie),,45.903452,-76.832006,,,0,,,,Route 148 et du Devonshire (Arrêt de courtoisie)
+910028,,Route 148 | du Devonshire (Arrêt de courtoisie),,45.903572,-76.831748,,,0,,,,Route 148 et du Devonshire (Arrêt de courtoisie)
+910029,,Route 148 | Thomas-Lefebvre Nord,,45.897804,-76.802711,,,0,,,,Route 148 et Thomas-Lefebvre Nord
+910030,,Route 148 | Thomas-Lefebvre Nord,,45.89789,-76.802443,,,0,,,,Route 148 et Thomas-Lefebvre Nord
+910031,,Route 148 | du Lac-de-la-Truite (Arrêt de courtoisie),,45.882861,-76.743493,,,0,,,,Route 148 et du Lac-de-la-Truite (Arrêt de courtoisie)
+910032,,Route 148 | du Lac-de-la-Truite (Arrêt de courtoisie),,45.882801,-76.743193,,,0,,,,Route 148 et du Lac-de-la-Truite (Arrêt de courtoisie)
+910033,,Route 148 | Thomas-Lefebvre Sud (Arrêt de courtoisie),,45.870335,-76.744995,,,0,,,,Route 148 et Thomas-Lefebvre Sud (Arrêt de courtoisie)
+910034,,Route 148 | Thomas-Lefebvre Sud (Arrêt de courtoisie),,45.870193,-76.744829,,,0,,,,Route 148 et Thomas-Lefebvre Sud (Arrêt de courtoisie)
+910035,,Route 148 | Dagenais (Arrêt de courtoisie),,45.860821,-76.739443,,,0,,,,Route 148 et Dagenais (Arrêt de courtoisie)
+910036,,Route 148 | Dagenais (Arrêt de courtoisie),,45.86069,-76.739266,,,0,,,,Route 148 et Dagenais (Arrêt de courtoisie)
+910037,,Route 148 | de la Chute,,45.850079,-76.727818,,,0,,,,Route 148 et de la Chute
+910038,,Route 148 | de la Chute,,45.850068,-76.727459,,,0,,,,Route 148 et de la Chute
+910039,,Route 148 | Graveline (Arrêt de courtoisie),,45.846331,-76.718071,,,0,,,,Route 148 et Graveline (Arrêt de courtoisie)
+910040,,Route 148 | Graveline (Arrêt de courtoisie),,45.846432,-76.717787,,,0,,,,Route 148 et Graveline (Arrêt de courtoisie)
+910041,,Route 148 | Kelly (Arrêt de courtoisie),,45.830489,-76.69134,,,0,,,,Route 148 et Kelly (Arrêt de courtoisie)
+910042,,Route 148 | Stitt (Arrêt de courtoisie),,45.830474,-76.690804,,,0,,,,Route 148 et Stitt (Arrêt de courtoisie)
+910043,,Route 148 | Romain (Arrêt de courtoisie),,45.820799,-76.672452,,,0,,,,Route 148 et Romain (Arrêt de courtoisie)
+910044,,Route 148 | Romain (Arrêt de courtoisie),,45.820785,-76.672093,,,0,,,,Route 148 et Romain (Arrêt de courtoisie)
+910045,,Route 148 | Eight (Arrêt de courtoisie),,45.810749,-76.653285,,,0,,,,Route 148 et Eight (Arrêt de courtoisie)
+910046,,Route 148 | Eight (Arrêt de courtoisie),,45.810776,-76.652942,,,0,,,,Route 148 et Eight (Arrêt de courtoisie)
+910047,,Route 148 | Murtagh (Arrêt de courtoisie),,45.802837,-76.638265,,,0,,,,Route 148 et Murtagh (Arrêt de courtoisie)
+910048,,Route 148 | Murtagh (Arrêt de courtoisie),,45.802777,-76.637658,,,0,,,,Route 148 et Murtagh (Arrêt de courtoisie)
+910049,,Route 148 | Hearty (Arrêt de courtoisie),,45.793038,-76.621206,,,0,,,,Route 148 et Hearty (Arrêt de courtoisie)
+910050,,Route 148 | Hearty (Arrêt de courtoisie),,45.793001,-76.620739,,,0,,,,Route 148 et Hearty (Arrêt de courtoisie)
+910051,,Route 148 | de la Montagne,,45.785557,-76.610793,,,0,,,,Route 148 et de la Montagne
+910052,,Route 148 | de la Montagne,,45.785418,-76.610574,,,0,,,,Route 148 et de la Montagne
+910053,,Route 148 | Laforest (Arrêt de courtoisie),,45.7528,-76.599872,,,0,,,,Route 148 et Laforest (Arrêt de courtoisie)
+910054,,Route 148 | Laforest (Arrêt de courtoisie),,45.752631,-76.599678,,,0,,,,Route 148 et Laforest (Arrêt de courtoisie)
+910055,,Route 148 | Route 301,,45.736335,-76.593874,,,0,,,,Route 148 et Route 301
+910056,,Route 148 | Route 301,,45.736275,-76.593606,,,0,,,,Route 148 et Route 301
+910057,,Route 148 | Front (Arrêt de courtoisie),,45.725806,-76.596701,,,0,,,,Route 148 et Front (Arrêt de courtoisie)
+910058,,Route 148 | Front (Arrêt de courtoisie),,45.725222,-76.596476,,,0,,,,Route 148 et Front (Arrêt de courtoisie)
+910059,,Route 148 | Hayes (Arrêt de courtoisie),,45.717993,-76.594073,,,0,,,,Route 148 et Hayes (Arrêt de courtoisie)
+910060,,Route 148 | Hayes (Arrêt de courtoisie),,45.717889,-76.593772,,,0,,,,Route 148 et Hayes (Arrêt de courtoisie)
+910061,,Route 148 | de Morehead (Arrêt de courtoisie),,45.703707,-76.596411,,,0,,,,Route 148 et de Morehead (Arrêt de courtoisie)
+910062,,Route 148 | de Morehead (Arrêt de courtoisie),,45.703422,-76.59624,,,0,,,,Route 148 et de Morehead (Arrêt de courtoisie)
+910063,,Route 148 | de la Rivière (Arrêt de courtoisie),,45.690986,-76.602371,,,0,,,,Route 148 et de la Rivière (Arrêt de courtoisie)
+910064,,Route 148 | de la Rivière (Arrêt de courtoisie),,45.690837,-76.602232,,,0,,,,Route 148 et de la Rivière (Arrêt de courtoisie)
+910065,,Route 148 | Wilson (Arrêt de courtoisie),,45.679976,-76.609844,,,0,,,,Route 148 et Wilson (Arrêt de courtoisie)
+910066,,Route 148 | Wilson (Arrêt de courtoisie),,45.679688,-76.609678,,,0,,,,Route 148 et Wilson (Arrêt de courtoisie)
+910067,,Route 148 | Principale,,45.665009,-76.619972,,,0,,,,Route 148 et Principale
+910068,,Route 148 | Principale,,45.664619,-76.619886,,,0,,,,Route 148 et Principale
+910069,,Route 148 | 7th Line (Arrêt de courtoisie),,45.651668,-76.620133,,,0,,,,Route 148 et Seventh Line (Arrêt de courtoisie)
+910070,,Route 148 | 7th Line (Arrêt de courtoisie),,45.651361,-76.619897,,,0,,,,Route 148 et Seventh Line (Arrêt de courtoisie)
+910071,,Route 148 | Stewart (Arrêt de courtoisie),,45.639398,-76.60169,,,0,,,,Route 148 et Stewart (Arrêt de courtoisie)
+910072,,Route 148 | Stewart (Arrêt de courtoisie),,45.639233,-76.600837,,,0,,,,Route 148 et Stewart (Arrêt de courtoisie)
+910073,,Route 148 | Telford (Arrêt de courtoisie),,45.630935,-76.578768,,,0,,,,Route 148 et Telford (Arrêt de courtoisie)
+910074,,Route 148 | Telford (Arrêt de courtoisie),,45.630958,-76.578462,,,0,,,,Route 148 et Telford (Arrêt de courtoisie)
+910075,,Route 148 | Homer (Arrêt de courtoisie),,45.625894,-76.565309,,,0,,,,Route 148 et Homer (Arrêt de courtoisie)
+910076,,Route 148 | Homer (Arrêt de courtoisie),,45.625969,-76.564665,,,0,,,,Route 148 et Homer (Arrêt de courtoisie)
+910077,,Route 148 | Radford (Arrêt de courtoisie),,45.620491,-76.550385,,,0,,,,Route 148 et Radford (Arrêt de courtoisie)
+910078,,Route 148 | Radford (Arrêt de courtoisie),,45.620491,-76.549752,,,0,,,,Route 148 et Radford (Arrêt de courtoisie)
+910079,,Route 148 | Route 303 (Arrêt de courtoisie),,45.605849,-76.510516,,,0,,,,Route 148 et Route 303 (Arrêt de courtoisie)
+910080,,Route 148 | Route 303 (Arrêt de courtoisie),,45.605902,-76.510237,,,0,,,,Route 148 et Route 303 (Arrêt de courtoisie)
+910081,,Route 148 | de Sand Bay (Arrêt de courtoisie),,45.603293,-76.503639,,,0,,,,Route 148 et de Sand Bay (Arrêt de courtoisie)
+910082,,Route 148 | Rectory (Arrêt de courtoisie),,45.603263,-76.503285,,,0,,,,Route 148 et Rectory (Arrêt de courtoisie)
+910083,,Centre | Marion,,45.606168,-76.489571,,,0,,,,Centre et Marion
+910084,,Centre | Marion,,45.606108,-76.489745,,,0,,,,Centre et Marion
+910085,,Route 148 | Zion (Arrêt de courtoisie),,45.594424,-76.479961,,,0,,,,Route 148 et Zion (Arrêt de courtoisie)
+910086,,Route 148 | Zion (Arrêt de courtoisie),,45.594402,-76.479188,,,0,,,,Route 148 et Zion (Arrêt de courtoisie)
+910087,,Route 148 | de Calumet Est (Arrêt de courtoisie),,45.585895,-76.457065,,,0,,,,Route 148 et de Calumet Est (Arrêt de courtoisie)
+910088,,Route 148 | de Calumet Est (Arrêt de courtoisie),,45.585679,-76.456167,,,0,,,,Route 148 et de Calumet Est (Arrêt de courtoisie)
+910089,,Route 148 | de Bristol-Clarendon Sud,,45.575405,-76.447629,,,0,,,,Route 148 et de Bristol-Clarendon Sud
+910090,,Route 148 | de Bristol-Clarendon Sud,,45.575379,-76.447399,,,0,,,,Route 148 et de Brisol-Clarendon Sud
+910091,,Route 148 | de Bristol (Arrêt de courtoisie),,45.568766,-76.431155,,,0,,,,Route 148 et de Bristol (Arrêt de courtoisie)
+910092,,Route 148 | Ragged Chute (Arrêt de courtoisie),,45.568758,-76.430426,,,0,,,,Route 148 et Ragged Chute (Arrêt de courtoisie)
+910093,,Route 148 | Wharf (Arrêt de courtoisie),,45.555222,-76.394516,,,0,,,,Route 148 et Wharf (Arrêt de courtoisie)
+910094,,Route 148 | Wharf (Arrêt de courtoisie),,45.555234,-76.394221,,,0,,,,Route 148 et Wharf (Arrêt de courtoisie)
+910095,,Route 148 | Bristol Mines,,45.544948,-76.365564,,,0,,,,Route 148 et Bristol Mines
+910096,,Route 148 | Bristol Mines,,45.545136,-76.365248,,,0,,,,Route 148 et Bristol Mines
+910097,,Route 148 | Knox (Arrêt de courtoisie),,45.546533,-76.34783,,,0,,,,Route 148 et Knox (Arrêt de courtoisie)
+910098,,Route 148 | Knox (Arrêt de courtoisie),,45.546545,-76.347486,,,0,,,,Route 148 et Knox (Arrêt de courtoisie)
+910099,,Route 148 | d'Aylmer (Arrêt de courtoisie),,45.533792,-76.316083,,,0,,,,Route 148 et d'Aylmer (Arrêt de courtoisie)
+910100,,Route 148 | de Wyman (Arrêt de courtoisie),,45.533751,-76.315764,,,0,,,,Route 148 et de Wyman (Arrêt de courtoisie)
+910101,,Route 148 | Gold Mine Sud (Arrêt de courtoisie),,45.526231,-76.298649,,,0,,,,Route 148 et Gold Mine Sud (Arrêt de courtoisie)
+910102,,Route 148 | Gold Mine Nord (Arrêt de courtoisie),,45.526276,-76.298429,,,0,,,,Route 148 et Gold Mine Nord (Arrêt de courtoisie)
+910103,,Route 148 | de Clarendon (Arrêt de courtoisie),,45.524856,-76.284428,,,0,,,,Route 148 et de Clarendon (Arrêt de courtoisie)
+910104,,Route 148 | MacKechnie (Arrêt de courtoisie),,45.525108,-76.28395,,,0,,,,Route 148 et MacKechnie (Arrêt de courtoisie)
+910105,,Route 148 | Stanton (Arrêt de courtoisie),,45.526611,-76.25112,,,0,,,,Route 148 et Stanton (Arrêt de courtoisie)
+910106,,Route 148 | Stanton (Arrêt de courtoisie),,45.526727,-76.250739,,,0,,,,Route 148 et Stanton (Arrêt de courtoisie)
+910107,,de Clarendon | Ferry,,45.520583,-76.229657,,,0,,,,de Clarendon et Ferry
+910108,,de Clarendon | Ferry,,45.520718,-76.229496,,,0,,,,de Clarendon et Ferry
+910109,,Route 148 | Russell (Arrêt de courtoisie),,45.528118,-76.200099,,,0,,,,Route 148 et Russell (Arrêt de courtoisie)
+910110,,Route 148 | Russell (Arrêt de courtoisie),,45.528343,-76.199691,,,0,,,,Route 148 et Russell (Arrêt de courtoisie)
+910111,,Route 148 | Concesssion 5e (Arrêt de courtoisie),,45.544366,-76.173277,,,0,,,,Route 148 et Concession Cinquième (Arrêt de courtoisie)
+910112,,Route 148 | Concession 5e (Arrêt de courtoisie),,45.544644,-76.173459,,,0,,,,Route 148 et Concession cinquième (Arrêt de courtoisie)
+910113,,Route 148 | Wilson (Arrêt de courtoisie),,45.557634,-76.138521,,,0,,,,Route 148 et Wilson (Arrêt de courtoisie)
+910114,,Route 148 | Wilson (Arrêt de courtoisie),,45.557818,-76.138151,,,0,,,,Route 148 et Wilson (Arrêt de courtoisie)
+910115,,Route 148 | Kennedy (Arrêt de courtoisie),,45.553908,-76.111296,,,0,,,,Route 148 et Kennedy (Arrêt de courtoisie)
+910116,,Route 148 | Kennedy (Arrêt de courtoisie),,45.554095,-76.11076,,,0,,,,Route 148 et Kennedy (Arrêt de courtoisie)
+910117,,Route 148 | Eardley-Masham,,45.552014,-76.099495,,,0,,,,Route 148 et Eardley-Masham
+910118,,Route 148 | Eardley-Masham,,45.552029,-76.098824,,,0,,,,Route 148 et Eardley-Masham
+910119,,Route 148 | Parker (Arrêt de courtoisie),,45.548032,-76.084329,,,0,,,,Route 148 et Parker (Arrêt de courtoisie)
+910120,,Route 148 | Parker (Arrêt de courtoisie),,45.5481,-76.084051,,,0,,,,Route 148 et Parker (Arrêt de courtoisie)
+910121,,Route 148 | Alary (Arrêt de courtoisie),,45.54296,-76.049434,,,0,,,,Route 148 et Alary (Arrêt de courtoisie)
+910122,,Route 148 | Pilon (Arrêt de courtoisie),,45.541954,-76.04526,,,0,,,,Route 148 et Pilon (Arrêt de courtoisie)
+910123,,Route 148 | Lebrun (Arrêt de courtoisie),,45.538463,-76.021147,,,0,,,,Route 148 et Lebrun (Arrêt de courtoisie)
+910124,,Route 148 | Lebrun (Arrêt de courtoisie),,45.538523,-76.020911,,,0,,,,Route 148 et Lebrun (Arrêt de courtoisie)
+910125,,Route 148 | du Village (Arrêt de courtoisie),,45.536096,-76.015153,,,0,,,,Route 148 et du Village (Arrêt de courtoisie)
+910126,,Route 148 | du Village (Arrêt de courtoisie),,45.53625,-76.014831,,,0,,,,Route 148 et du Village (Arrêt de courtoisie)
+910127,,Route 148 | de l'Hôtel-de-Ville,,45.528813,-76.003093,,,0,,,,Route 148 et de l'Hôtel-de-Ville
+910128,,Route 148 | de l'Hôtel-de-Ville,,45.528793,-76.002552,,,0,,,,Route 148 et de l'Hôtel-de-Ville
+910129,,Route 148 | Tremblay (Arrêt de courtoisie),,45.515737,-75.982561,,,0,,,,Route 148 et Tremblay (Arrêt de courtoisie)
+910130,,Route 148 | Crégheur (Arrêt de courtoisie),,45.515659,-75.981907,,,0,,,,Route 148 et Crégheur (Arrêt de courtoisie)
+910131,,Route 148 | de la Montagne (Arrêt de courtoisie),,45.500294,-75.964891,,,0,,,,Route 148 et de la Montagne (Arrêt de courtoisie)
+910132,,Route 148 | de la Montagne (Arrêt de courtoisie),,45.500286,-75.964226,,,0,,,,Route 148 et de la Montagne (Arrêt de courtoisie)
+910133,,Route 148 | de la Rivière (Arrêt de courtoisie),,45.488372,-75.951979,,,0,,,,Route 148 et de la Rivière (Arrêt de courtoisie)
+910134,,Route 148 | Smith-Léonard (Arrêt de courtoisie),,45.488193,-75.951847,,,0,,,,Route 148 et Smith-Léonard (Arrêt de courtoisie)
+910135,,Route 148 | Breckenridge (Arrêt de courtoisie),,45.477444,-75.952394,,,0,,,,Route 148 et Breckenridge (Arrêt de courtoisie)
+910136,,Route 148 | Breckenridge (Arrêt de courtoisie),,45.4774,-75.952209,,,0,,,,Route 148 et Breckenridge (Arrêt de courtoisie)
+910137,,Route 148 | Elm (Arrêt de courtoisie),,45.459926,-75.932063,,,0,,,,Route 148 et Elm (Arrêt de courtoisie)
+910138,,Route 148 | Elm (Arrêt de courtoisie),,45.459796,-75.931784,,,0,,,,Route 148 et Elm (Arrêt de courtoisie)
+910139,,Route 148 | des Lilas (Arrêt de courtoisie),,45.442376,-75.918113,,,0,,,,Route 148 et des Lilas (Arrêt de courtoisie)
+910140,,Route 148 | des Lilsas (Arrêt de courtoisie),,45.442364,-75.917823,,,0,,,,Route 148 et des Lilas (Arrêt de courtoisie)
+910141,,Route 148 | Fortin (Arrêt de courtoisie),,45.436041,-75.909449,,,0,,,,Route 148 et Fortin (Arrêt de courtoisie)
+910142,,Route 148 | du Marquis (Arrêt de courtoisie),,45.436031,-75.909286,,,0,,,,Route 148 et du Marquis (Arrêt de courtoisie)
+910143,,Route 148 | Terry-Fox,,45.42931,-75.900131,,,0,,,,Route 148 et Terry-Fox
+910144,,Route 148 | Terry-Fox,,45.429299,-75.89996,,,0,,,,Route 148 et Terry-Fox
+910145,,Parc-O-Bus des Allumettières,,45.407263,-75.865606,,,0,,,,Parc-O-Bus des Allumettières
+910147,,des Allumettières | Wilfrid-Lavigne,,45.410355,-75.838478,,,0,,,,des Allumettières et Wilfrid-Lavigne
+910148,,des Allumettières | Wilfrid-Lavigne,,45.410547,-75.839492,,,0,,,,des Allumettières et Wilfrid-Lavigne
+910149,,du Plateau | Katimavik,,45.421782,-75.807705,,,0,,,,du Plateau et Katimavik
+910150,,du Plateau | du Marigot,,45.42265,-75.806903,,,0,,,,du Plateau et du Marigot
+910151,,du Plateau | du Prado,,45.43608,-75.802491,,,0,,,,du Plateau et du Prado
+910152,,du Plateau | du Prado,,45.436276,-75.802161,,,0,,,,du Plateau et du Prado
+910153,,du Plateau | des Grives,,45.434644,-75.781556,,,0,,,,du Plateau et des Grives
+910154,,du Plateau | des Grives,,45.435533,-75.779853,,,0,,,,du Plateau et des Grives
+910155,,du Plateau | de l'Atmosphère,,45.436297,-75.771943,,,0,,,,du Plateau et de l'Atmosphère
+910156,,du Plateau | de l'Atmosphère,,45.436436,-75.772394,,,0,,,,du Plateau et de l'Atmosphère
+921006,,Principale Est | de la Prairie,,45.643215,-76.031897,,,0,,,,Principale Est et de la Prairie
 921010,,de Ste-Cécile-de-Masham | Stationnement P17 (Arrêt de courtoisie),,45.628023,-75.938798,,,0,,,,de Sainte-Cécile-de-Masham et Stationnement P17 (Arrêt de courtoisie)
 921011,,de Ste-Cécile-de-Masham | Stationnement P17 (Arrêt de courtoisie),,45.627822,-75.938568,,,0,,,,de Sainte-Cécile-de-Masham et Stationnement P17 (Arrêt de courtoisie)
-921022,,Stationnement Incitatif Old Chelsea,,45.5029125,-75.8077928,,,0,,,,Stationnement Incitatif Old Chelsea
-921024,,Accueil CCN,,45.505109,-75.8123488,,,0,,,,Accueil C C N
-921025,,Scott | Old Chelsea,,45.5031925,-75.8114227,,,0,,,,Scott et Old Chelsea
-921032,,Station les Galeries de Hull,,45.4416119677645,-75.7283334631707,,,0,,,,Station les Galeries de Hull
+921022,,Stationnement Incitatif Old Chelsea,,45.502913,-75.807793,,,0,,,,Stationnement Incitatif Old Chelsea
+921024,,Accueil CCN,,45.505109,-75.812349,,,0,,,,Accueil C C N
+921025,,Scott | Old Chelsea,,45.503193,-75.811423,,,0,,,,Scott et Old Chelsea
+921032,,Station les Galeries de Hull,,45.441612,-75.728333,,,0,,,,Station les Galeries de Hull
 921034,,de la Cité-des-Jeunes | Cégep Héritage,,45.457066,-75.765405,,,0,,,,de la Cité-des-Jeunes et Cégep Héritage
-921039,,Église St-Stephen's (Arrêt de courtoisie),,45.5030097,-75.8076141,,,0,,,,Église Saint-Stephen's (Arrêt de courtoisie)
-921043,,Scott | Preston,,45.5113347,-75.8107766,,,0,,,,Scott et Preston
-921045,,Route 105 | Léa,,45.6006451899729,-75.9016063283139,,,0,,,,Route 105 et Léa
-921062,,Principale Est | Passe-Partout,,45.6411688,-76.0374754,,,0,,,,Principale Est et Passe-Partout
-921067,,Principale Est | de la Prairie,,45.6433038,-76.0316814,,,0,,,,Principale Est et de la Prairie
+921039,,Église St-Stephen's (Arrêt de courtoisie),,45.50301,-75.807614,,,0,,,,Église Saint-Stephen's (Arrêt de courtoisie)
+921043,,Scott | Preston,,45.511335,-75.810777,,,0,,,,Scott et Preston
+921045,,Route 105 | Léa,,45.600645,-75.901606,,,0,,,,Route 105 et Léa
+921062,,Principale Est | Passe-Partout,,45.641169,-76.037475,,,0,,,,Principale Est et Passe-Partout
+921067,,Principale Est | de la Prairie,,45.643304,-76.031681,,,0,,,,Principale Est et de la Prairie
 921072,,Scott | Lilsam,,45.518953,-75.808318,,,0,,,,Scott et Lilsam
 921073,,Scott | des Cerisiers (Arrêt de courtoisie),,45.523458,-75.80556,,,0,,,,Scott et des Cerisiers (Arrêt de courtoisie)
-921078,,Route 105 | Doucette-Landing,,45.5337083,-75.8067259,,,0,,,,Route 105 et Doucette-Landing
-921082,,Route 105 | Ojai,,45.539581,-75.8140882,,,0,,,,Route 105 et Ojai
-921100,,Route 105 | Ditchfield,,45.5627863,-75.8433362,,,0,,,,Route 105 et Ditchfield
-921109,,Route 105 | Pine (Arrêt de courtoisie),,45.5785812,-75.8763898,,,0,,,,Route 105 et Pine (Arrêt de courtoisie)
-921114,,Route 105 | Hammond (Arrêt de courtoisie),,45.5888552,-75.8892355,,,0,,,,Route 105 et Hammond (Arrêt de courtoisie)
-921115,,Route 105 | Croissant (Arrêt de courtoisie),,45.5917342,-75.891227,,,0,,,,Route 105 et Croissant (Arrêt de courtoisie)
-922001,,de la Paix | Daly,,45.4837038815868,-75.8809454255217,,,0,,,,de la Paix et Daly
-922002,,Hollow Glen | Dupuis,,45.485592377465,-75.8884329991015,,,0,,,,Hollow Glen et Dupuis
-922003,,Cadillac | Beamish,,45.4876170615825,-75.8839493200226,,,0,,,,Cadillac et Beamish
-922004,,de la Montagne | Kelly,,45.4845979368936,-75.8675898582577,,,0,,,,de la Montagne et Kelly
-922005,,Kelly | de la Montagne,,45.4845453457978,-75.867548942555,,,0,,,,Kelly et de la Montagne
+921078,,Route 105 | Doucette-Landing,,45.533708,-75.806726,,,0,,,,Route 105 et Doucette-Landing
+921082,,Route 105 | Ojai,,45.539581,-75.814088,,,0,,,,Route 105 et Ojai
+921100,,Route 105 | Ditchfield,,45.562786,-75.843336,,,0,,,,Route 105 et Ditchfield
+921109,,Route 105 | Pine (Arrêt de courtoisie),,45.578581,-75.87639,,,0,,,,Route 105 et Pine (Arrêt de courtoisie)
+921114,,Route 105 | Hammond (Arrêt de courtoisie),,45.588855,-75.889235,,,0,,,,Route 105 et Hammond (Arrêt de courtoisie)
+921115,,Route 105 | Croissant (Arrêt de courtoisie),,45.591734,-75.891227,,,0,,,,Route 105 et Croissant (Arrêt de courtoisie)
+922001,,de la Paix | Daly,,45.483704,-75.880945,,,0,,,,de la Paix et Daly
+922002,,Hollow Glen | Dupuis,,45.485592,-75.888433,,,0,,,,Hollow Glen et Dupuis
+922003,,Cadillac | Beamish,,45.487617,-75.883949,,,0,,,,Cadillac et Beamish
+922004,,de la Montagne | Kelly,,45.484598,-75.86759,,,0,,,,de la Montagne et Kelly
+922005,,Kelly | de la Montagne,,45.484545,-75.867549,,,0,,,,Kelly et de la Montagne
 922006,,Pink | de la Sapinière,,45.445194,-75.772766,,,0,,,,Pink et de la Sapinière
 922008,,de la Cité-des-Jeunes | Cégep Héritage,,45.456786,-75.765029,,,0,,,,de la Cité-des-Jeunes et Cégep Héritage
-922025,,Beamish | de la Montagne,,45.4891053118843,-75.8796700596295,,,0,,,,Beamish et de la Montagne
-922026,,de la Montagne | Apollo (Arrêt de courtoisie),,45.4882026,-75.8783797,,,0,,,,de la Montagne et Apollo (Arrêt de courtoisie)
-922028,,de la Montagne | Champagnac (Arrêt de courtoisie),,45.4867192,-75.875901,,,0,,,,de la Montagne et Champagnac (Arrêt de courtoisie)
-922030,,de la Montagne | Hickey  (Arrêt de courtoisie),,45.4856792,-75.8722465,,,0,,,,de la Montagne et Hickey  (Arrêt de courtoisie)
+922025,,Beamish | de la Montagne,,45.489105,-75.87967,,,0,,,,Beamish et de la Montagne
+922026,,de la Montagne | Apollo (Arrêt de courtoisie),,45.488203,-75.87838,,,0,,,,de la Montagne et Apollo (Arrêt de courtoisie)
+922028,,de la Montagne | Champagnac (Arrêt de courtoisie),,45.486719,-75.875901,,,0,,,,de la Montagne et Champagnac (Arrêt de courtoisie)
+922030,,de la Montagne | Hickey  (Arrêt de courtoisie),,45.485679,-75.872246,,,0,,,,de la Montagne et Hickey  (Arrêt de courtoisie)
 922034,,de la Cité-des-Jeunes | Cégep Gabrielle-Roy,,45.460816,-75.768033,,,0,,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
-922035,,Lionel-Émond | Gamelin,,45.4432844195357,-75.7476189996883,,,0,,,,Lionel-Émond et Gamelin
-922036,,Pink | de la Sapinière,,45.4453891039081,-75.7737820242939,,,0,,,,Pink et de la Sapinière
-922037,,de la Montagne | Kelly,,45.4846955783028,-75.8673295279166,,,0,,,,de la Montagne et Kelly
-922040,,de la Montagne | Hickey (Arrêt de courtoisie),,45.4858013,-75.8722175,,,0,,,,de la Montagne et Hickey (Arrêt de courtoisie)
-922042,,de la Montagne | Champagnac (Arrêt de courtoisie),,45.4868265,-75.8758122,,,0,,,,de la Montagne et Champagnac (Arrêt de courtoisie)
-922044,,de la Montagne | Apollo (Arrêt de courtoisie),,45.4883259,-75.8783554,,,0,,,,de la Montagne et Apollo (Arrêt de courtoisie)
-922045,,Beamish | de la Montagne,,45.4892616747474,-75.8796080900021,,,0,,,,Beamish et de la Montagne
-922048,,Cadillac | Beamish,,45.4877933554111,-75.8839813630914,,,0,,,,Cadillac et Beamish
-922053,,Hollow Glen | Dupuis,,45.4856875765911,-75.8886277764394,,,0,,,,Hollow Glen et Dupuis
-922060,,de la Paix | Daly,,45.4835498212191,-75.8812154321499,,,0,,,,de la Paix et Daly
-922066,,Kelly | de la Montagne,,45.4845853613839,-75.8673664138893,,,0,,,,Kelly et de la Montagne
+922035,,Lionel-Émond | Gamelin,,45.443284,-75.747619,,,0,,,,Lionel-Émond et Gamelin
+922036,,Pink | de la Sapinière,,45.445389,-75.773782,,,0,,,,Pink et de la Sapinière
+922037,,de la Montagne | Kelly,,45.484696,-75.86733,,,0,,,,de la Montagne et Kelly
+922040,,de la Montagne | Hickey (Arrêt de courtoisie),,45.485801,-75.872217,,,0,,,,de la Montagne et Hickey (Arrêt de courtoisie)
+922042,,de la Montagne | Champagnac (Arrêt de courtoisie),,45.486827,-75.875812,,,0,,,,de la Montagne et Champagnac (Arrêt de courtoisie)
+922044,,de la Montagne | Apollo (Arrêt de courtoisie),,45.488326,-75.878355,,,0,,,,de la Montagne et Apollo (Arrêt de courtoisie)
+922045,,Beamish | de la Montagne,,45.489262,-75.879608,,,0,,,,Beamish et de la Montagne
+922048,,Cadillac | Beamish,,45.487793,-75.883981,,,0,,,,Cadillac et Beamish
+922053,,Hollow Glen | Dupuis,,45.485688,-75.888628,,,0,,,,Hollow Glen et Dupuis
+922060,,de la Paix | Daly,,45.48355,-75.881215,,,0,,,,de la Paix et Daly
+922066,,Kelly | de la Montagne,,45.484585,-75.867366,,,0,,,,Kelly et de la Montagne
 922100,,de la Montagne | Vanier,,45.463697,-75.821762,,,0,,,,de la Montagne et Vanier
 922101,,de la Montagne | Vanier,,45.463928,-75.822148,,,0,,,,de la Montagne et Vanier
 922102,,de la Cité-des-Jeunes | Centre Asticou,,45.451253,-75.757651,,,0,,,,de la Cité-des-Jeunes et Centre Asticou
 922103,,de la Cité-des-Jeunes | Centre Asticou,,45.450341,-75.756958,,,0,,,,de la Cité-des-Jeunes et Centre Asticou
-923002,,Riverside | Maclaren,,45.6499323701302,-75.9255560858065,,,0,,,,Riverside et Maclaren
-923004,,Route 105 | de la Rivière,,45.5739456763899,-75.8706927759655,,,0,,,,Route 105 et de la Rivière
-923005,,Route 105 | Mill,,45.5077814,-75.7856429,,,0,,,,Route 105 et Mill
-923006,,Route 105 | Loretta,,45.4885709,-75.7593837,,,0,,,,Route 105 et Loretta
-923009,,Édifice Louis St-Laurent,,45.4441477269922,-75.7278031427326,,,0,,,,Édifice Louis Saint-Laurent
-923010,,Place Cartier,,45.4447305698737,-75.7328365887404,,,0,,,,Place Cartier
-923013,,Route 105 | Loretta,,45.4889247,-75.7595362,,,0,,,,Route 105 et Loretta
-923015,,Old Chelsea | Scott,,45.5031200735904,-75.8109262444277,,,0,,,,Old Chelsea et Scott
-923016,,Route 105 | Mill,,45.5078247,-75.7855395,,,0,,,,Route 105 et Mill
-923019,,Église St-Clément,,45.6025453,-75.8926949,,,0,,,,Église Saint-Clément
-923020,,Église St-Clément,,45.6024347810717,-75.8933488687275,,,0,,,,Église Saint-Clément
-923022,,Riverside | Maclaren,,45.6499764636069,-75.9252105548331,,,0,,,,Riverside et Maclaren
-923034,,Principale Est | Gosselin,,45.6433893,-76.0280532,,,0,,,,Principale Est et Gosselin
-923035,,Principale Est | Gosselin,,45.6432807,-76.027769,,,0,,,,Principale Est et Gosselin
-923047,,Principale Est | de la Beurrerie,,45.6446669,-76.0145183,,,0,,,,Principale Est et de la Beurrerie
-923051,,Principale Est | Kennedy,,45.6462695,-76.0063394,,,0,,,,Principale Est et Kennedy
-923059,,Principale Est | Richard,,45.6460912,-75.9870939,,,0,,,,Principale Est et Richard
-923060,,Principale Est | Vaillant,,45.6457669,-75.9865396,,,0,,,,Principale Est et Vaillant
-923069,,Principale Est | Brisebois,,45.6467158,-75.969001,,,0,,,,Principale Est et Brisebois
+923002,,Riverside | Maclaren,,45.649932,-75.925556,,,0,,,,Riverside et Maclaren
+923004,,Route 105 | de la Rivière,,45.573946,-75.870693,,,0,,,,Route 105 et de la Rivière
+923006,,Route 105 | Loretta,,45.488571,-75.759384,,,0,,,,Route 105 et Loretta
+923009,,Édifice Louis St-Laurent,,45.444148,-75.727803,,,0,,,,Édifice Louis Saint-Laurent
+923010,,Place Cartier,,45.444731,-75.732837,,,0,,,,Place Cartier
+923013,,Route 105 | Loretta,,45.488925,-75.759536,,,0,,,,Route 105 et Loretta
+923015,,Old Chelsea | Scott,,45.50312,-75.810926,,,0,,,,Old Chelsea et Scott
+923019,,Église St-Clément,,45.602545,-75.892695,,,0,,,,Église Saint-Clément
+923020,,Église St-Clément,,45.602435,-75.893349,,,0,,,,Église Saint-Clément
+923022,,Riverside | Maclaren,,45.649976,-75.925211,,,0,,,,Riverside et Maclaren
+923034,,Principale Est | Gosselin,,45.643389,-76.028053,,,0,,,,Principale Est et Gosselin
+923035,,Principale Est | Gosselin,,45.643281,-76.027769,,,0,,,,Principale Est et Gosselin
+923047,,Principale Est | de la Beurrerie,,45.644667,-76.014518,,,0,,,,Principale Est et de la Beurrerie
+923051,,Principale Est | Kennedy,,45.64627,-76.006339,,,0,,,,Principale Est et Kennedy
+923059,,Principale Est | Richard,,45.646091,-75.987094,,,0,,,,Principale Est et Richard
+923060,,Principale Est | Vaillant,,45.645767,-75.98654,,,0,,,,Principale Est et Vaillant
+923069,,Principale Est | Brisebois,,45.646716,-75.969001,,,0,,,,Principale Est et Brisebois
 923081,,Riverside | Gendron,,45.64727,-75.92746,,,0,,,,Riverside et Gendron
-923082,,Riverside | Gendron,,45.6475651112623,-75.9273735920493,,,0,,,,Riverside et Gendron
-923083,,Riverside | Elmdale,,45.6455943,-75.9283064,,,0,,,,Riverside et Elmdale
-923084,,Riverside | École Wakefield,,45.6446646,-75.9280677,,,0,,,,Riverside et École Wakefield
-923087,,Stationnement Incitatif de la Locomotive,,45.6420437,-75.9275634,,,0,,,,Stationnement Incitatif de la Locomotive
-923088,,Riverside | de la Légion,,45.6417586,-75.9277391,,,0,,,,Riverside et de la Légion
-923089,,Riverside | Burnside,,45.6399054,-75.9291919,,,0,,,,Riverside et Burnside
+923082,,Riverside | Gendron,,45.647565,-75.927374,,,0,,,,Riverside et Gendron
+923083,,Riverside | Elmdale,,45.645594,-75.928306,,,0,,,,Riverside et Elmdale
+923084,,Riverside | École Wakefield,,45.644665,-75.928068,,,0,,,,Riverside et École Wakefield
+923087,,Stationnement Incitatif de la Locomotive,,45.642044,-75.927563,,,0,,,,Stationnement Incitatif de la Locomotive
+923088,,Riverside | de la Légion,,45.641759,-75.927739,,,0,,,,Riverside et de la Légion
+923089,,Riverside | Burnside,,45.639905,-75.929192,,,0,,,,Riverside et Burnside
 923090,,Riverside | Burnside,,45.639955,-75.928804,,,0,,,,Riverside et Burnside
-923093,,Riverside | Mill,,45.6362367,-75.9301086,,,0,,,,Riverside et Mill
-923094,,Près du 740 Riverside,,45.6350429,-75.9290917,,,0,,,,Près du 740 Riverside
-923095,,de la Vallée de Wakefield | Riverside,,45.6330837,-75.9277341,,,0,,,,de la Vallée de Wakefield et Riverside
-923096,,Riverside | de la Vallée de Wakefield,,45.6333574,-75.9279256,,,0,,,,Riverside et de la Vallée de Wakefield
+923093,,Riverside | Mill,,45.636237,-75.930109,,,0,,,,Riverside et Mill
+923094,,Près du 740 Riverside,,45.635043,-75.929092,,,0,,,,Près du 740 Riverside
+923095,,de la Vallée de Wakefield | Riverside,,45.633084,-75.927734,,,0,,,,de la Vallée de Wakefield et Riverside
+923096,,Riverside | de la Vallée de Wakefield,,45.633357,-75.927926,,,0,,,,Riverside et de la Vallée de Wakefield
 923137,,de la Rivière | St-Clément,,45.603752,-75.889684,,,0,,,,de la Rivière et Saint-Clément
-923138,,St-Clément | de la Rivière,,45.6037327,-75.8900744,,,0,,,,Saint-Clément et de la Rivière
-923141,,de la Rivière | de la Carrière,,45.6004295,-75.8833793,,,0,,,,de la Rivière et de la Carrière
-923142,,de la Rivière | de la Carrière,,45.6001685,-75.8833895,,,0,,,,de la Rivière et de la Carrière
-923147,,de la Rivière | Carnochan (Arrêt de courtoisie),,45.5955992,-75.8799123,,,0,,,,de la Rivière et Carnochan (Arrêt de courtoisie)
-923148,,de la Rivière | Carnochan (Arrêt de courtoisie),,45.5954739,-75.8798459,,,0,,,,de la Rivière et Carnochan (Arrêt de courtoisie)
-923157,,de la Rivière | Jenness,,45.5829205111258,-75.873926568161,,,0,,,,de la Rivière et Jenness
-923158,,de la Rivière | Jenness,,45.5832129554804,-75.8736387901802,,,0,,,,de la Rivière et Jenness
-923159,,de la Rivière | Mountainview,,45.5816995188251,-75.8754723201633,,,0,,,,de la Rivière et Mountainview
-923160,,de la Rivière | Mountainview,,45.58163172743,-75.8753348891357,,,0,,,,de la Rivière et Mountainview
-923161,,de la Rivière | Pine,,45.5789839573841,-75.8714899960979,,,0,,,,de la Rivière et Pine
+923138,,St-Clément | de la Rivière,,45.603733,-75.890074,,,0,,,,Saint-Clément et de la Rivière
+923141,,de la Rivière | de la Carrière,,45.60043,-75.883379,,,0,,,,de la Rivière et de la Carrière
+923142,,de la Rivière | de la Carrière,,45.600169,-75.883389,,,0,,,,de la Rivière et de la Carrière
+923147,,de la Rivière | Carnochan (Arrêt de courtoisie),,45.595599,-75.879912,,,0,,,,de la Rivière et Carnochan (Arrêt de courtoisie)
+923148,,de la Rivière | Carnochan (Arrêt de courtoisie),,45.595474,-75.879846,,,0,,,,de la Rivière et Carnochan (Arrêt de courtoisie)
+923157,,de la Rivière | Jenness,,45.582921,-75.873927,,,0,,,,de la Rivière et Jenness
+923158,,de la Rivière | Jenness,,45.583213,-75.873639,,,0,,,,de la Rivière et Jenness
+923159,,de la Rivière | Mountainview,,45.5817,-75.875472,,,0,,,,de la Rivière et Mountainview
+923160,,de la Rivière | Mountainview,,45.581632,-75.875335,,,0,,,,de la Rivière et Mountainview
+923161,,de la Rivière | Pine,,45.578984,-75.87149,,,0,,,,de la Rivière et Pine
 923162,,de la Rivière | Pine,,45.579009,-75.871681,,,0,,,,de la Rivière et Pine
-923167,,Près du 178 chemin de la Rivière,,45.591443,-75.8728183,,,0,,,,Près du 178 chemin de la Rivière
-923168,,Près du 177 chemin de la Rivière,,45.5914079,-75.8729432,,,0,,,,Près du 177 chemin de la Rivière
-923169,,Près du 150 chemin de la Rivière (Arrêt de courtoisie),,45.5887902,-75.8697018,,,0,,,,Près du 150 chemin de la Rivière (Arrêt de courtoisie)
-923170,,Près du 149 chemin de la Rivière (Arrêt de courtoisie),,45.5887106,-75.8698139,,,0,,,,Près du 149 chemin de la Rivière (Arrêt de courtoisie)
-923171,,Près du 126 chemin de la Rivière,,45.5857811,-75.8702004,,,0,,,,Près du 126 chemin de la Rivière
-923172,,Près du 126 chemin de la Rivière,,45.5858351152183,-75.8703298990607,,,0,,,,Près du 126 chemin de la Rivière
-923179,,Route 105 | Thomas,,45.5713289,-75.8652588,,,0,,,,Route 105 et Thomas
-923183,,Route 105 | Burnett,,45.5684095,-75.8539143,,,0,,,,Route 105 et Burnett
-923193,,Route 105 | Old Sawmill,,45.5595113,-75.8373271,,,0,,,,Route 105 et Old Sawmill
-923194,,Route 105 | Radapaw,,45.5596041,-75.8382805,,,0,,,,Route 105 et Radapaw
-923210,,Route 105 | Sherrin,,45.5513188,-75.8232074,,,0,,,,Route 105 et Sherrin
-923216,,Route 105 | Wilson,,45.5476908,-75.8209535,,,0,,,,Route 105 et Wilson
-923217,,Route 105 | Reid,,45.5472527,-75.8210751,,,0,,,,Route 105 et Reid
-923238,,Route 105 | Montrose,,45.531262,-75.8053111,,,0,,,,Route 105 et Montrose
-923239,,Route 105 | Montrose,,45.5312117,-75.805413,,,0,,,,Route 105 et Montrose
-923244,,Route 105 | Juniper,,45.5272894,-75.8046328,,,0,,,,Route 105 et Juniper
-923247,,Scott | des Cerisiers,,45.523473,-75.8057652,,,0,,,,Scott et des Cerisiers
-923249,,Scott | Lilsam,,45.5188934,-75.808532,,,0,,,,Scott et Lilsam
-923253,,Scott | Preston,,45.5111356,-75.8109632,,,0,,,,Scott et Preston
-923257,,Old Chelsea | Boischatel (Arrêt de courtoisie),,45.5038788,-75.7928859,,,0,,,,Old Chelsea et Boischatel (Arrêt de courtoisie)
-923258,,Old Chelsea | Boischatel (Arrêt de courtoisie),,45.5040081,-75.7927248,,,0,,,,Old Chelsea et Boischatel (Arrêt de courtoisie)
-923259,,Old Chelsea | Ladyfield (Arrêt de courtoisie),,45.5032078,-75.8039693,,,0,,,,Old Chelsea et Ladyfield (Arrêt de courtoisie)
-923260,,Old Chelsea | Ladyfield (Arrêt de courtoisie),,45.5030453,-75.8043443,,,0,,,,Old Chelsea et Ladyfield (Arrêt de courtoisie)
-923263,,Old Chelsea | de l'Hôtel de Ville (Arrêt de courtoisie),,45.5038317,-75.795139,,,0,,,,Old Chelsea et de l'Hôtel de Ville (Arrêt de courtoisie)
-923264,,Old Chelsea | Jean-Paul-Lemieux (Arrêt de courtoisie),,45.5037272,-75.7951798,,,0,,,,Old Chelsea et Jean-Paul-Lemieux (Arrêt de courtoisie)
-923265,,Old Chelsea | du Relais (Arrêt de courtoisie),,45.5041717,-75.7904616,,,0,,,,Old Chelsea et du Relais (Arrêt de courtoisie)
-923266,,Old Chelsea | du Relais (Arrêt de courtoisie),,45.5040769,-75.7903325,,,0,,,,Old Chelsea et du Relais (Arrêt de courtoisie)
-923267,,Old Chelsea | Boisjoli (Arrêt de courtoisie),,45.5043982,-75.7878063,,,0,,,,Old Chelsea et Boisjoli (Arrêt de courtoisie)
-923268,,Old Chelsea | Boisjoli (Arrêt de courtoisie),,45.5042061,-75.7880916,,,0,,,,Old Chelsea et Boisjoli (Arrêt de courtoisie)
-923272,,Route 105 | Old Chelsea,,45.504878434721,-75.7837511862169,,,0,,,,Route 105 et Old Chelsea
-923273,,Old Chelsea | Douglas (Arrêt de courtoisie),,45.5044652,-75.7861359,,,0,,,,Old Chelsea et Douglas (Arrêt de courtoisie)
-923274,,Old Chelsea | Lonergan (Arrêt de courtoisie),,45.5043518,-75.7863929,,,0,,,,Old Chelsea et Lonergan (Arrêt de courtoisie)
-923275,,Route 105 | Hudson,,45.5033024,-75.7827095,,,0,,,,Route 105 et Hudson
-923276,,Route 105 | Hudson,,45.5031345,-75.7827369,,,0,,,,Route 105 et Hudson
-923279,,Route 105 | Station,,45.5255497,-75.8013174,,,0,,,,Route 105 et Station
-923280,,Route 105 | Station,,45.5253864,-75.8003871,,,0,,,,Route 105 et Station
-923285,,Route 105 | Meredith,,45.5243589,-75.7927324,,,0,,,,Route 105 et Meredith
-923286,,Route 105 | Meredith,,45.524308,-75.792844,,,0,,,,Route 105 et Meredith
-923299,,Route 105 | Peter's Point,,45.5158176,-75.7926477,,,0,,,,Route 105 et Peter's Point
-923300,,Route 105 | Peter's Point,,45.5159051,-75.7929094,,,0,,,,Route 105 et Peter's Point
-923305,,Route 105 | Church,,45.5101871940042,-75.7903817802736,,,0,,,,Route 105 et Church
-923306,,Route 105 | Church,,45.5100100622656,-75.7903996223262,,,0,,,,Route 105 et Church
-923311,,Près du 490 route 105,,45.5053643,-75.7838866,,,0,,,,Près du 490 route 105
-923318,,Route 105 | Fleury (Arrêt de courtoisie),,45.4972716,-75.7792329,,,0,,,,Route 105 et Fleury (Arrêt de courtoisie)
-923320,,Route 105 | Deschênes (Arrêt de courtoisie),,45.4966683,-75.7782479,,,0,,,,Route 105 et Deschênes (Arrêt de courtoisie)
-923321,,Route 105 | Brock (Arrêt de courtoisie),,45.4952134,-75.7749623,,,0,,,,Route 105 et Brock (Arrêt de courtoisie)
-923322,,Route 105 | Centennial (Arrêt de courtoisie),,45.4949027,-75.7746002,,,0,,,,Route 105 et Centennial (Arrêt de courtoisie)
-923331,,Route 105 | des Artisans (Arrêt de courtoisie),,45.493112,-75.7706565,,,0,,,,Route 105 et des Artisans (Arrêt de courtoisie)
-923332,,Route 105 | des Artisans (Arrêt de courtoisie),,45.4930157,-75.7706834,,,0,,,,Route 105 et des Artisans (Arrêt de courtoisie)
+923167,,Près du 178 chemin de la Rivière,,45.591443,-75.872818,,,0,,,,Près du 178 chemin de la Rivière
+923168,,Près du 177 chemin de la Rivière,,45.591408,-75.872943,,,0,,,,Près du 177 chemin de la Rivière
+923169,,Près du 150 chemin de la Rivière (Arrêt de courtoisie),,45.58879,-75.869702,,,0,,,,Près du 150 chemin de la Rivière (Arrêt de courtoisie)
+923170,,Près du 149 chemin de la Rivière (Arrêt de courtoisie),,45.588711,-75.869814,,,0,,,,Près du 149 chemin de la Rivière (Arrêt de courtoisie)
+923171,,Près du 126 chemin de la Rivière,,45.585781,-75.8702,,,0,,,,Près du 126 chemin de la Rivière
+923172,,Près du 126 chemin de la Rivière,,45.585835,-75.87033,,,0,,,,Près du 126 chemin de la Rivière
+923179,,Route 105 | Thomas,,45.571329,-75.865259,,,0,,,,Route 105 et Thomas
+923183,,Route 105 | Burnett,,45.56841,-75.853914,,,0,,,,Route 105 et Burnett
+923193,,Route 105 | Old Sawmill,,45.559511,-75.837327,,,0,,,,Route 105 et Old Sawmill
+923194,,Route 105 | Radapaw,,45.559604,-75.83828,,,0,,,,Route 105 et Radapaw
+923210,,Route 105 | Sherrin,,45.551319,-75.823207,,,0,,,,Route 105 et Sherrin
+923216,,Route 105 | Wilson,,45.547691,-75.820953,,,0,,,,Route 105 et Wilson
+923217,,Route 105 | Reid,,45.547253,-75.821075,,,0,,,,Route 105 et Reid
+923238,,Route 105 | Montrose,,45.531262,-75.805311,,,0,,,,Route 105 et Montrose
+923239,,Route 105 | Montrose,,45.531212,-75.805413,,,0,,,,Route 105 et Montrose
+923244,,Route 105 | Juniper,,45.527289,-75.804633,,,0,,,,Route 105 et Juniper
+923247,,Scott | des Cerisiers,,45.523473,-75.805765,,,0,,,,Scott et des Cerisiers
+923249,,Scott | Lilsam,,45.518893,-75.808532,,,0,,,,Scott et Lilsam
+923253,,Scott | Preston,,45.511136,-75.810963,,,0,,,,Scott et Preston
+923257,,Old Chelsea | Boischatel (Arrêt de courtoisie),,45.503879,-75.792886,,,0,,,,Old Chelsea et Boischatel (Arrêt de courtoisie)
+923258,,Old Chelsea | Boischatel (Arrêt de courtoisie),,45.504008,-75.792725,,,0,,,,Old Chelsea et Boischatel (Arrêt de courtoisie)
+923259,,Old Chelsea | Ladyfield (Arrêt de courtoisie),,45.503208,-75.803969,,,0,,,,Old Chelsea et Ladyfield (Arrêt de courtoisie)
+923260,,Old Chelsea | Ladyfield (Arrêt de courtoisie),,45.503045,-75.804344,,,0,,,,Old Chelsea et Ladyfield (Arrêt de courtoisie)
+923263,,Old Chelsea | de l'Hôtel de Ville (Arrêt de courtoisie),,45.503832,-75.795139,,,0,,,,Old Chelsea et de l'Hôtel de Ville (Arrêt de courtoisie)
+923264,,Old Chelsea | Jean-Paul-Lemieux (Arrêt de courtoisie),,45.503727,-75.79518,,,0,,,,Old Chelsea et Jean-Paul-Lemieux (Arrêt de courtoisie)
+923265,,Old Chelsea | du Relais (Arrêt de courtoisie),,45.504172,-75.790462,,,0,,,,Old Chelsea et du Relais (Arrêt de courtoisie)
+923266,,Old Chelsea | du Relais (Arrêt de courtoisie),,45.504077,-75.790332,,,0,,,,Old Chelsea et du Relais (Arrêt de courtoisie)
+923267,,Old Chelsea | Boisjoli (Arrêt de courtoisie),,45.504398,-75.787806,,,0,,,,Old Chelsea et Boisjoli (Arrêt de courtoisie)
+923268,,Old Chelsea | Boisjoli (Arrêt de courtoisie),,45.504206,-75.788092,,,0,,,,Old Chelsea et Boisjoli (Arrêt de courtoisie)
+923273,,Old Chelsea | Douglas (Arrêt de courtoisie),,45.504465,-75.786136,,,0,,,,Old Chelsea et Douglas (Arrêt de courtoisie)
+923274,,Old Chelsea | Lonergan (Arrêt de courtoisie),,45.504352,-75.786393,,,0,,,,Old Chelsea et Lonergan (Arrêt de courtoisie)
+923275,,Route 105 | Hudson,,45.503302,-75.782709,,,0,,,,Route 105 et Hudson
+923276,,Route 105 | Hudson,,45.503135,-75.782737,,,0,,,,Route 105 et Hudson
+923318,,Route 105 | Fleury (Arrêt de courtoisie),,45.497272,-75.779233,,,0,,,,Route 105 et Fleury (Arrêt de courtoisie)
+923320,,Route 105 | Deschênes (Arrêt de courtoisie),,45.496668,-75.778248,,,0,,,,Route 105 et Deschênes (Arrêt de courtoisie)
+923321,,Route 105 | Brock (Arrêt de courtoisie),,45.495213,-75.774962,,,0,,,,Route 105 et Brock (Arrêt de courtoisie)
+923322,,Route 105 | Centennial (Arrêt de courtoisie),,45.494903,-75.7746,,,0,,,,Route 105 et Centennial (Arrêt de courtoisie)
+923331,,Route 105 | des Artisans (Arrêt de courtoisie),,45.493112,-75.770656,,,0,,,,Route 105 et des Artisans (Arrêt de courtoisie)
+923332,,Route 105 | des Artisans (Arrêt de courtoisie),,45.493016,-75.770683,,,0,,,,Route 105 et des Artisans (Arrêt de courtoisie)
 923335,,Route 105 | Patrick (Arrêt de courtoisie),,45.490735,-75.764524,,,0,,,,Route 105 et Patrick (Arrêt de courtoisie)
-923336,,Route 105 | Patrick (Arrêt de courtoisie),,45.4905874,-75.7642839,,,0,,,,Route 105 et Patrick (Arrêt de courtoisie)
-923352,,Route 105 | Ojai,,45.5395493,-75.8142086,,,0,,,,Route 105 et Ojai
-923354,,Route 105 | Thomas,,45.5712318,-75.8651445,,,0,,,,Route 105 et Thomas
+923336,,Route 105 | Patrick (Arrêt de courtoisie),,45.490587,-75.764284,,,0,,,,Route 105 et Patrick (Arrêt de courtoisie)
+923352,,Route 105 | Ojai,,45.539549,-75.814209,,,0,,,,Route 105 et Ojai
+923354,,Route 105 | Thomas,,45.571232,-75.865144,,,0,,,,Route 105 et Thomas
 923400,,St-Joseph | Parc-O-Bus Freeman,,45.473502,-75.74048,,,0,,,,Saint-Joseph et Parc-O-Bus Freeman
 923401,,St-Joseph | Juneau,,45.475419,-75.742482,,,0,,,,Saint-Joseph et Juneau
 923402,,St-Joseph | Jean-Proulx,,45.469532,-75.738323,,,0,,,,Saint-Joseph et Jean-Proulx
@@ -155,269 +298,274 @@
 923409,,de la Carrière | Adrien-Robert,,45.45888,-75.733555,,,0,,,,de la Carrière et Adrien-Robert
 923410,,de la Carrière | du Casino,,45.450535,-75.729283,,,0,,,,de la Carrière et du Casino
 923411,,de la Carrière | Atawe,,45.452238,-75.729506,,,0,,,,de la Carrière et Atawe
-925006,,Route 105 | de la Rivière,,45.5737112670101,-75.870314352714,,,0,,,,Route 105 et de la Rivière
-925034,,Principale Est | de la Beurrerie,,45.6444927,-76.0147885,,,0,,,,Principale Est et de la Beurrerie
-925038,,Principale Est | Kennedy,,45.6462169,-76.0062205,,,0,,,,Principale Est et Kennedy
-925041,,Principale Est | Charlevoix,,45.6485447,-75.9962858,,,0,,,,Principale Est et Charlevoix
-925042,,Principale Est | Charlevoix,,45.6484429,-75.9963305,,,0,,,,Principale Est et Charlevoix
-925047,,Principale Est | Murray,,45.6450508,-75.9830842,,,0,,,,Principale Est et Murray
-925048,,Principale Est | Murray,,45.6449078,-75.9825189,,,0,,,,Principale Est et Murray
-925056,,Principale Est | Philippe,,45.6470196,-75.9679523,,,0,,,,Principale Est et Philippe
-925067,,Route 105 | Place des Collines,,45.6250391,-75.9347822,,,0,,,,Route 105 et Place des Collines
-925068,,Route 105 | Place des Collines,,45.6247515,-75.9348446,,,0,,,,Route 105 et Place des Collines
-925073,,Route 105 | Valle Verde,,45.620667,-75.9268834,,,0,,,,Route 105 et Valle Verde
-925074,,Route 105 | du Progrès,,45.61987,-75.9252766,,,0,,,,Route 105 et du Progrès
-925083,,Route 105 | Carman,,45.6050466,-75.9058611,,,0,,,,Route 105 et Carman
-925084,,Route 105 | Carman,,45.6056778,-75.9067495,,,0,,,,Route 105 et Carman
-925089,,Route 105 | St-Clément,,45.5996345,-75.900645,,,0,,,,Route 105 et Saint-Clément
+925006,,Route 105 | de la Rivière,,45.573711,-75.870314,,,0,,,,Route 105 et de la Rivière
+925034,,Principale Est | de la Beurrerie,,45.644493,-76.014788,,,0,,,,Principale Est et de la Beurrerie
+925038,,Principale Est | Kennedy,,45.646217,-76.00622,,,0,,,,Principale Est et Kennedy
+925041,,Principale Est | Charlevoix,,45.648545,-75.996286,,,0,,,,Principale Est et Charlevoix
+925042,,Principale Est | Charlevoix,,45.648443,-75.99633,,,0,,,,Principale Est et Charlevoix
+925047,,Principale Est | Murray,,45.645051,-75.983084,,,0,,,,Principale Est et Murray
+925048,,Principale Est | Murray,,45.644908,-75.982519,,,0,,,,Principale Est et Murray
+925056,,Principale Est | Philippe,,45.64702,-75.967952,,,0,,,,Principale Est et Philippe
+925067,,Route 105 | Place des Collines,,45.625039,-75.934782,,,0,,,,Route 105 et Place des Collines
+925068,,Route 105 | Place des Collines,,45.624752,-75.934845,,,0,,,,Route 105 et Place des Collines
+925073,,Route 105 | Valle Verde,,45.620667,-75.926883,,,0,,,,Route 105 et Valle Verde
+925074,,Route 105 | du Progrès,,45.61987,-75.925277,,,0,,,,Route 105 et du Progrès
+925083,,Route 105 | Carman,,45.605047,-75.905861,,,0,,,,Route 105 et Carman
+925084,,Route 105 | Carman,,45.605678,-75.906749,,,0,,,,Route 105 et Carman
+925089,,Route 105 | St-Clément,,45.599635,-75.900645,,,0,,,,Route 105 et Saint-Clément
 925095,,Route 105 | Burnett,,45.568498,-75.853851,,,0,,,,Route 105 et Burnett
-925108,,Route 105 | Epps,,45.5576464,-75.8345647,,,0,,,,Route 105 et Epps
-925109,,Route 105 | Maple Woods,,45.5571613,-75.8343113,,,0,,,,Route 105 et Maple Woods
-925120,,Route 105 | Sherrin,,45.5513939,-75.8231496,,,0,,,,Route 105 et Sherrin
-925131,,Route 105 | Craiglands,,45.5436804,-75.8204452,,,0,,,,Route 105 et Craiglands
-925138,,Route 105 | Williamson,,45.5380106179655,-75.812226208783,,,0,,,,Route 105 et Williamson
-925139,,Route 105 | Musie,,45.5374771,-75.8116752,,,0,,,,Route 105 et Musie
+925108,,Route 105 | Epps,,45.557646,-75.834565,,,0,,,,Route 105 et Epps
+925109,,Route 105 | Maple Woods,,45.557161,-75.834311,,,0,,,,Route 105 et Maple Woods
+925120,,Route 105 | Sherrin,,45.551394,-75.82315,,,0,,,,Route 105 et Sherrin
+925131,,Route 105 | Craiglands,,45.54368,-75.820445,,,0,,,,Route 105 et Craiglands
+925138,,Route 105 | Williamson,,45.538011,-75.812226,,,0,,,,Route 105 et Williamson
+925139,,Route 105 | Musie,,45.537477,-75.811675,,,0,,,,Route 105 et Musie
 925142,,Route 105 | Forest Hill,,45.5364,-75.808851,,,0,,,,Route 105 et Forest Hill
-925143,,Route 105 | Forest Hill,,45.5363427,-75.8089032,,,0,,,,Route 105 et Forest Hill
-925145,,Route 105 | Doucette-Landing,,45.5336901,-75.8068682,,,0,,,,Route 105 et Doucette-Landing
-925155,,Route 105 | Juniper,,45.5271165,-75.8043371,,,0,,,,Route 105 et Juniper
-925160,,Scott | Belle-Terre,,45.5170897,-75.8087024,,,0,,,,Scott et Belle-Terre
-925161,,Scott | Belle-Terre,,45.516876,-75.8089714,,,0,,,,Scott et Belle-Terre
-925167,,Route 105 | St-Clément,,45.5995654,-75.9008771,,,0,,,,Route 105 et Saint-Clément
-925168,,Route 105 | de la Rivière,,45.5737569793712,-75.8708965906484,,,0,,,,Route 105 et de la Rivière
-925171,,Kingsmere | Notch,,45.5001317921858,-75.8145681878873,,,0,,,,Kingsmere et Notch
-925172,,Kingsmere | Notch,,45.5000380305769,-75.8144208482161,,,0,,,,Kingsmere et Notch
-925177,,Notch | Dunn (Arrêt de courtoisie),,45.4954965,-75.8140471,,,0,,,,Notch et Dunn (Arrêt de courtoisie)
-925178,,Notch | Dunn (Arrêt de courtoisie),,45.495629,-75.8139401,,,0,,,,Notch et Dunn (Arrêt de courtoisie)
-925179,,Notch | Bronson,,45.4929212,-75.8135613,,,0,,,,Notch et Bronson
-925180,,Notch | Bronson,,45.4929092,-75.8137157,,,0,,,,Notch et Bronson
-925181,,Notch | Tamarack (Arrêt de courtoisie),,45.490452,-75.8133872,,,0,,,,Notch et Tamarack (Arrêt de courtoisie)
-925182,,Notch | Tamarack (Arrêt de courtoisie),,45.4906172,-75.8131774,,,0,,,,Notch et Tamarack (Arrêt de courtoisie)
-925183,,Notch | de la Mine,,45.4880037,-75.8129469,,,0,,,,Notch et de la Mine
-925184,,Notch | de la Mine,,45.4878438,-75.8124184,,,0,,,,Notch et de la Mine
-925187,,de la Mine | Link,,45.4875729,-75.8098288,,,0,,,,de la Mine et Link
-925188,,de la Mine | Link,,45.4875036,-75.8098683,,,0,,,,de la Mine et Link
-925193,,de la Mine | Solitude,,45.4842475,-75.8071936,,,0,,,,de la Mine et Solitude
-925194,,de la Mine | Solitude,,45.4840447,-75.8070997,,,0,,,,de la Mine et Solitude
-925195,,de la Mine | Mike (Arrêt de courtoisie),,45.481778,-75.8016938,,,0,,,,de la Mine et Mike (Arrêt de courtoisie)
-925196,,de la Mine | Mike (Arrêt de courtoisie),,45.4816351,-75.8016358,,,0,,,,de la Mine et Mike (Arrêt de courtoisie)
-925201,,de la Mine | Marie-Burger,,45.4784306,-75.7940603,,,0,,,,de la Mine et Marie-Burger
-925202,,de la Mine | Marie-Burger,,45.478392,-75.7941208,,,0,,,,de la Mine et Marie-Burger
+925143,,Route 105 | Forest Hill,,45.536343,-75.808903,,,0,,,,Route 105 et Forest Hill
+925145,,Route 105 | Doucette-Landing,,45.53369,-75.806868,,,0,,,,Route 105 et Doucette-Landing
+925155,,Route 105 | Juniper,,45.527117,-75.804337,,,0,,,,Route 105 et Juniper
+925160,,Scott | Belle-Terre,,45.51709,-75.808702,,,0,,,,Scott et Belle-Terre
+925161,,Scott | Belle-Terre,,45.516876,-75.808971,,,0,,,,Scott et Belle-Terre
+925167,,Route 105 | St-Clément,,45.599565,-75.900877,,,0,,,,Route 105 et Saint-Clément
+925168,,Route 105 | de la Rivière,,45.573757,-75.870897,,,0,,,,Route 105 et de la Rivière
+925171,,Kingsmere | Notch,,45.500132,-75.814568,,,0,,,,Kingsmere et Notch
+925172,,Kingsmere | Notch,,45.500038,-75.814421,,,0,,,,Kingsmere et Notch
+925177,,Notch | Dunn (Arrêt de courtoisie),,45.495497,-75.814047,,,0,,,,Notch et Dunn (Arrêt de courtoisie)
+925178,,Notch | Dunn (Arrêt de courtoisie),,45.495629,-75.81394,,,0,,,,Notch et Dunn (Arrêt de courtoisie)
+925179,,Notch | Bronson,,45.492921,-75.813561,,,0,,,,Notch et Bronson
+925180,,Notch | Bronson,,45.492909,-75.813716,,,0,,,,Notch et Bronson
+925181,,Notch | Tamarack (Arrêt de courtoisie),,45.490452,-75.813387,,,0,,,,Notch et Tamarack (Arrêt de courtoisie)
+925182,,Notch | Tamarack (Arrêt de courtoisie),,45.490617,-75.813177,,,0,,,,Notch et Tamarack (Arrêt de courtoisie)
+925183,,Notch | de la Mine,,45.488004,-75.812947,,,0,,,,Notch et de la Mine
+925184,,Notch | de la Mine,,45.487844,-75.812418,,,0,,,,Notch et de la Mine
+925187,,de la Mine | Link,,45.487573,-75.809829,,,0,,,,de la Mine et Link
+925188,,de la Mine | Link,,45.487504,-75.809868,,,0,,,,de la Mine et Link
+925193,,de la Mine | Solitude,,45.484248,-75.807194,,,0,,,,de la Mine et Solitude
+925194,,de la Mine | Solitude,,45.484045,-75.8071,,,0,,,,de la Mine et Solitude
+925195,,de la Mine | Mike (Arrêt de courtoisie),,45.481778,-75.801694,,,0,,,,de la Mine et Mike (Arrêt de courtoisie)
+925196,,de la Mine | Mike (Arrêt de courtoisie),,45.481635,-75.801636,,,0,,,,de la Mine et Mike (Arrêt de courtoisie)
+925201,,de la Mine | Marie-Burger,,45.478431,-75.79406,,,0,,,,de la Mine et Marie-Burger
+925202,,de la Mine | Marie-Burger,,45.478392,-75.794121,,,0,,,,de la Mine et Marie-Burger
 925210,,de la Cité-des-Jeunes | Cégep Gabrielle-Roy,,45.459742,-75.766955,,,0,,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
-925213,,Gamelin | St-Joseph,,45.4436906522523,-75.7330491661996,,,0,,,,Gamelin et Saint-Joseph
-925214,,Place Vincent Massey,,45.4427619658402,-75.7329241507211,,,0,,,,Place Vincent Massey
-925217,,Gamelin | St-Joseph,,45.4438179001502,-75.7336630814961,,,0,,,,Gamelin et Saint-Joseph
-925218,,Lionel-Émond | Gamelin,,45.4435412198881,-75.7473192413979,,,0,,,,Lionel-Émond et Gamelin
-925219,,Old Chelsea | Scott,,45.5030172,-75.8115611,,,0,,,,Old Chelsea et Scott
-925224,,Route 105 | Ditchfield,,45.5627123,-75.8434774,,,0,,,,Route 105 et Ditchfield
-925230,,Route 105 | Pine (Arrêt de courtoisie),,45.578989,-75.8769169,,,0,,,,Route 105 et Pine (Arrêt de courtoisie)
-925240,,Route 105 | Hammond (Arrêt de courtoisie),,45.5887633,-75.8894949,,,0,,,,Route 105 et Hammond (Arrêt de courtoisie)
+925213,,Gamelin | St-Joseph,,45.443691,-75.733049,,,0,,,,Gamelin et Saint-Joseph
+925214,,Place Vincent Massey,,45.442762,-75.732924,,,0,,,,Place Vincent Massey
+925217,,Gamelin | St-Joseph,,45.443818,-75.733663,,,0,,,,Gamelin et Saint-Joseph
+925218,,Lionel-Émond | Gamelin,,45.443541,-75.747319,,,0,,,,Lionel-Émond et Gamelin
+925219,,Old Chelsea | Scott,,45.503017,-75.811561,,,0,,,,Old Chelsea et Scott
+925224,,Route 105 | Ditchfield,,45.562712,-75.843477,,,0,,,,Route 105 et Ditchfield
+925230,,Route 105 | Pine (Arrêt de courtoisie),,45.578989,-75.876917,,,0,,,,Route 105 et Pine (Arrêt de courtoisie)
+925240,,Route 105 | Hammond (Arrêt de courtoisie),,45.588763,-75.889495,,,0,,,,Route 105 et Hammond (Arrêt de courtoisie)
 925242,,Route 105 | Croissant (Arrêt de courtoisie),,45.59169,-75.891484,,,0,,,,Route 105 et Croissant (Arrêt de courtoisie)
-925245,,Près du 1638 route 105 (Arrêt de courtoisie),,45.5935652,-75.8926024,,,0,,,,Près du 1638 route 105 (Arrêt de courtoisie)
-925246,,Près du 1638 route 105 (Arrêt de courtoisie),,45.5934581,-75.8927765,,,0,,,,Près du 1638 route 105 (Arrêt de courtoisie)
-925250,,Centre Communautaire Wakefield,,45.6321333,-75.9302487,,,0,,,,Centre Communautaire Wakefield
-925256,,Route 105 | Reid,,45.5438182,-75.8208361,,,0,,,,Route 105 et Reid
-931002,,Route 307 | Hogan,,45.5717174741949,-75.7830635649963,,,0,,,,Route 307 et Hogan
-931004,,Route 307 | du Mont-des-Cascades,,45.566912889282,-75.7824866719594,,,0,,,,Route 307 et du Mont-des-Cascades
-931018,,Route 307 | Blackburn,,45.5565383306513,-75.7818205686592,,,0,,,,Route 307 et Blackburn
-931038,,Route 307 | Bouchette,,45.5437894713381,-75.7754594314854,,,0,,,,Route 307 et Bouchette
-931039,,Route 307 | Bouchette,,45.5436440390428,-75.7753461666542,,,0,,,,Route 307 et Bouchette
-931042,,de Bouchette | Godmaire,,45.544311702388,-75.7715329173347,,,0,,,,de Bouchette et Godmaire
-931043,,de Bouchette | Godmaire,,45.5444505224838,-75.7718538343566,,,0,,,,de Bouchette et Godmaire
-931048,,de Bouchette | du Commandeur,,45.542761521365,-75.7632598652838,,,0,,,,de Bouchette et du Commandeur
-931049,,de Bouchette | du Commandeur,,45.5426028650324,-75.7634580787386,,,0,,,,de Bouchette et du Commandeur
-931050,,de Bouchette | Tourterelles,,45.5404338,-75.7595244,,,0,,,,de Bouchette et Tourterelles
-931051,,de Bouchette | Tourterelles,,45.5403890244932,-75.7598543982264,,,0,,,,de Bouchette et Tourterelles
-931056,,de Bouchette | du Mont-Joël,,45.5404576552499,-75.7550151294409,,,0,,,,de Bouchette et du Mont-Joël
-931057,,de Bouchette | du Mont-Joël,,45.5403386581664,-75.7554021176144,,,0,,,,de Bouchette et du Mont-Joël
-931058,,du Mont-Joël | Marsolais,,45.5377900768382,-75.7527592715513,,,0,,,,du Mont-Joël et Marsolais
-931059,,du Mont-Joël | Marsolais,,45.5376247952019,-75.7530613111014,,,0,,,,du Mont-Joël et Marsolais
-931061,,du Mont-Joël | Denis,,45.5358298053441,-75.7518153979574,,,0,,,,du Mont-Joël et Denis
-931066,,Denis | des Pins,,45.5359747,-75.7473153,,,0,,,,Denis et des Pins
-931067,,Denis | des Pins,,45.535892614428,-75.7470928837424,,,0,,,,Denis et des Pins
-931069,,Denis | des Érables,,45.5363069322416,-75.7432450257245,,,0,,,,Denis et des Érables
-931079,,des Érables | Crémazie,,45.5303805,-75.7413354,,,0,,,,des Érables et Crémazie
-931085,,des Érables | des Conifères,,45.5251192798042,-75.7410111915522,,,0,,,,des Érables et des Conifères
-931092,,des Érables | St-Louis,,45.4933603253539,-75.7527781490232,,,0,,,,des Érables et Saint-Louis
-931093,,des Érables | St-Louis,,45.4931353646672,-75.7529039988357,,,0,,,,des Érables et Saint-Louis
+925245,,Près du 1638 route 105 (Arrêt de courtoisie),,45.593565,-75.892602,,,0,,,,Près du 1638 route 105 (Arrêt de courtoisie)
+925246,,Près du 1638 route 105 (Arrêt de courtoisie),,45.593458,-75.892776,,,0,,,,Près du 1638 route 105 (Arrêt de courtoisie)
+925250,,Centre Communautaire Wakefield,,45.632133,-75.930249,,,0,,,,Centre Communautaire Wakefield
+925256,,Route 105 | Reid,,45.543818,-75.820836,,,0,,,,Route 105 et Reid
+931002,,Route 307 | Hogan,,45.571717,-75.783064,,,0,,,,Route 307 et Hogan
+931004,,Route 307 | du Mont-des-Cascades,,45.566913,-75.782487,,,0,,,,Route 307 et du Mont-des-Cascades
+931018,,Route 307 | Blackburn,,45.556538,-75.781821,,,0,,,,Route 307 et Blackburn
+931038,,Route 307 | Bouchette,,45.543789,-75.775459,,,0,,,,Route 307 et Bouchette
+931039,,Route 307 | Bouchette,,45.543644,-75.775346,,,0,,,,Route 307 et Bouchette
+931042,,de Bouchette | Godmaire,,45.544312,-75.771533,,,0,,,,de Bouchette et Godmaire
+931043,,de Bouchette | Godmaire,,45.544451,-75.771854,,,0,,,,de Bouchette et Godmaire
+931048,,de Bouchette | du Commandeur,,45.542762,-75.76326,,,0,,,,de Bouchette et du Commandeur
+931049,,de Bouchette | du Commandeur,,45.542603,-75.763458,,,0,,,,de Bouchette et du Commandeur
+931050,,de Bouchette | Tourterelles,,45.540434,-75.759524,,,0,,,,de Bouchette et Tourterelles
+931051,,de Bouchette | Tourterelles,,45.540389,-75.759854,,,0,,,,de Bouchette et Tourterelles
+931056,,de Bouchette | du Mont-Joël,,45.540458,-75.755015,,,0,,,,de Bouchette et du Mont-Joël
+931057,,de Bouchette | du Mont-Joël,,45.540339,-75.755402,,,0,,,,de Bouchette et du Mont-Joël
+931058,,du Mont-Joël | Marsolais,,45.53779,-75.752759,,,0,,,,du Mont-Joël et Marsolais
+931059,,du Mont-Joël | Marsolais,,45.537625,-75.753061,,,0,,,,du Mont-Joël et Marsolais
+931061,,du Mont-Joël | Denis,,45.53583,-75.751815,,,0,,,,du Mont-Joël et Denis
+931066,,Denis | des Pins,,45.535975,-75.747315,,,0,,,,Denis et des Pins
+931067,,Denis | des Pins,,45.535893,-75.747093,,,0,,,,Denis et des Pins
+931069,,Denis | des Érables,,45.536307,-75.743245,,,0,,,,Denis et des Érables
+931079,,des Érables | Crémazie,,45.530381,-75.741335,,,0,,,,des Érables et Crémazie
+931085,,des Érables | des Conifères,,45.525119,-75.741011,,,0,,,,des Érables et des Conifères
+931092,,des Érables | St-Louis,,45.49336,-75.752778,,,0,,,,des Érables et Saint-Louis
+931093,,des Érables | St-Louis,,45.493135,-75.752904,,,0,,,,des Érables et Saint-Louis
 931100,,St-Louis | du Pont Alonzo-Wright,,45.487919,-75.745746,,,0,,,,Saint-Louis et du Pont Alonzo-Wright
 931101,,St-Louis | du Pont Alonzo-Wright,,45.487614,-75.744782,,,0,,,,Saint-Louis et du Pont Alonzo-Wright
-933001,,Route 307 | Hogan,,45.5717424536317,-75.7828197236096,,,0,,,,Route 307 et Hogan
-933003,,Route 307 | du Mont-des-Cascades,,45.5668085,-75.7822604,,,0,,,,Route 307 et du Mont-des-Cascades
-933008,,Route 307 | Ste-Élisabeth,,45.5644792143897,-75.7820079102124,,,0,,,,Route 307 et Sainte-Élisabeth
-933019,,Route 307 | Blackburn,,45.556994,-75.7816465,,,0,,,,Route 307 et Blackburn
-933026,,Route 307 | River,,45.5499998965615,-75.7824063827224,,,0,,,,Route 307 et River
-933027,,Route 307 | River,,45.5500155147467,-75.7827186186445,,,0,,,,Route 307 et River
-933050,,des Érables | Crémazie,,45.5306428552135,-75.741502005821,,,0,,,,des Érables et Crémazie
-933056,,des Érables | des Conifères,,45.5249199,-75.7407954,,,0,,,,des Érables et des Conifères
-933058,,des Érables | Taché,,45.5230687,-75.7406169,,,0,,,,des Érables et Taché
-933059,,des Érables | Taché,,45.5230802,-75.7407575,,,0,,,,des Érables et Taché
+933001,,Route 307 | Hogan,,45.571742,-75.78282,,,0,,,,Route 307 et Hogan
+933003,,Route 307 | du Mont-des-Cascades,,45.566809,-75.78226,,,0,,,,Route 307 et du Mont-des-Cascades
+933008,,Route 307 | Ste-Élisabeth,,45.564479,-75.782008,,,0,,,,Route 307 et Sainte-Élisabeth
+933019,,Route 307 | Blackburn,,45.556994,-75.781646,,,0,,,,Route 307 et Blackburn
+933026,,Route 307 | River,,45.55,-75.782406,,,0,,,,Route 307 et River
+933027,,Route 307 | River,,45.550016,-75.782719,,,0,,,,Route 307 et River
+933050,,des Érables | Crémazie,,45.530643,-75.741502,,,0,,,,des Érables et Crémazie
+933056,,des Érables | des Conifères,,45.52492,-75.740795,,,0,,,,des Érables et des Conifères
+933058,,des Érables | Taché,,45.523069,-75.740617,,,0,,,,des Érables et Taché
+933059,,des Érables | Taché,,45.52308,-75.740757,,,0,,,,des Érables et Taché
 933066,,Station de la Gappe,,45.469669,-75.716473,,,0,,,,Station de la Gappe
-933070,,Ste-Élisabeth | Villemontel,,45.5630263,-75.7461254,,,0,,,,Sainte-Élisabeth et Villemontel
-933072,,Denis | du Mont-Joël,,45.5356075591071,-75.7517135456395,,,0,,,,Denis et du Mont-Joël
-933073,,Denis | du Mont-Joël,,45.5358594261719,-75.7515463030371,,,0,,,,Denis et du Mont-Joël
-933075,,Ste-Élisabeth | Villemontel,,45.5630179,-75.7462672,,,0,,,,Sainte-Élisabeth et Villemontel
-933076,,des Érables | Denis,,45.5365300899477,-75.7433430533881,,,0,,,,des Érables et Denis
-933077,,des Érables | Denis,,45.5363675498981,-75.7428839201812,,,0,,,,des Érables et Denis
-933079,,Près du 319 chemin Denis,,45.5337630011711,-75.7549347949524,,,0,,,,Près du 319 chemin Denis
-933081,,Denis | Perreault,,45.5321616627573,-75.7570232369502,,,0,,,,Denis et Perreault
-933082,,Denis | Blondeau,,45.5305429795976,-75.7586530683742,,,0,,,,Denis et Blondeau
-933086,,Denis | de Maricourt,,45.5271367,-75.7625845,,,0,,,,Denis et de Maricourt
-933088,,Denis | Clermont,,45.526054906015,-75.7665658646598,,,0,,,,Denis et Clermont
-933093,,Denis | Taché,,45.5210226972737,-75.765292338374,,,0,,,,Denis et Taché
-933114,,Hogan | Homestead,,45.5722261,-75.7762192,,,0,,,,Hogan et Homestead
-933117,,Hogan | de la Fougères,,45.5727222574567,-75.7685361262404,,,0,,,,Hogan et de la Fougères
-933120,,Hogan | des Quatres-Saisons,,45.5732433097467,-75.7569897231005,,,0,,,,Hogan et des Quatres-Saisons
-933124,,Des Quatres-Saisons | des Prés,,45.5709056,-75.7566557,,,0,,,,Des Quatres-Saisons et des Prés
-933129,,Ste-Élisabeth | Latour,,45.5605662916217,-75.7460007081964,,,0,,,,Sainte-Élisabeth et Latour
-933132,,Ste-Élisabeth | Thérien,,45.5522665188847,-75.7451540425217,,,0,,,,Sainte-Élisabeth et Thérien
-933134,,Ste-Élisabeth | de Vénus,,45.550384,-75.7419999,,,0,,,,Sainte-Élisabeth et de Vénus
-933137,,Près du 350 chemin Ste-Élisabeth,,45.5462828,-75.7426607,,,0,,,,Près du 350 chemin Sainte-Élisabeth
-933139,,Près du 376 chemin Ste-Élisabeth,,45.542562135088,-75.7437852663474,,,0,,,,Près du 376 chemin Sainte-Élisabeth
-933141,,Ste-Élisabeth | des Érables,,45.5391091148416,-75.7459689582336,,,0,,,,Sainte-Élisabeth et des Érables
-933143,,des Érables | Dupéré,,45.537176813482,-75.7439052106513,,,0,,,,des Érables et Dupéré
-933144,,des Érables | Dupéré,,45.5371878293918,-75.7437965815034,,,0,,,,des Érables et Dupéré
-933146,,Ste-Élisabeth | des Érables,,45.5390121000969,-75.7457916913098,,,0,,,,Sainte-Élisabeth et des Érables
-933148,,Près du 376 chemin Ste-Élisabeth,,45.5424811863928,-75.7434792356856,,,0,,,,Près du 376 chemin Sainte-Élisabeth
-933150,,Près du 351 chemin Ste-Élisabeth,,45.546291,-75.7424964,,,0,,,,Près du 351 chemin Sainte-Élisabeth
-933153,,Ste-Élisabeth | de Vénus,,45.5502269,-75.7417771,,,0,,,,Sainte-Élisabeth et de Vénus
-933155,,Ste-Élisabeth | Thérien,,45.552201641478,-75.7446963175932,,,0,,,,Sainte-Élisabeth et Thérien
-933157,,Ste-Élisabeth | Latour,,45.5605532935813,-75.745746712196,,,0,,,,Sainte-Élisabeth et Latour
-933161,,des Prés | Ste-Élisabeth,,45.5681220638051,-75.7494667495046,,,0,,,,des Prés et Sainte-Élisabeth
-933163,,des Quatres-Saisons | des Prés,,45.5708447933909,-75.7562083249401,,,0,,,,des Quatres-Saisons et des Prés
-933165,,des Quatres-Saisons | Hogan,,45.573211793902,-75.7566475327589,,,0,,,,des Quatres-Saisons et Hogan
-933169,,Hogan | Hélie,,45.5729747279236,-75.7666170210797,,,0,,,,Hogan et Hélie
-933172,,Hogan | Homestead,,45.5723245,-75.7764417,,,0,,,,Hogan et Homestead
-933175,,Route 307 | de Bouchette,,45.5435226117639,-75.775686927121,,,0,,,,Route 307 et de Bouchette
-933191,,Route 307 | de la Baie,,45.5205715748766,-75.7718167389465,,,0,,,,Route 307 et de la Baie
-933193,,Denis | Taché,,45.5207926411943,-75.7651502389438,,,0,,,,Denis et Taché
-933198,,Denis | Clermont,,45.5259791082756,-75.7663259797539,,,0,,,,Denis et Clermont
-933200,,Denis | de Maricourt,,45.5270431,-75.7627157,,,0,,,,Denis et de Maricourt
-933203,,Denis | Blondeau,,45.5303998446438,-75.7586881293267,,,0,,,,Denis et Blondeau
-933205,,Denis | Perreault,,45.5320815,-75.7569475,,,0,,,,Denis et Perreault
-933207,,Près du 322 chemin Denis,,45.5338506968819,-75.7544524858513,,,0,,,,Près du 322 chemin Denis
-934032,,Route 307 | Pink,,45.5470448578373,-75.7792171158045,,,0,,,,Route 307 et Pink
-934033,,Route 307 | du Bois de Limbour,,45.5470323626292,-75.7796274830163,,,0,,,,Route 307 et du Bois de Limbour
-934043,,Route 307 | Denis,,45.5178012139237,-75.7687848342821,,,0,,,,Route 307 et Denis
-934044,,Route 307 | Denis,,45.5180531607288,-75.768772291087,,,0,,,,Route 307 et Denis
-934046,,Route 307 | Whissell,,45.5214704662261,-75.7725732265924,,,0,,,,Route 307 et Whissell
-934049,,Route 307 | Mont-Laurier,,45.525058,-75.7749546,,,0,,,,Route 307 et Mont-Laurier
-934056,,Route 307 | de Portneuf,,45.5327201594191,-75.7731804402441,,,0,,,,Route 307 et de Portneuf
-934057,,Route 307 | Burke,,45.5356978909205,-75.7709244289982,,,0,,,,Route 307 et Burke
-934059,,Route 307 | du Cardinal,,45.5396317143509,-75.7719051500714,,,0,,,,Route 307 et du Cardinal
-934062,,Route 307 | Bouchette,,45.5435776162505,-75.7754540903583,,,0,,,,Route 307 et Bouchette
-934066,,Route 307 | du Cardinal,,45.5390158064998,-75.7719139732076,,,0,,,,Route 307 et du Cardinal
-934068,,Route 307 | Burke,,45.5358615691866,-75.7711096408165,,,0,,,,Route 307 et Burke
-934069,,Route 307 | de Portneuf,,45.5327237,-75.7734108,,,0,,,,Route 307 et de Portneuf
-934076,,Route 307 | de Maniwaki,,45.5242153,-75.7746914,,,0,,,,Route 307 et de Maniwaki
-934082,,Route 307 | Vieux-Chemin (Arrêt de courtoisie),,45.5151764,-75.7664858,,,0,,,,Route 307 et Vieux-Chemin (Arrêt de courtoisie)
-934083,,Route 307 | Vieux-Chemin (Arrêt de courtoisie),,45.5151792,-75.7663278,,,0,,,,Route 307 et Vieux-Chemin (Arrêt de courtoisie)
-934084,,St-Louis | Vieux-Chemin (Arrêt de courtoisie),,45.5078275,-75.763016,,,0,,,,Saint-Louis et Vieux-Chemin (Arrêt de courtoisie)
-934085,,Près du 2963 Montée de la Source (Arrêt de courtoisie),,45.5079714,-75.7628761,,,0,,,,Près du 2963 Montée de la Source (Arrêt de courtoisie)
-934086,,St-Louis | des Érables,,45.4926768840941,-75.7531100577363,,,0,,,,Saint-Louis et des Érables
-934087,,St-Louis | des Érables,,45.492426495243,-75.7530252258044,,,0,,,,Saint-Louis et des Érables
-935010,,Ste-Élisabeth | Route 307,,45.564210038406,-75.7813743459137,,,0,,,,Sainte-Élisabeth et Route 307
-935017,,Ste-Élisabeth | Pontiac,,45.5644363,-75.77315,,,0,,,,Sainte-Élisabeth et Pontiac
-935018,,Ste-Élisabeth | Pontiac,,45.5645372,-75.7730858,,,0,,,,Sainte-Élisabeth et Pontiac
-935021,,Ste-Élisabeth | Camping Cantley,,45.5651267,-75.7672682,,,0,,,,Sainte-Élisabeth et Camping Cantley
-935022,,Ste-Élisabeth | Camping Cantley,,45.5652048,-75.7672962,,,0,,,,Sainte-Élisabeth et Camping Cantley
-935027,,Ste-Élisabeth | Lesage,,45.5657645,-75.7577273,,,0,,,,Sainte-Élisabeth et Lesage
-935028,,Ste-Élisabeth | Lesage,,45.5658496,-75.7574826,,,0,,,,Sainte-Élisabeth et Lesage
-935029,,Ste-Élisabeth | des Prés,,45.5678118,-75.7493956,,,0,,,,Sainte-Élisabeth et des Prés
-935030,,Ste-Élisabeth | des Prés,,45.5680006863091,-75.7498146348391,,,0,,,,Sainte-Élisabeth et des Prés
-935046,,Près du 77 chemin Lamoureux,,45.5687909627272,-75.7363084983178,,,0,,,,Près du 77 chemin Lamoureux
-935049,,Lamoureux | Terroir,,45.5711409459459,-75.733528420608,,,0,,,,Lamoureux et Terroir
-935053,,Lamoureux | Goulet,,45.5758584966216,-75.7204709142735,,,0,,,,Lamoureux et Goulet
-935054,,Lamoureux | Goulet,,45.5759614933894,-75.7202261499709,,,0,,,,Lamoureux et Goulet
-935055,,Lamoureux | St-Amour,,45.5746488308647,-75.7180160549038,,,0,,,,Lamoureux et Saint-Amour
-935056,,Lamoureux | St-Amour,,45.5745238153861,-75.7176499381452,,,0,,,,Lamoureux et Saint-Amour
-935061,,Près du 204 chemin Lamoureux (Arrêt de courtoisie),,45.5767027,-75.7286558,,,0,,,,Près du 204 chemin Lamoureux (Arrêt de courtoisie)
-935062,,Près du 204 chemin Lamoureux (Arrêt de courtoisie),,45.576917,-75.7288969,,,0,,,,Près du 204 chemin Lamoureux (Arrêt de courtoisie)
-935077,,St-Amour | Laviolette,,45.5670452108662,-75.7168194781806,,,0,,,,Saint-Amour et Laviolette
-935078,,St-Amour | Laviolette,,45.56689,-75.7165676,,,0,,,,Saint-Amour et Laviolette
-935083,,St-Amour | Vigneault,,45.5631384771617,-75.712774334482,,,0,,,,Saint-Amour et Vigneault
-935084,,St-Amour | Vigneault,,45.563433156504,-75.7123457099842,,,0,,,,Saint-Amour et Vigneault
-935091,,Vigneault | Knight,,45.5647547487058,-75.703576767132,,,0,,,,Vigneault et Knight
-935092,,Vigneault | Knight,,45.5646208035502,-75.7037910793809,,,0,,,,Vigneault et Knight
-935099,,Vigneault | des Duchesses,,45.5640849,-75.6936225,,,0,,,,Vigneault et des Duchesses
-935100,,Vigneault | des Duchesses,,45.5641888,-75.6933183,,,0,,,,Vigneault et des Duchesses
-935109,,Vigneault | Paiement,,45.5640961850242,-75.6854941711284,,,0,,,,Vigneault et Paiement
-935110,,Vigneault | Paiement,,45.5643060324347,-75.6854986359669,,,0,,,,Vigneault et Paiement
-935118,,Paiement | du Faubourg,,45.5579146160942,-75.6850186658261,,,0,,,,Paiement et du Faubourg
-935123,,Paiement | 6e Rang,,45.5506413941461,-75.6838042297488,,,0,,,,Paiement et 6e Rang
-935124,,Paiement | 6e Rang,,45.5507005532569,-75.683654657659,,,0,,,,Paiement et 6e Rang
-935125,,Paiement | la Vérendrye,,45.4929897,-75.6757996,,,0,,,,Paiement et la Vérendrye
-935126,,Paiement | la Vérendrye,,45.4934028,-75.6755029,,,0,,,,Paiement et la Vérendrye
-935127,,Station de la Cité,,45.4817161,-75.6821112,,,0,,,,Station de la Cité
-935129,,Ste-Élisabeth | Lamoureux,,45.567393468271,-75.7472607472062,,,0,,,,Sainte-Élisabeth et Lamoureux
-935130,,Ste-Élisabeth | Lamoureux,,45.5672997066621,-75.7474170165544,,,0,,,,Sainte-Élisabeth et Lamoureux
-935200,,Paiement | Joanisse,,45.5000141,-75.6766658,,,0,,,,Paiement et Joanisse
-935201,,Paiement | Joanisse,,45.5000198,-75.676411,,,0,,,,Paiement et Joanisse
+933070,,Ste-Élisabeth | Villemontel,,45.563026,-75.746125,,,0,,,,Sainte-Élisabeth et Villemontel
+933072,,Denis | du Mont-Joël,,45.535608,-75.751714,,,0,,,,Denis et du Mont-Joël
+933073,,Denis | du Mont-Joël,,45.535859,-75.751546,,,0,,,,Denis et du Mont-Joël
+933075,,Ste-Élisabeth | Villemontel,,45.563018,-75.746267,,,0,,,,Sainte-Élisabeth et Villemontel
+933076,,des Érables | Denis,,45.53653,-75.743343,,,0,,,,des Érables et Denis
+933077,,des Érables | Denis,,45.536368,-75.742884,,,0,,,,des Érables et Denis
+933079,,Près du 319 chemin Denis,,45.533763,-75.754935,,,0,,,,Près du 319 chemin Denis
+933081,,Denis | Perreault,,45.532162,-75.757023,,,0,,,,Denis et Perreault
+933082,,Denis | Blondeau,,45.530543,-75.758653,,,0,,,,Denis et Blondeau
+933086,,Denis | de Maricourt,,45.527137,-75.762584,,,0,,,,Denis et de Maricourt
+933088,,Denis | Clermont,,45.526055,-75.766566,,,0,,,,Denis et Clermont
+933093,,Denis | Taché,,45.521023,-75.765292,,,0,,,,Denis et Taché
+933114,,Hogan | Homestead,,45.572226,-75.776219,,,0,,,,Hogan et Homestead
+933117,,Hogan | de la Fougères,,45.572722,-75.768536,,,0,,,,Hogan et de la Fougères
+933120,,Hogan | des Quatres-Saisons,,45.573243,-75.75699,,,0,,,,Hogan et des Quatres-Saisons
+933124,,Des Quatres-Saisons | des Prés,,45.570906,-75.756656,,,0,,,,Des Quatres-Saisons et des Prés
+933129,,Ste-Élisabeth | Latour,,45.560566,-75.746001,,,0,,,,Sainte-Élisabeth et Latour
+933132,,Ste-Élisabeth | Thérien,,45.552267,-75.745154,,,0,,,,Sainte-Élisabeth et Thérien
+933134,,Ste-Élisabeth | de Vénus,,45.550384,-75.742,,,0,,,,Sainte-Élisabeth et de Vénus
+933137,,Près du 350 chemin Ste-Élisabeth,,45.546283,-75.742661,,,0,,,,Près du 350 chemin Sainte-Élisabeth
+933139,,Près du 376 chemin Ste-Élisabeth,,45.542562,-75.743785,,,0,,,,Près du 376 chemin Sainte-Élisabeth
+933141,,Ste-Élisabeth | des Érables,,45.539109,-75.745969,,,0,,,,Sainte-Élisabeth et des Érables
+933143,,des Érables | Dupéré,,45.537177,-75.743905,,,0,,,,des Érables et Dupéré
+933144,,des Érables | Dupéré,,45.537188,-75.743797,,,0,,,,des Érables et Dupéré
+933146,,Ste-Élisabeth | des Érables,,45.539012,-75.745792,,,0,,,,Sainte-Élisabeth et des Érables
+933148,,Près du 376 chemin Ste-Élisabeth,,45.542481,-75.743479,,,0,,,,Près du 376 chemin Sainte-Élisabeth
+933150,,Près du 351 chemin Ste-Élisabeth,,45.546291,-75.742496,,,0,,,,Près du 351 chemin Sainte-Élisabeth
+933153,,Ste-Élisabeth | de Vénus,,45.550227,-75.741777,,,0,,,,Sainte-Élisabeth et de Vénus
+933155,,Ste-Élisabeth | Thérien,,45.552202,-75.744696,,,0,,,,Sainte-Élisabeth et Thérien
+933157,,Ste-Élisabeth | Latour,,45.560553,-75.745747,,,0,,,,Sainte-Élisabeth et Latour
+933161,,des Prés | Ste-Élisabeth,,45.568122,-75.749467,,,0,,,,des Prés et Sainte-Élisabeth
+933163,,des Quatres-Saisons | des Prés,,45.570845,-75.756208,,,0,,,,des Quatres-Saisons et des Prés
+933165,,des Quatres-Saisons | Hogan,,45.573212,-75.756648,,,0,,,,des Quatres-Saisons et Hogan
+933169,,Hogan | Hélie,,45.572975,-75.766617,,,0,,,,Hogan et Hélie
+933172,,Hogan | Homestead,,45.572325,-75.776442,,,0,,,,Hogan et Homestead
+933175,,Route 307 | de Bouchette,,45.543523,-75.775687,,,0,,,,Route 307 et de Bouchette
+933191,,Route 307 | de la Baie,,45.520572,-75.771817,,,0,,,,Route 307 et de la Baie
+933193,,Denis | Taché,,45.520793,-75.76515,,,0,,,,Denis et Taché
+933198,,Denis | Clermont,,45.525979,-75.766326,,,0,,,,Denis et Clermont
+933200,,Denis | de Maricourt,,45.527043,-75.762716,,,0,,,,Denis et de Maricourt
+933203,,Denis | Blondeau,,45.5304,-75.758688,,,0,,,,Denis et Blondeau
+933205,,Denis | Perreault,,45.532082,-75.756947,,,0,,,,Denis et Perreault
+933207,,Près du 322 chemin Denis,,45.533851,-75.754452,,,0,,,,Près du 322 chemin Denis
+934032,,Route 307 | Pink,,45.547045,-75.779217,,,0,,,,Route 307 et Pink
+934033,,Route 307 | du Bois de Limbour,,45.547032,-75.779627,,,0,,,,Route 307 et du Bois de Limbour
+934043,,Route 307 | Denis,,45.517801,-75.768785,,,0,,,,Route 307 et Denis
+934044,,Route 307 | Denis,,45.518053,-75.768772,,,0,,,,Route 307 et Denis
+934046,,Route 307 | Whissell,,45.52147,-75.772573,,,0,,,,Route 307 et Whissell
+934049,,Route 307 | Mont-Laurier,,45.525058,-75.774955,,,0,,,,Route 307 et Mont-Laurier
+934056,,Route 307 | de Portneuf,,45.53272,-75.77318,,,0,,,,Route 307 et de Portneuf
+934057,,Route 307 | Burke,,45.535698,-75.770924,,,0,,,,Route 307 et Burke
+934059,,Route 307 | du Cardinal,,45.539632,-75.771905,,,0,,,,Route 307 et du Cardinal
+934062,,Route 307 | Bouchette,,45.543578,-75.775454,,,0,,,,Route 307 et Bouchette
+934066,,Route 307 | du Cardinal,,45.539016,-75.771914,,,0,,,,Route 307 et du Cardinal
+934068,,Route 307 | Burke,,45.535862,-75.77111,,,0,,,,Route 307 et Burke
+934069,,Route 307 | de Portneuf,,45.532724,-75.773411,,,0,,,,Route 307 et de Portneuf
+934076,,Route 307 | de Maniwaki,,45.524215,-75.774691,,,0,,,,Route 307 et de Maniwaki
+934082,,Route 307 | Vieux-Chemin (Arrêt de courtoisie),,45.515176,-75.766486,,,0,,,,Route 307 et Vieux-Chemin (Arrêt de courtoisie)
+934083,,Route 307 | Vieux-Chemin (Arrêt de courtoisie),,45.515179,-75.766328,,,0,,,,Route 307 et Vieux-Chemin (Arrêt de courtoisie)
+934084,,St-Louis | Vieux-Chemin (Arrêt de courtoisie),,45.507828,-75.763016,,,0,,,,Saint-Louis et Vieux-Chemin (Arrêt de courtoisie)
+934085,,Près du 2963 Montée de la Source (Arrêt de courtoisie),,45.507971,-75.762876,,,0,,,,Près du 2963 Montée de la Source (Arrêt de courtoisie)
+934086,,St-Louis | des Érables,,45.492677,-75.75311,,,0,,,,Saint-Louis et des Érables
+934087,,St-Louis | des Érables,,45.492426,-75.753025,,,0,,,,Saint-Louis et des Érables
+935010,,Ste-Élisabeth | Route 307,,45.56421,-75.781374,,,0,,,,Sainte-Élisabeth et Route 307
+935017,,Ste-Élisabeth | Pontiac,,45.564436,-75.77315,,,0,,,,Sainte-Élisabeth et Pontiac
+935018,,Ste-Élisabeth | Pontiac,,45.564537,-75.773086,,,0,,,,Sainte-Élisabeth et Pontiac
+935021,,Ste-Élisabeth | Camping Cantley,,45.565127,-75.767268,,,0,,,,Sainte-Élisabeth et Camping Cantley
+935022,,Ste-Élisabeth | Camping Cantley,,45.565205,-75.767296,,,0,,,,Sainte-Élisabeth et Camping Cantley
+935027,,Ste-Élisabeth | Lesage,,45.565765,-75.757727,,,0,,,,Sainte-Élisabeth et Lesage
+935028,,Ste-Élisabeth | Lesage,,45.56585,-75.757483,,,0,,,,Sainte-Élisabeth et Lesage
+935029,,Ste-Élisabeth | des Prés,,45.567812,-75.749396,,,0,,,,Sainte-Élisabeth et des Prés
+935030,,Ste-Élisabeth | des Prés,,45.568001,-75.749815,,,0,,,,Sainte-Élisabeth et des Prés
+935046,,Près du 77 chemin Lamoureux,,45.568791,-75.736308,,,0,,,,Près du 77 chemin Lamoureux
+935049,,Lamoureux | Terroir,,45.571141,-75.733528,,,0,,,,Lamoureux et Terroir
+935053,,Lamoureux | Goulet,,45.575858,-75.720471,,,0,,,,Lamoureux et Goulet
+935054,,Lamoureux | Goulet,,45.575961,-75.720226,,,0,,,,Lamoureux et Goulet
+935055,,Lamoureux | St-Amour,,45.574649,-75.718016,,,0,,,,Lamoureux et Saint-Amour
+935056,,Lamoureux | St-Amour,,45.574524,-75.71765,,,0,,,,Lamoureux et Saint-Amour
+935061,,Près du 204 chemin Lamoureux (Arrêt de courtoisie),,45.576703,-75.728656,,,0,,,,Près du 204 chemin Lamoureux (Arrêt de courtoisie)
+935062,,Près du 204 chemin Lamoureux (Arrêt de courtoisie),,45.576917,-75.728897,,,0,,,,Près du 204 chemin Lamoureux (Arrêt de courtoisie)
+935077,,St-Amour | Laviolette,,45.567045,-75.716819,,,0,,,,Saint-Amour et Laviolette
+935078,,St-Amour | Laviolette,,45.56689,-75.716568,,,0,,,,Saint-Amour et Laviolette
+935083,,St-Amour | Vigneault,,45.563138,-75.712774,,,0,,,,Saint-Amour et Vigneault
+935084,,St-Amour | Vigneault,,45.563433,-75.712346,,,0,,,,Saint-Amour et Vigneault
+935091,,Vigneault | Knight,,45.564755,-75.703577,,,0,,,,Vigneault et Knight
+935092,,Vigneault | Knight,,45.564621,-75.703791,,,0,,,,Vigneault et Knight
+935099,,Vigneault | des Duchesses,,45.564085,-75.693622,,,0,,,,Vigneault et des Duchesses
+935100,,Vigneault | des Duchesses,,45.564189,-75.693318,,,0,,,,Vigneault et des Duchesses
+935109,,Vigneault | Paiement,,45.564096,-75.685494,,,0,,,,Vigneault et Paiement
+935110,,Vigneault | Paiement,,45.564306,-75.685499,,,0,,,,Vigneault et Paiement
+935118,,Paiement | du Faubourg,,45.557915,-75.685019,,,0,,,,Paiement et du Faubourg
+935123,,Paiement | 6e Rang,,45.550641,-75.683804,,,0,,,,Paiement et 6e Rang
+935124,,Paiement | 6e Rang,,45.550701,-75.683655,,,0,,,,Paiement et 6e Rang
+935125,,Paiement | la Vérendrye,,45.49299,-75.6758,,,0,,,,Paiement et la Vérendrye
+935126,,Paiement | la Vérendrye,,45.493403,-75.675503,,,0,,,,Paiement et la Vérendrye
+935127,,Station de la Cité,,45.481716,-75.682111,,,0,,,,Station de la Cité
+935129,,Ste-Élisabeth | Lamoureux,,45.567393,-75.747261,,,0,,,,Sainte-Élisabeth et Lamoureux
+935130,,Ste-Élisabeth | Lamoureux,,45.5673,-75.747417,,,0,,,,Sainte-Élisabeth et Lamoureux
+935200,,Paiement | Joanisse,,45.500014,-75.676666,,,0,,,,Paiement et Joanisse
+935201,,Paiement | Joanisse,,45.50002,-75.676411,,,0,,,,Paiement et Joanisse
 935202,,de la Cité | Maison de la culture,,45.484948,-75.681288,,,0,,,,de la Cité et Maison de la culture
 935203,,de la Cité | Place de la Cité,,45.484769,-75.681055,,,0,,,,de la Cité et Place de la Cité
+940010,,St-Charles | St-Pierre (Arrêt de courtoisie),,45.582253,-75.64312,,,0,,,,Saint-Charles et Saint-Pierre (Arrêt de courtoisie)
+940011,,St-Pierre | St-Charles (Arrêt de courtoisie),,45.582351,-75.643533,,,0,,,,Saint-Pierre et Saint-Charles (Arrêt de courtoisie)
+940020,,St-Pierre | Noé (Arrêt de courtoisie),,45.585204,-75.632252,,,0,,,,Saint-Pierre et Noé (Arrêt de courtoisie)
+940021,,Noé | St-Pierre (Arrêt de courtoisie),,45.585399,-75.631978,,,0,,,,Noé et Saint-Pierre (Arrêt de courtoisie)
+940030,,Noé | de l'Arche (Arrêt de courtoisie),,45.586939,-75.631667,,,0,,,,Noé et de l'Arche (Arrêt de courtoisie)
+940031,,de l'Arche | Noé (Arrêt de courtoisie),,45.587055,-75.632048,,,0,,,,de l'Arche et Noé (Arrêt de courtoisie)
+940040,,de la Cascade | de l'Arche,,45.59013,-75.634156,,,0,,,,de la Cascade et de l'Arche
+940041,,de la Cascade | de l'Arche,,45.590227,-75.634247,,,0,,,,de la Cascade et de l'Arche
+940050,,de la Cascade | du Mont-Everest (Arrêt de courtoisie),,45.590099,-75.628759,,,0,,,,de la Cascade et du Mont-Everest (Arrêt de courtoisie)
+940051,,de la Cascade | du Mont-Everest (Arrêt de courtoisie),,45.590009,-75.628502,,,0,,,,de la Cascade et du Mont-Everest (Arrêt de courtoisie)
+940060,,de la Cascade | du Belvédère (Arrêt de courtoisie),,45.590463,-75.623817,,,0,,,,de la Cascade et du Belvédère (Arrêt de courtoisie)
+940061,,de la Cascade | du Belvédère (Arrêt de courtoisie),,45.590621,-75.623838,,,0,,,,de la Cascade et du Belvédère (Arrêt de courtoisie)
+940070,,de la Cascade | des Pins (Arrêt de courtoisie),,45.58963,-75.620168,,,0,,,,de la Cascade et des Pins (Arrêt de courtoisie)
+940071,,des Pins | de la Cascade (Arrêt de courtoisie),,45.58957,-75.619862,,,0,,,,des Pins et de la Cascade (Arrêt de courtoisie)
+940080,,de la Pineraie | du Carrefour,,45.594765,-75.617753,,,0,,,,de la Pineraie et du Carrefour
+940081,,de la Pineraie | du Carrefour,,45.594655,-75.617791,,,0,,,,de la Pineraie | du Carrefour
+940090,,de la Pineraie | des Bâtisseurs,,45.595261,-75.620366,,,0,,,,de la Pineraie et des Bâtisseurs
+940091,,des Bâtisseurs | des Mélèzes,,45.595026,-75.621003,,,0,,,,des Bâtisseurs et des Mélèzes
+940100,,des Bâtisseurs | Henri Bélec,,45.594613,-75.623898,,,0,,,,des Bâtisseurs et Henri Bélec
+940101,,des Bâtisseurs | Henri Bélec,,45.594495,-75.624254,,,0,,,,des Bâtisseurs et Henri Bélec
+940110,,des Bâtisseurs | des Terres,,45.59435,-75.629214,,,0,,,,des Bâtisseurs et des Terres
+940111,,des Bâtisseurs | des Générations,,45.594319,-75.629877,,,0,,,,des Bâtisseurs et des Générations
+940120,,des Bâtisseurs | Cléophas Scatland,,45.595623,-75.631765,,,0,,,,des Bâtisseurs et Cléophas Scatland
+940121,,des Bâtisseurs | du Village,,45.595974,-75.632116,,,0,,,,des Bâtisseurs | du Village
+940130,,Près du 2202 Montée Paiement,,45.599268,-75.626036,,,0,,,,Près du 2 2 0 2 Montée Paiement
 941001,,St-Joseph | du Carrefour,,45.600073,-75.618247,,,0,,,,Saint-Joseph et du Carrefour
-941002,,du Carrefour | St-Pierre,,45.5844034629334,-75.6183585313647,,,0,,,,du Carrefour et Saint-Pierre
-941003,,du Carrefour | Fogarty,,45.5763812002782,-75.6195258821173,,,0,,,,du Carrefour et Fogarty
-941004,,du Carrefour | 6e rang,,45.5551157999892,-75.6305396344481,,,0,,,,du Carrefour et 6e rang
-941007,,Station Labrosse,,45.4908945,-75.6432661,,,0,,,,Station Labrosse
-941009,,du Carrefour | 6e rang,,45.5549610863595,-75.6303833007804,,,0,,,,du Carrefour et 6e rang
-941010,,du Carrefour | Fogarty,,45.5764541011588,-75.6192975743036,,,0,,,,du Carrefour et Fogarty
-941011,,du Carrefour | St-Pierre,,45.5842536138716,-75.6181298727394,,,0,,,,du Carrefour et Saint-Pierre
-941015,,du Carrefour | de la Pineraie,,45.5948055730943,-75.6173937522316,,,0,,,,du Carrefour et de la Pineraie
-941016,,du Carrefour | de la Pineraie,,45.5945587482316,-75.6171310193797,,,0,,,,du Carrefour et de la Pineraie
-941021,,du Carrefour | des Pins,,45.5896977794801,-75.6178085295581,,,0,,,,du Carrefour et des Pins
-941022,,du Carrefour | des Pins,,45.5898203515426,-75.6176041817843,,,0,,,,du Carrefour et des Pins
-941027,,du Carrefour | Brassard,,45.5715298959429,-75.6205635754361,,,0,,,,du Carrefour et Brassard
-941028,,du Carrefour | Brassard,,45.5716678341215,-75.6206730474577,,,0,,,,du Carrefour et Brassard
-941029,,du Carrefour | Mitchell,,45.5697277280569,-75.6217823639438,,,0,,,,du Carrefour et Mitchell
-941030,,du Carrefour | Mitchell,,45.5700371,-75.6217886,,,0,,,,du Carrefour et Mitchell
-941061,,Près du 2123 route du Carrefour (Arrêt de courtoisie),,45.565751,-75.6238234,,,0,,,,Près du 2123 route du Carrefour (Arrêt de courtoisie)
-941062,,Près du 2120 route du Carrefour (Arrêt de courtoisie),,45.5648111,-75.6246301,,,0,,,,Près du 2120 route du Carrefour (Arrêt de courtoisie)
-943001,,Paiement | Vigneault,,45.5642100384066,-75.6850566169536,,,0,,,,Paiement et Vigneault
-943002,,Paiement | Vigneault,,45.5643707725933,-75.6852977182337,,,0,,,,Paiement et Vigneault
-943009,,Près du 1580 Montée-Paiement (Arrêt de courtoisie),,45.5686168,-75.6815964,,,0,,,,Près du 1580 Montée-Paiement (Arrêt de courtoisie)
-943010,,Près du 1583 Montée-Paiement (Arrêt de courtoisie),,45.568599,-75.6821321,,,0,,,,Près du 1583 Montée-Paiement (Arrêt de courtoisie)
-943015,,Près du 1666 Montée-Paiement (Arrêt de courtoisie),,45.5755998,-75.6756916,,,0,,,,Près du 1666 Montée-Paiement (Arrêt de courtoisie)
-943016,,Près du 1666 Montée-Paiement (Arrêt de courtoisie),,45.5756177,-75.6760309,,,0,,,,Près du 1666 Montée-Paiement (Arrêt de courtoisie)
-943017,,Paiement | St-Charles,,45.5796405203297,-75.6745530843367,,,0,,,,Paiement et Saint-Charles
-943018,,Paiement | St-Charles,,45.5794396025963,-75.6747629317471,,,0,,,,Paiement et Saint-Charles
-943019,,Paiement | du Lac à la Perdrix (Arrêt de courtoisie),,45.5835969,-75.6727821,,,0,,,,Paiement et du Lac à la Perdrix (Arrêt de courtoisie)
-943020,,Paiement | du Lac à la Perdrix (Arrêt de courtoisie),,45.5837737,-75.6727119,,,0,,,,Paiement et du Lac à la Perdrix (Arrêt de courtoisie)
-943027,,Près du 1806 Montée-Paiement (Arrêt de courtoisie),,45.587954,-75.6686104,,,0,,,,Près du 1806 Montée-Paiement (Arrêt de courtoisie)
-943028,,Près du 1805 Montée-Paiement (Arrêt de courtoisie),,45.588146,-75.668722,,,0,,,,Près du 1805 Montée-Paiement (Arrêt de courtoisie)
-943035,,Près du 1868 Montée-Paiement,,45.5916330765929,-75.6627435864528,,,0,,,,Près du 1868 Montée-Paiement
-943036,,Près du 1867 Montée-Paiement,,45.5917759514256,-75.6629578987017,,,0,,,,Près du 1867 Montée-Paiement
-943041,,Paiement | Létourneau,,45.5960488018887,-75.6617077439162,,,0,,,,Paiement et Létourneau
-943042,,Paiement | Létourneau,,45.5962586,-75.661681,,,0,,,,Paiement et Létourneau
-943049,,Paiement | Potvin,,45.5972476110312,-75.6486994368899,,,0,,,,Paiement et Potvin
-943050,,Paiement | Potvin,,45.5973949507024,-75.6486012104424,,,0,,,,Paiement et Potvin
-943053,,Paiement | Stewart (Arrêt de courtoisie),,45.597578,-75.6398367,,,0,,,,Paiement et Stewart (Arrêt de courtoisie)
-943054,,Paiement | Stewart (Arrêt de courtoisie),,45.5977566,-75.6399082,,,0,,,,Paiement et Stewart (Arrêt de courtoisie)
-943063,,Paiement | Prud'homme (Arrêt de courtoisie),,45.598721,-75.632655,,,0,,,,Paiement et Prud'homme (Arrêt de courtoisie)
-943064,,Paiement | Prud'homme (Arrêt de courtoisie),,45.5988282,-75.6328247,,,0,,,,Paiement et Prud'homme (Arrêt de courtoisie)
-943075,,Paiement | des Chutes (Arrêt de courtoisie),,45.5993874,-75.6242199,,,0,,,,Paiement et des Chutes (Arrêt de courtoisie)
-943076,,Paiement | des Chutes (Arrêt de courtoisie),,45.5995024,-75.6242611,,,0,,,,Paiement et des Chutes (Arrêt de courtoisie)
-943079,,St-Joseph | École l'Équipage,,45.5997523854407,-75.620515143736,,,0,,,,Saint-Joseph et École l'Équipage
-943080,,St-Joseph | École l'Équipage,,45.5999086547889,-75.6205955108294,,,0,,,,Saint-Joseph et École l'Équipage
-943084,,St-Joseph | du Carrefour,,45.6001774,-75.618077,,,0,,,,Saint-Joseph et du Carrefour
-943121,,Près du 855 chemin Fogarty (Arrêt de courtoisie),,45.5756679,-75.6255135,,,0,,,,Près du 855 chemin Fogarty (Arrêt de courtoisie)
-943122,,Près du 854 chemin Fogarty (Arrêt de courtoisie),,45.575467,-75.6260002,,,0,,,,Près du 854 chemin Fogarty (Arrêt de courtoisie)
-943127,,Fogarty | Sucrerie du Terroir (Arrêt de courtoisie),,45.5784026,-75.6334431,,,0,,,,Fogarty et Sucrerie du Terroir (Arrêt de courtoisie)
-943128,,Fogarty | Sucrerie du Terroir (Arrêt de courtoisie),,45.5783044,-75.6337646,,,0,,,,Fogarty et Sucrerie du Terroir (Arrêt de courtoisie)
-943131,,Fogarty | St-Charles,,45.5810770821238,-75.6404394856292,,,0,,,,Fogarty et Saint-Charles
-943132,,Fogarty | St-Charles,,45.5809431369682,-75.64061807917,,,0,,,,Fogarty et Saint-Charles
-943145,,Près du 609 chemin Fogarty (Arrêt de courtoisie),,45.5706584,-75.6500746,,,0,,,,Près du 609 chemin Fogarty (Arrêt de courtoisie)
-943146,,Près du 612 chemin Fogarty (Arrêt de courtoisie),,45.5706182,-75.6496147,,,0,,,,Près du 612 chemin Fogarty (Arrêt de courtoisie)
-943153,,Fogarty | de la Rochelle,,45.567521241027,-75.6526399229303,,,0,,,,Fogarty et de la Rochelle
-943154,,Fogarty | de la Rochelle,,45.5675946827499,-75.6526118422715,,,0,,,,Fogarty et de la Rochelle
-943157,,Fogarty | de Chatillon (Arrêt de courtoisie),,45.5666729,-75.6615391,,,0,,,,Fogarty et de Chatillon (Arrêt de courtoisie)
-943158,,Fogarty | de Chatillon (Arrêt de courtoisie),,45.5666599,-75.6614419,,,0,,,,Fogarty et de Chatillon (Arrêt de courtoisie)
-943169,,Fogarty | Napoléon-Marenger (Arrêt de courtoisie),,45.5614074,-75.6645078,,,0,,,,Fogarty et Napoléon-Marenger (Arrêt de courtoisie)
-943170,,Fogarty | Napoléon-Marenger (Arrêt de courtoisie),,45.5613907,-75.6643986,,,0,,,,Fogarty et Napoléon-Marenger (Arrêt de courtoisie)
-943185,,Fogarty | 6e Rang,,45.5521605554529,-75.6637682668934,,,0,,,,Fogarty et 6e Rang
-943186,,Fogarty | 6e Rang,,45.5521903488577,-75.6636706267154,,,0,,,,Fogarty et 6e Rang
-943187,,Labrosse | La Vérendrye,,45.4989442,-75.6421318,,,0,,,,Labrosse et La Vérendrye
-943188,,Labrosse | La Vérendrye,,45.4989927,-75.6423565,,,0,,,,Labrosse et La Vérendrye
-943191,,Près du 676 chemin Fogarty (Arrêt de courtoisie),,45.5763042,-75.6465206,,,0,,,,Près du 676 chemin Fogarty (Arrêt de courtoisie)
-943192,,Près du 676 chemin Fogarty (Arrêt de courtoisie),,45.5762863,-75.6467349,,,0,,,,Près du 676 chemin Fogarty (Arrêt de courtoisie)
-943193,,Paiement | du Faubourg,,45.5578867108539,-75.6852262808178,,,0,,,,Paiement et du Faubourg
+941002,,du Carrefour | St-Pierre,,45.584403,-75.618359,,,0,,,,du Carrefour et Saint-Pierre
+941003,,du Carrefour | Fogarty,,45.576381,-75.619526,,,0,,,,du Carrefour et Fogarty
+941004,,du Carrefour | 6e rang,,45.555116,-75.63054,,,0,,,,du Carrefour et 6e rang
+941007,,Station Labrosse,,45.490895,-75.643266,,,0,,,,Station Labrosse
+941009,,du Carrefour | 6e rang,,45.554961,-75.630383,,,0,,,,du Carrefour et 6e rang
+941010,,du Carrefour | Fogarty,,45.576454,-75.619298,,,0,,,,du Carrefour et Fogarty
+941011,,du Carrefour | St-Pierre,,45.584254,-75.61813,,,0,,,,du Carrefour et Saint-Pierre
+941015,,du Carrefour | de la Pineraie,,45.594888,-75.61734,,,0,,,,du Carrefour et de la Pineraie
+941016,,du Carrefour | de la Pineraie,,45.594867,-75.617139,,,0,,,,du Carrefour et de la Pineraie
+941021,,du Carrefour | des Pins,,45.589698,-75.617809,,,0,,,,du Carrefour et des Pins
+941022,,du Carrefour | des Pins,,45.58982,-75.617604,,,0,,,,du Carrefour et des Pins
+941027,,du Carrefour | Brassard,,45.57153,-75.620564,,,0,,,,du Carrefour et Brassard
+941028,,du Carrefour | Brassard,,45.571668,-75.620673,,,0,,,,du Carrefour et Brassard
+941029,,du Carrefour | Mitchell,,45.569728,-75.621782,,,0,,,,du Carrefour et Mitchell
+941030,,du Carrefour | Mitchell,,45.570037,-75.621789,,,0,,,,du Carrefour et Mitchell
+941061,,Près du 2123 route du Carrefour (Arrêt de courtoisie),,45.565751,-75.623823,,,0,,,,Près du 2123 route du Carrefour (Arrêt de courtoisie)
+941062,,Près du 2120 route du Carrefour (Arrêt de courtoisie),,45.564811,-75.62463,,,0,,,,Près du 2120 route du Carrefour (Arrêt de courtoisie)
+943063,,Paiement | Prud'homme,,45.598723,-75.632754,,,0,,,,Paiement et Prud'homme
+943064,,Paiement | Prud'homme,,45.59884,-75.632599,,,0,,,,Paiement et Prud'homme
+943075,,Paiement | des Chutes (Arrêt de courtoisie),,45.599387,-75.62422,,,0,,,,Paiement et des Chutes (Arrêt de courtoisie)
+943076,,Paiement | des Chutes (Arrêt de courtoisie),,45.599502,-75.624261,,,0,,,,Paiement et des Chutes (Arrêt de courtoisie)
+943079,,St-Joseph | École l'Équipage,,45.599752,-75.620515,,,0,,,,Saint-Joseph et École l'Équipage
+943080,,St-Joseph | École l'Équipage,,45.599909,-75.620596,,,0,,,,Saint-Joseph et École l'Équipage
+943084,,St-Joseph | du Carrefour,,45.600177,-75.618077,,,0,,,,Saint-Joseph et du Carrefour
+943121,,Près du 855 chemin Fogarty (Arrêt de courtoisie),,45.575668,-75.625513,,,0,,,,Près du 855 chemin Fogarty (Arrêt de courtoisie)
+943122,,Près du 854 chemin Fogarty (Arrêt de courtoisie),,45.575467,-75.626,,,0,,,,Près du 854 chemin Fogarty (Arrêt de courtoisie)
+943127,,Fogarty | Sucrerie du Terroir (Arrêt de courtoisie),,45.578403,-75.633443,,,0,,,,Fogarty et Sucrerie du Terroir (Arrêt de courtoisie)
+943128,,Fogarty | Sucrerie du Terroir (Arrêt de courtoisie),,45.578304,-75.633765,,,0,,,,Fogarty et Sucrerie du Terroir (Arrêt de courtoisie)
+943131,,Fogarty | St-Charles,,45.58097,-75.64095,,,0,,,,Fogarty et Saint-Charles
+943132,,Fogarty | St-Charles,,45.580943,-75.640618,,,0,,,,Fogarty et Saint-Charles
+943145,,Près du 609 chemin Fogarty (Arrêt de courtoisie),,45.570658,-75.650075,,,0,,,,Près du 609 chemin Fogarty (Arrêt de courtoisie)
+943146,,Près du 612 chemin Fogarty (Arrêt de courtoisie),,45.570618,-75.649615,,,0,,,,Près du 612 chemin Fogarty (Arrêt de courtoisie)
+943153,,Fogarty | de la Rochelle,,45.567521,-75.65264,,,0,,,,Fogarty et de la Rochelle
+943154,,Fogarty | de la Rochelle,,45.567595,-75.652612,,,0,,,,Fogarty et de la Rochelle
+943157,,Fogarty | de Chatillon (Arrêt de courtoisie),,45.566673,-75.661539,,,0,,,,Fogarty et de Chatillon (Arrêt de courtoisie)
+943158,,Fogarty | de Chatillon (Arrêt de courtoisie),,45.56666,-75.661442,,,0,,,,Fogarty et de Chatillon (Arrêt de courtoisie)
+943169,,Fogarty | Napoléon-Marenger (Arrêt de courtoisie),,45.561407,-75.664508,,,0,,,,Fogarty et Napoléon-Marenger (Arrêt de courtoisie)
+943170,,Fogarty | Napoléon-Marenger (Arrêt de courtoisie),,45.561391,-75.664399,,,0,,,,Fogarty et Napoléon-Marenger (Arrêt de courtoisie)
+943185,,Fogarty | 6e Rang,,45.552161,-75.663768,,,0,,,,Fogarty et 6e Rang
+943186,,Fogarty | 6e Rang,,45.55219,-75.663671,,,0,,,,Fogarty et 6e Rang
+943187,,Labrosse | La Vérendrye,,45.498944,-75.642132,,,0,,,,Labrosse et La Vérendrye
+943188,,Labrosse | La Vérendrye,,45.498993,-75.642356,,,0,,,,Labrosse et La Vérendrye
+943191,,Près du 676 chemin Fogarty (Arrêt de courtoisie),,45.576304,-75.646521,,,0,,,,Près du 676 chemin Fogarty (Arrêt de courtoisie)
+943192,,Près du 676 chemin Fogarty (Arrêt de courtoisie),,45.576286,-75.646735,,,0,,,,Près du 676 chemin Fogarty (Arrêt de courtoisie)
+943193,,Paiement | du Faubourg,,45.557887,-75.685226,,,0,,,,Paiement et du Faubourg

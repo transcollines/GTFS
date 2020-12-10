@@ -1,101 +1,122 @@
 ﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed,trip_direction_headsign,exceptional
-921,2020-Semaine-1,2020-Semaine-1.921G_T01,Station les Galeries via Autoroute,0,104L,921G,,1,Direction Gatineau,0
-921,2020-Semaine-1,2020-Semaine-1.921G_T02,Station les Galeries via Autoroute,0,105G,921G,,1,Direction Gatineau,0
-921,2020-Semaine-1,2020-Semaine-1.921G_T03,Station les Galeries via Autoroute,0,110L,921G,,1,Direction Gatineau,0
-921,2020-Semaine-1,2020-Semaine-1.921G_T04,Station les Galeries via Autoroute,0,108G,921G,,1,Direction Gatineau,0
-921,2020-Semaine-1,2020-Semaine-1.921G_T05,Station les Galeries via Autoroute,0,114L,921G,,1,Direction Gatineau,0
-921,2020-Semaine-1,2020-Semaine-1.921C_T01,Masham via Autoroute,1,108G,921C,,1,Direction Collines,0
-921,2020-Semaine-1,2020-Semaine-1.921C_T02,Masham via Variante,1,114L,921CCV,,1,Direction Collines,0
-921,2020-Semaine-1,2020-Semaine-1.921C_T03,Masham via Autoroute,1,122T,921C,,1,Direction Collines,0
-921,2020-Semaine-1,2020-Semaine-1.921C_T04,Masham via Autoroute,1,119G,921C,,1,Direction Collines,0
-922,2020-Semaine-1,2020-Semaine-1.922G_T01,Cégep Gabrielle-Roy via Montagne,0,111M,922G,,1,Direction Gatineau,0
-922,2020-Semaine-1,2020-Semaine-1.922C_T01,Hollow Glen via Montagne,1,124M,922C,,1,Direction Collines,0
-923,2020-Semaine-1,2020-Semaine-1.923G_T01,Station les Galeries via Old Chelsea,0,108G,923GM,,1,Direction Gatineau,0
-923,2020-Semaine-1,2020-Semaine-1.923G_T02,Station les Galeries via Old Chelsea,0,105G,923GW,,1,Direction Gatineau,0
-923,2020-Semaine-1,2020-Semaine-1.923G_T03,Station les Galeries via Variante,0,110L,923GEV,,1,Direction Gatineau,0
-923,2020-Semaine-1,2020-Semaine-1.923C_T01,Église Saint-Clément via Variante,1,119G,923CEV,,1,Direction Collines,0
-923,2020-Semaine-1,2020-Semaine-1.923C_T02,Wakefield via Old Chelsea,1,116L,923CW,,1,Direction Collines,0
-923,2020-Semaine-1,2020-Semaine-1.923C_T03,Masham via Old Chelsea,1,122T,923C,,1,Direction Collines,0
-925,2020-Semaine-1,2020-Semaine-1.925G_T01,Station les Galeries via de la Mine,0,104L,925G,,1,Direction Gatineau,0
-925,2020-Semaine-1,2020-Semaine-1.925G_T02,Station les Galeries via de la Mine,0,112G,925G,,1,Direction Gatineau,0
-925,2020-Semaine-1,2020-Semaine-1.925C_T01,Masham via de la Mine,1,112G,925C,,1,Direction Collines,0
-925,2020-Semaine-1,2020-Semaine-1.925C_T02,Masham via de la Mine,1,116L,925C,,1,Direction Collines,0
-925,2020-Semaine-1,2020-Semaine-1.925C_T03,Old Chelsea via de la Mine,1,114L,925CC,,1,Direction Collines,0
-925,2020-Semaine-1,2020-Semaine-1.925C_T04,Old Chelsea via de la Mine,1,114L,925CLC,,1,Direction Collines,0
-931,2020-Semaine-1,2020-Semaine-1.931G_T01,Station de la Gappe via Bouchette,0,106T,931G,,1,Direction Gatineau,0
-931,2020-Semaine-1,2020-Semaine-1.931G_T02,Station de la Gappe via Bouchette,0,109T,931G,,1,Direction Gatineau,0
-931,2020-Semaine-1,2020-Semaine-1.931G_T03,Station de la Gappe via Bouchette,0,113M,931G,,1,Direction Gatineau,0
-931,2020-Semaine-1,2020-Semaine-1.931C_T01,Hogan via Bouchette,1,113M,931C,,1,Direction Collines,0
-931,2020-Semaine-1,2020-Semaine-1.931C_T02,Hogan via Bouchette,1,117T,931C,,1,Direction Collines,0
-931,2020-Semaine-1,2020-Semaine-1.931C_T03,Hogan via Bouchette,1,117T,931C,,1,Direction Collines,0
-931,2020-Semaine-1,2020-Semaine-1.931C_T04,Hogan via Bouchette,1,118G,931C,,1,Direction Collines,0
-933,2020-Semaine-1,2020-Semaine-1.933G_T01,Station de la Gappe via Hogan,0,106T,933G,,1,Direction Gatineau,0
-933,2020-Semaine-1,2020-Semaine-1.933G_T02,Station de la Gappe via Hogan,0,109T,933G,,1,Direction Gatineau,0
-933,2020-Semaine-1,2020-Semaine-1.933C_T01,Des Érables via Hogan,1,120G,933C,,1,Direction Collines,0
-933,2020-Semaine-1,2020-Semaine-1.933C_T02,Des Érables via Hogan,1,121G,933C,,1,Direction Collines,0
-934,2020-Semaine-1,2020-Semaine-1.934G_T01,Station de la Gappe via Route 307,0,117T,934G,,1,Direction Gatineau,0
-934,2020-Semaine-1,2020-Semaine-1.934G_T02,Station de la Gappe via Route 307,0,121G,934G,,1,Direction Gatineau,0
-934,2020-Semaine-1,2020-Semaine-1.934C_T01,Hogan via Route 307,1,106T,934C,,1,Direction Collines,0
-934,2020-Semaine-1,2020-Semaine-1.934C_T02,Hogan via Route 307,1,109T,934C,,1,Direction Collines,0
-935,2020-Semaine-1,2020-Semaine-1.935G_T01,Station de la Cité via Lamoureux,0,102G,935G,,1,Direction Gatineau,0
-935,2020-Semaine-1,2020-Semaine-1.935G_T02,Station de la Cité via Lamoureux,0,102G,935G,,1,Direction Gatineau,0
-935,2020-Semaine-1,2020-Semaine-1.935C_T01,Hogan via Lamoureux,1,121G,935C,,1,Direction Collines,0
-935,2020-Semaine-1,2020-Semaine-1.935C_T02,Hogan via Lamoureux,1,120G,935C,,1,Direction Collines,0
-941,2020-Semaine-1,2020-Semaine-1.941G_T01,Station Labrosse via Carrefour,0,103M,941G,,1,Direction Gatineau,0
-941,2020-Semaine-1,2020-Semaine-1.941G_T02,Station Labrosse via Carrefour,0,103M,941G,,1,Direction Gatineau,0
-941,2020-Semaine-1,2020-Semaine-1.941G_T03,Station Labrosse via Carrefour,0,107G,941G,,1,Direction Gatineau,0
-941,2020-Semaine-1,2020-Semaine-1.941G_T04,Station Labrosse via Carrefour,0,113M,941G,,1,Direction Gatineau,0
-941,2020-Semaine-1,2020-Semaine-1.941G_T05,Station Labrosse via Carrefour,0,118G,941G,,1,Direction Gatineau,0
-941,2020-Semaine-1,2020-Semaine-1.941C_T01,Perkins via Carrefour,1,107G,941C,,1,Direction Collines,0
-941,2020-Semaine-1,2020-Semaine-1.941C_T02,Perkins via Carrefour,1,113M,941C,,1,Direction Collines,0
-941,2020-Semaine-1,2020-Semaine-1.941C_T03,Perkins via Carrefour,1,118G,941C,,1,Direction Collines,0
-941,2020-Semaine-1,2020-Semaine-1.941C_T04,Perkins via Carrefour,1,123M,941C,,1,Direction Collines,0
-941,2020-Semaine-1,2020-Semaine-1.941C_T05,Perkins via Carrefour,1,123M,941C,,1,Direction Collines,0
-943,2020-Semaine-1,2020-Semaine-1.943G_T01,Station Labrosse via Perkins,0,107G,943G,,1,Direction Gatineau,0
-943,2020-Semaine-1,2020-Semaine-1.943C_T01,Paiement via Perkins,1,118G,943C,,1,Direction Collines,0
-923,2020-Ferie-1,2020-Ferie-1.923G_T01,Station les Galeries via Old Chelsea,0,401G,923G,,1,Direction Gatineau,0
-923,2020-Ferie-1,2020-Ferie-1.923C_T01,Masham via Old Chelsea,1,402G,923C,,1,Direction Collines,0
-931,2020-Ferie-1,2020-Ferie-1.931G_T01,Station de la Gappe via Bouchette,0,401G,931G,,1,Direction Gatineau,0
-931,2020-Ferie-1,2020-Ferie-1.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Direction Collines,0
-941,2020-Ferie-1,2020-Ferie-1.941G_T01,Station Labrosse via Carrefour,0,401G,941G,,1,Direction Gatineau,0
-941,2020-Ferie-1,2020-Ferie-1.941C_T01,Perkins via Carrefour,1,402G,941C,,1,Direction Collines,0
-921,2020-COVID19-8,2020-COVID19-8.921G_T01,Station les Galeries via Autoroute,0,702T,921G,,1,Direction Gatineau,1
-921,2020-COVID19-8,2020-COVID19-8.921G_T02,Station les Galeries via Autoroute,0,703L,921G,,1,Direction Gatineau,1
-921,2020-COVID19-8,2020-COVID19-8.921G_T03,Station les Galeries via Autoroute,0,711L,921G,,1,Direction Gatineau,1
-921,2020-COVID19-8,2020-COVID19-8.921C_T01,Masham via Autoroute,1,703L,921C,,1,Direction Collines,1
-921,2020-COVID19-8,2020-COVID19-8.921C_T02,Masham via Variante,1,711L,921CCV,,1,Direction Collines,1
-922,2020-COVID19-8,2020-COVID19-8.922G_T01,Cégep Gabrielle-Roy via Montagne,0,708M,922G,,1,Direction Gatineau,1
-922,2020-COVID19-8,2020-COVID19-8.922C_T01,Hollow Glen via Montagne,1,717M,922C,,1,Direction Collines,1
-923,2020-COVID19-8,2020-COVID19-8.923G_T01,Station les Galeries via Old Chelsea,0,703L,923G,,1,Direction Gatineau,1
-923,2020-COVID19-8,2020-COVID19-8.923G_T02,Station les Galeries via Old Chelsea,0,702T,923G,,1,Direction Gatineau,1
-923,2020-COVID19-8,2020-COVID19-8.923C_T01,Masham via Old Chelsea,1,714T,923C,,1,Direction Collines,1
-923,2020-COVID19-8,2020-COVID19-8.923C_T02,Masham via Old Chelsea,1,711L,923C,,1,Direction Collines,1
-923,2020-COVID19-8,2020-COVID19-8.923C_T03,Masham via Old Chelsea,1,714T,923C,,1,Direction Collines,1
-925,2020-COVID19-8,2020-COVID19-8.925G_T01,Station les Galeries via de la Mine,0,707L,925G,,1,Direction Gatineau,1
-925,2020-COVID19-8,2020-COVID19-8.925G_T02,Station les Galeries via de la Mine,0,709G,925G,,1,Direction Gatineau,1
-925,2020-COVID19-8,2020-COVID19-8.925C_T01,Masham via de la Mine,1,709G,925C,,1,Direction Collines,1
-925,2020-COVID19-8,2020-COVID19-8.925C_T02,Masham via de la Mine,1,712L,925C,,1,Direction Collines,1
-931,2020-COVID19-8,2020-COVID19-8.931G_T01,Station de la Gappe via Bouchette,0,706T,931G,,1,Direction Gatineau,1
-931,2020-COVID19-8,2020-COVID19-8.931G_T02,Station de la Gappe via Bouchette,0,706T,931G,,1,Direction Gatineau,1
-931,2020-COVID19-8,2020-COVID19-8.931G_T03,Station de la Gappe via Bouchette,0,710M,931G,,1,Direction Gatineau,1
-931,2020-COVID19-8,2020-COVID19-8.931C_T01,Hogan via Bouchette,1,710M,931C,,1,Direction Collines,1
-931,2020-COVID19-8,2020-COVID19-8.931C_T02,Hogan via Bouchette,1,716T,931C,,1,Direction Collines,1
-931,2020-COVID19-8,2020-COVID19-8.931C_T03,Hogan via Bouchette,1,716T,931C,,1,Direction Collines,1
-933,2020-COVID19-8,2020-COVID19-8.933G_T01,Station de la Gappe via Hogan,0,705G,933G,,1,Direction Gatineau,1
-933,2020-COVID19-8,2020-COVID19-8.933C_T01,Des Érables via Hogan,1,718G,933C,,1,Direction Collines,1
-934,2020-COVID19-8,2020-COVID19-8.934G_T01,Station de la Gappe via Route 307,0,716T,934G,,1,Direction Gatineau,1
-934,2020-COVID19-8,2020-COVID19-8.934C_T01,Hogan via Route 307,1,706T,934C,,1,Direction Collines,1
-935,2020-COVID19-8,2020-COVID19-8.935G_T01,Station de la Cité via Lamoureux,0,704M,935G,,1,Direction Gatineau,1
-935,2020-COVID19-8,2020-COVID19-8.935C_T01,Hogan via Lamoureux,1,715M,935C,,1,Direction Collines,1
-941,2020-COVID19-8,2020-COVID19-8.941G_T01,Station Labrosse via Carrefour,0,701G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-8,2020-COVID19-8.941G_T02,Station Labrosse via Carrefour,0,701G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-8,2020-COVID19-8.941G_T03,Station Labrosse via Carrefour,0,710M,941G,,1,Direction Gatineau,1
-941,2020-COVID19-8,2020-COVID19-8.941G_T04,Station Labrosse via Carrefour,0,713G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-8,2020-COVID19-8.941G_T05,Station Labrosse via Carrefour,0,713G,941G,,1,Direction Gatineau,1
-941,2020-COVID19-8,2020-COVID19-8.941C_T01,Perkins via Carrefour,1,701G,941C,,1,Direction Collines,1
-941,2020-COVID19-8,2020-COVID19-8.941C_T02,Perkins via Carrefour,1,701G,941C,,1,Direction Collines,1
-941,2020-COVID19-8,2020-COVID19-8.941C_T03,Perkins via Carrefour,1,710M,941C,,1,Direction Collines,1
-941,2020-COVID19-8,2020-COVID19-8.941C_T04,Perkins via Carrefour,1,713G,941C,,1,Direction Collines,1
-941,2020-COVID19-8,2020-COVID19-8.941C_T05,Perkins via Carrefour,1,713G,941C,,1,Direction Collines,1
-943,2020-COVID19-8,2020-COVID19-8.943G_T01,Station Labrosse via Perkins,0,701G,943GP,,1,Direction Gatineau,1
-943,2020-COVID19-8,2020-COVID19-8.943C_T01,Perkins,1,713G,943CP,,1,Direction Collines,1
+923,2020-Ferie-1,2020-Ferie-1.923G_T01,Station les Galeries via Old Chelsea,0,401G,923G,,1,Gatineau,0
+923,2020-Ferie-1,2020-Ferie-1.923C_T01,Masham via Old Chelsea,1,402G,923C,,1,Collines,0
+931,2020-Ferie-1,2020-Ferie-1.931G_T01,Station de la Gappe via Bouchette,0,401G,931G,,1,Gatineau,0
+931,2020-Ferie-1,2020-Ferie-1.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Collines,0
+941,2020-Ferie-1,2020-Ferie-1.941G_T01,Station Labrosse via Carrefour,0,401G,941G,,1,Gatineau,0
+941,2020-Ferie-1,2020-Ferie-1.941C_T01,Perkins via Carrefour,1,402G,941C,,1,Collines,0
+921,2020-COVID19-8,2020-COVID19-8.921G_T01,Station les Galeries via Autoroute,0,702T,921G,,1,Gatineau,1
+921,2020-COVID19-8,2020-COVID19-8.921G_T02,Station les Galeries via Autoroute,0,703L,921G,,1,Gatineau,1
+921,2020-COVID19-8,2020-COVID19-8.921G_T03,Station les Galeries via Autoroute,0,711L,921G,,1,Gatineau,1
+921,2020-COVID19-8,2020-COVID19-8.921C_T01,Masham via Autoroute,1,703L,921C,,1,Collines,1
+921,2020-COVID19-8,2020-COVID19-8.921C_T02,Masham via Variante,1,711L,921CCV,,1,Collines,1
+922,2020-COVID19-8,2020-COVID19-8.922G_T01,Cégep Gabrielle-Roy via Montagne,0,708M,922G,,1,Gatineau,1
+922,2020-COVID19-8,2020-COVID19-8.922C_T01,Hollow Glen via Montagne,1,717M,922C,,1,Collines,1
+923,2020-COVID19-8,2020-COVID19-8.923G_T01,Station les Galeries via Old Chelsea,0,703L,923G,,1,Gatineau,1
+923,2020-COVID19-8,2020-COVID19-8.923G_T02,Station les Galeries via Old Chelsea,0,702T,923G,,1,Gatineau,1
+923,2020-COVID19-8,2020-COVID19-8.923C_T01,Masham via Old Chelsea,1,714T,923C,,1,Collines,1
+923,2020-COVID19-8,2020-COVID19-8.923C_T02,Masham via Old Chelsea,1,711L,923C,,1,Collines,1
+923,2020-COVID19-8,2020-COVID19-8.923C_T03,Masham via Old Chelsea,1,714T,923C,,1,Collines,1
+925,2020-COVID19-8,2020-COVID19-8.925G_T01,Station les Galeries via de la Mine,0,707L,925G,,1,Gatineau,1
+925,2020-COVID19-8,2020-COVID19-8.925G_T02,Station les Galeries via de la Mine,0,709G,925G,,1,Gatineau,1
+925,2020-COVID19-8,2020-COVID19-8.925C_T01,Masham via de la Mine,1,709G,925C,,1,Collines,1
+925,2020-COVID19-8,2020-COVID19-8.925C_T02,Masham via de la Mine,1,712L,925C,,1,Collines,1
+931,2020-COVID19-8,2020-COVID19-8.931G_T01,Station de la Gappe via Bouchette,0,706T,931G,,1,Gatineau,1
+931,2020-COVID19-8,2020-COVID19-8.931G_T02,Station de la Gappe via Bouchette,0,706T,931G,,1,Gatineau,1
+931,2020-COVID19-8,2020-COVID19-8.931G_T03,Station de la Gappe via Bouchette,0,710M,931G,,1,Gatineau,1
+931,2020-COVID19-8,2020-COVID19-8.931C_T01,Hogan via Bouchette,1,710M,931C,,1,Collines,1
+931,2020-COVID19-8,2020-COVID19-8.931C_T02,Hogan via Bouchette,1,716T,931C,,1,Collines,1
+931,2020-COVID19-8,2020-COVID19-8.931C_T03,Hogan via Bouchette,1,716T,931C,,1,Collines,1
+933,2020-COVID19-8,2020-COVID19-8.933G_T01,Station de la Gappe via Hogan,0,705G,933G,,1,Gatineau,1
+933,2020-COVID19-8,2020-COVID19-8.933C_T01,Des Érables via Hogan,1,718G,933C,,1,Collines,1
+934,2020-COVID19-8,2020-COVID19-8.934G_T01,Station de la Gappe via Route 307,0,716T,934G,,1,Gatineau,1
+934,2020-COVID19-8,2020-COVID19-8.934C_T01,Hogan via Route 307,1,706T,934C,,1,Collines,1
+935,2020-COVID19-8,2020-COVID19-8.935G_T01,Station de la Cité via Lamoureux,0,704M,935G,,1,Gatineau,1
+935,2020-COVID19-8,2020-COVID19-8.935C_T01,Hogan via Lamoureux,1,715M,935C,,1,Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T01,Station Labrosse via Carrefour,0,701G,941G,,1,Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T02,Station Labrosse via Carrefour,0,701G,941G,,1,Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T03,Station Labrosse via Carrefour,0,710M,941G,,1,Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T04,Station Labrosse via Carrefour,0,713G,941G,,1,Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941G_T05,Station Labrosse via Carrefour,0,713G,941G,,1,Gatineau,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T01,Perkins via Carrefour,1,701G,941C,,1,Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T02,Perkins via Carrefour,1,701G,941C,,1,Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T03,Perkins via Carrefour,1,710M,941C,,1,Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T04,Perkins via Carrefour,1,713G,941C,,1,Collines,1
+941,2020-COVID19-8,2020-COVID19-8.941C_T05,Perkins via Carrefour,1,713G,941C,,1,Collines,1
+943,2020-COVID19-8,2020-COVID19-8.943G_T01,Station Labrosse via Perkins,0,701G,943GP,,1,Gatineau,1
+943,2020-COVID19-8,2020-COVID19-8.943C_T01,Perkins,1,713G,943CP,,1,Collines,1
+910,2021-Semaine-1,2021-Semaine-1.910G_T01,Cégep Gabrielle-Roy via Route 148,0,101T,910G,,1,Gatineau,0
+910,2021-Semaine-1,2021-Semaine-1.910P_T01,Chapeau via Route 148,1,116T,910P,,1,Pontiac,0
+921,2021-Semaine-1,2021-Semaine-1.921G_T01,Station les Galeries via Autoroute,0,103T,921GR,,1,Gatineau,0
+921,2021-Semaine-1,2021-Semaine-1.921G_T02,Station les Galeries via Autoroute,0,104G,921GR,,1,Gatineau,0
+921,2021-Semaine-1,2021-Semaine-1.921G_T03,Station les Galeries via Autoroute,0,112T,921GR,,1,Gatineau,0
+921,2021-Semaine-1,2021-Semaine-1.921C_T01,Masham via Autoroute,1,104G,921CR,,1,Collines,0
+922,2021-Semaine-1,2021-Semaine-1.922G_T01,Cégep Gabrielle-Roy via Montagne,0,109M,922G,,1,Gatineau,0
+922,2021-Semaine-1,2021-Semaine-1.922C_T01,Hollow Glen via Montagne,1,119M,922C,,1,Collines,0
+923,2021-Semaine-1,2021-Semaine-1.923G_T01,Station les Galeries via Old Chelsea,0,104G,923G,,1,Gatineau,0
+923,2021-Semaine-1,2021-Semaine-1.923G_T02,Station les Galeries via Old Chelsea,0,103T,923G,,1,Gatineau,0
+923,2021-Semaine-1,2021-Semaine-1.923C_T01,Masham via Old Chelsea,1,115G,923C,,1,Collines,0
+923,2021-Semaine-1,2021-Semaine-1.923C_T02,Masham via Old Chelsea,1,112T,923C,,1,Collines,0
+923,2021-Semaine-1,2021-Semaine-1.923C_T03,Masham via Old Chelsea,1,115G,923C,,1,Collines,0
+924,2021-Semaine-1,2021-Semaine-1.924G_T01,Cégep Gabrielle-Roy via Scott,0,121G,924G,,1,Gatineau,0
+924,2021-Semaine-1,2021-Semaine-1.924C_T01,Masham via Scott,1,112T,924C,,1,Collines,0
+924,2021-Semaine-1,2021-Semaine-1.924C_T02,Masham via Scott,1,121G,924C,,1,Collines,0
+924,2021-Semaine-1,2021-Semaine-1.924C_T03,Masham via Scott,1,121G,924C,,1,Collines,0
+925,2021-Semaine-1,2021-Semaine-1.925G_T01,Station les Galeries via de la Mine,0,108T,925G,,1,Gatineau,0
+925,2021-Semaine-1,2021-Semaine-1.925G_T02,Station les Galeries via de la Mine,0,110G,925G,,1,Gatineau,0
+925,2021-Semaine-1,2021-Semaine-1.925C_T01,Masham via de la Mine,1,110G,925C,,1,Collines,0
+925,2021-Semaine-1,2021-Semaine-1.925C_T02,Masham via de la Mine,1,113T,925C,,1,Collines,0
+931,2021-Semaine-1,2021-Semaine-1.931G_T01,Station de la Gappe via Bouchette,0,107G,931G,,1,Gatineau,0
+931,2021-Semaine-1,2021-Semaine-1.931G_T02,Station de la Gappe via Bouchette,0,107G,931G,,1,Gatineau,0
+931,2021-Semaine-1,2021-Semaine-1.931G_T03,Station de la Gappe via Bouchette,0,111M,931G,,1,Gatineau,0
+931,2021-Semaine-1,2021-Semaine-1.931G_T04,Station de la Gappe via Bouchette,0,123M,931G,,1,Gatineau,0
+931,2021-Semaine-1,2021-Semaine-1.931C_T01,Hogan via Bouchette,1,111M,931C,,1,Collines,0
+931,2021-Semaine-1,2021-Semaine-1.931C_T02,Hogan via Bouchette,1,118G,931C,,1,Collines,0
+931,2021-Semaine-1,2021-Semaine-1.931C_T03,Hogan via Bouchette,1,118G,931C,,1,Collines,0
+931,2021-Semaine-1,2021-Semaine-1.931C_T04,Hogan via Bouchette,1,123M,931C,,1,Collines,0
+931,2021-Semaine-1,2021-Semaine-1.931C_T05,Hogan via Bouchette,1,123M,931C,,1,Collines,0
+933,2021-Semaine-1,2021-Semaine-1.933G_T01,Station de la Gappe via Hogan,0,106G,933G,,1,Gatineau,0
+933,2021-Semaine-1,2021-Semaine-1.933C_T01,Des Érables via Hogan,1,120G,933C,,1,Collines,0
+934,2021-Semaine-1,2021-Semaine-1.934G_T01,Station de la Gappe via Route 307,0,118G,934G,,1,Gatineau,0
+934,2021-Semaine-1,2021-Semaine-1.934C_T01,Hogan via Route 307,1,107G,934C,,1,Collines,0
+935,2021-Semaine-1,2021-Semaine-1.935G_T01,Station de la Cité via Lamoureux,0,105M,935G,,1,Gatineau,0
+935,2021-Semaine-1,2021-Semaine-1.935C_T01,Hogan via Lamoureux,1,117M,935C,,1,Collines,0
+941,2021-Semaine-1,2021-Semaine-1.941G_T01,Station Labrosse via Carrefour,0,102G,941G,,1,Gatineau,0
+941,2021-Semaine-1,2021-Semaine-1.941G_T02,Station Labrosse via Carrefour,0,102G,941G,,1,Gatineau,0
+941,2021-Semaine-1,2021-Semaine-1.941G_T03,Station Labrosse via Carrefour,0,111M,941G,,1,Gatineau,0
+941,2021-Semaine-1,2021-Semaine-1.941G_T04,Station Labrosse via Carrefour,0,114G,941G,,1,Gatineau,0
+941,2021-Semaine-1,2021-Semaine-1.941G_T05,Station Labrosse via Carrefour,0,114G,941G,,1,Gatineau,0
+941,2021-Semaine-1,2021-Semaine-1.941C_T01,Perkins via Carrefour,1,102G,941C,,1,Collines,0
+941,2021-Semaine-1,2021-Semaine-1.941C_T02,Perkins via Carrefour,1,102G,941C,,1,Collines,0
+941,2021-Semaine-1,2021-Semaine-1.941C_T03,Perkins via Carrefour,1,111M,941C,,1,Collines,0
+941,2021-Semaine-1,2021-Semaine-1.941C_T04,Perkins via Carrefour,1,114G,941C,,1,Collines,0
+941,2021-Semaine-1,2021-Semaine-1.941C_T05,Perkins via Carrefour,1,114G,941C,,1,Collines,0
+943,2021-Semaine-1,2021-Semaine-1.943G_T01,Station Labrosse via Fogarty,0,102G,943GB,,1,Gatineau,0
+943,2021-Semaine-1,2021-Semaine-1.943G_T02,Station Labrosse via Fogarty,0,122M,943GB,,1,Gatineau,0
+943,2021-Semaine-1,2021-Semaine-1.943C_T01,Perkins via Fogarty,1,114G,943CB,,1,Collines,0
+943,2021-Semaine-1,2021-Semaine-1.943C_T02,Perkins via Fogarty,1,122M,943CB,,1,Collines,0
+943,2021-Semaine-1,2021-Semaine-1.943C_T03,Perkins via Fogarty,1,122M,943CB,,1,Collines,0
+924,2021-Weekend-1,2021-Weekend-1.924G_T01,Station les Galeries via Scott,0,202G,924GG,,1,Gatineau,0
+924,2021-Weekend-1,2021-Weekend-1.924G_T02,Station les Galeries via Scott,0,203G,924GG,,1,Gatineau,0
+924,2021-Weekend-1,2021-Weekend-1.924G_T03,Station les Galeries via Scott,0,205G,924GG,,1,Gatineau,0
+924,2021-Weekend-1,2021-Weekend-1.924C_T01,Masham via Scott,1,202G,924CG,,1,Collines,0
+924,2021-Weekend-1,2021-Weekend-1.924C_T02,Masham via Scott,1,203G,924CG,,1,Collines,0
+924,2021-Weekend-1,2021-Weekend-1.924C_T03,Masham via Scott,1,205G,924CG,,1,Collines,0
+931,2021-Weekend-1,2021-Weekend-1.931G_T01,Station de la Gappe via Bouchette,0,201M,931G,,1,Gatineau,0
+931,2021-Weekend-1,2021-Weekend-1.931G_T02,Station de la Gappe via Bouchette,0,204M,931G,,1,Gatineau,0
+931,2021-Weekend-1,2021-Weekend-1.931G_T03,Station de la Gappe via Bouchette,0,206M,931G,,1,Gatineau,0
+931,2021-Weekend-1,2021-Weekend-1.931C_T01,Hogan via Bouchette,1,201M,931C,,1,Collines,0
+931,2021-Weekend-1,2021-Weekend-1.931C_T02,Hogan via Bouchette,1,204M,931C,,1,Collines,0
+931,2021-Weekend-1,2021-Weekend-1.931C_T03,Hogan via Bouchette,1,206M,931C,,1,Collines,0
+943,2021-Weekend-1,2021-Weekend-1.943G_T01,Station Labrosse via Fogarty,0,201M,943GB,,1,Gatineau,0
+943,2021-Weekend-1,2021-Weekend-1.943G_T02,Station Labrosse via Fogarty,0,204M,943GB,,1,Gatineau,0
+943,2021-Weekend-1,2021-Weekend-1.943G_T03,Station Labrosse via Fogarty,0,206M,943GB,,1,Gatineau,0
+943,2021-Weekend-1,2021-Weekend-1.943C_T01,Perkins via Fogarty,1,201M,943CB,,1,Collines,0
+943,2021-Weekend-1,2021-Weekend-1.943C_T02,Perkins via Fogarty,1,204M,943CB,,1,Collines,0
+943,2021-Weekend-1,2021-Weekend-1.943C_T03,Perkins via Fogarty,1,206M,943CB,,1,Collines,0
+924,2021-CFeries-1,2021-CFeries-1.924G_T01,Station les Galeries via Scott,0,401G,924GG,,1,Gatineau,0
+924,2021-CFeries-1,2021-CFeries-1.924C_T01,Masham via Scott,1,402G,924CG,,1,Collines,0
+931,2021-CFeries-1,2021-CFeries-1.931G_T01,Station de la Gappe via Bouchette,0,401G,931G,,1,Gatineau,0
+931,2021-CFeries-1,2021-CFeries-1.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Collines,0
+943,2021-CFeries-1,2021-CFeries-1.943G_T01,Station Labrosse via Fogarty,0,401G,943GB,,1,Gatineau,0
+943,2021-CFeries-1,2021-CFeries-1.943C_T01,Perkins via Fogarty,1,402G,943CB,,1,Collines,0

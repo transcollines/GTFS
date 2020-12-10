@@ -1,4 +1,1 @@
 ﻿from_stop_id,to_stop_id,transfer_type,min_transfer_time,from_route_id,to_route_id,from_trip_id,to_trip_id
-925219,923015,1,,,,2020-Semaine-1.925C_T03,2020-Semaine-1.921C_T04
-925219,923015,1,,,,2020-Semaine-1.925C_T03,2020-Semaine-1.923C_T02
-925219,923015,1,,,,2020-Semaine-1.925C_T04,2020-Semaine-1.923C_T03

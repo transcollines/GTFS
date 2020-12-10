@@ -1,3 +1,4 @@
 ﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-2020-Semaine-1,1,1,1,1,1,0,0,20210104,20210105
 2020-COVID19-8,1,1,1,1,1,0,0,20201005,20210103
+2021-Semaine-1,1,1,1,1,1,0,0,20210104,20220103
+2021-Weekend-1,0,0,0,0,0,1,1,20210104,20220103
