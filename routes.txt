@@ -1,13 +1,13 @@
 ﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
 910,Transcollines,910,Pontiac - Gatineau,via Route 148,3,,90298E,ffffff,910,0,0
-921,Transcollines,921,La Pêche - Chelsea - Gatineau,via Autoroute ou Variante,3,,90298E,ffffff,921,0,0
+921,Transcollines,921,La Pêche - Chelsea - Gatineau,via Autoroute,3,,90298E,ffffff,921,0,0
 922,Transcollines,922,Chelsea - Gatineau,via Montagne,3,,0072b1,ffffff,922,0,0
 923,Transcollines,923,La Pêche - Chelsea - Gatineau,via Old Chelsea,3,,00AEEF,ffffff,923,0,0
 924,Transcollines,924,La Pêche - Chelsea - Gatineau,via Scott,3,,5DBF97,ffffff,924,0,0
-925,Transcollines,925,La Pêche - Chelsea - Gatineau,via de la Mine,3,,0072b1,ffffff,925,0,0
-931,Transcollines,931,Cantley - Gatineau,via Bouchette,3,,0072b1,ffffff,931,0,0
-933,Transcollines,933,Cantley - Gatineau,via Hogan,3,,193C56,ffffff,933,0,0
-934,Transcollines,934,Cantley - Gatineau,via Route 307,3,,00AEEF,ffffff,934,0,0
-935,Transcollines,935,Cantley - Val-des-Monts - Gatineau,via Lamoureux,3,,0072b1,ffffff,935,0,0
-941,Transcollines,941,Val-des-Monts - Gatineau,via Carrefour,3,,0072b1,ffffff,941,0,0
-943,Transcollines,943,Val-des-Monts - Gatineau,via Perkins,3,,193C56,ffffff,943,0,0
+925,Transcollines,925,La Pêche - Chelsea - Gatineau,via de la Mine,3,,253F8E,ffffff,925,0,0
+931,Transcollines,931,Cantley - Gatineau,via Bouchette,3,,90298E,ffffff,931,0,0
+933,Transcollines,933,Cantley - Gatineau,via Hogan,3,,00AEEF,ffffff,933,0,0
+934,Transcollines,934,Cantley - Gatineau,via Route 307,3,,5DBF97,ffffff,934,0,0
+935,Transcollines,935,Cantley - Val-des-Monts - Gatineau,via Lamoureux,3,,253F8E,ffffff,935,0,0
+941,Transcollines,941,Val-des-Monts - Gatineau,via Carrefour,3,,90298E,ffffff,941,0,0
+943,Transcollines,943,Val-des-Monts - Gatineau,via Fogarty,3,,00AEEF,ffffff,943,0,0

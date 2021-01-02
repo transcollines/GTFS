@@ -138,7 +138,7 @@
 910137,,Route 148 | Elm (Arrêt de courtoisie),,45.459926,-75.932063,,,0,,,,Route 148 et Elm (Arrêt de courtoisie)
 910138,,Route 148 | Elm (Arrêt de courtoisie),,45.459796,-75.931784,,,0,,,,Route 148 et Elm (Arrêt de courtoisie)
 910139,,Route 148 | des Lilas (Arrêt de courtoisie),,45.442376,-75.918113,,,0,,,,Route 148 et des Lilas (Arrêt de courtoisie)
-910140,,Route 148 | des Lilsas (Arrêt de courtoisie),,45.442364,-75.917823,,,0,,,,Route 148 et des Lilas (Arrêt de courtoisie)
+910140,,Route 148 | des Lilas (Arrêt de courtoisie),,45.442364,-75.917823,,,0,,,,Route 148 et des Lilas (Arrêt de courtoisie)
 910141,,Route 148 | Fortin (Arrêt de courtoisie),,45.436041,-75.909449,,,0,,,,Route 148 et Fortin (Arrêt de courtoisie)
 910142,,Route 148 | du Marquis (Arrêt de courtoisie),,45.436031,-75.909286,,,0,,,,Route 148 et du Marquis (Arrêt de courtoisie)
 910143,,Route 148 | Terry-Fox,,45.42931,-75.900131,,,0,,,,Route 148 et Terry-Fox
@@ -208,7 +208,7 @@
 923009,,Édifice Louis St-Laurent,,45.444148,-75.727803,,,0,,,,Édifice Louis Saint-Laurent
 923010,,Place Cartier,,45.444731,-75.732837,,,0,,,,Place Cartier
 923013,,Route 105 | Loretta,,45.488925,-75.759536,,,0,,,,Route 105 et Loretta
-923015,,Old Chelsea | Scott,,45.50312,-75.810926,,,0,,,,Old Chelsea et Scott
+923015,,Scott | Old Chelsea,,45.5036405699193,-75.8113405108867,,,0,,,,Scott et Old Chelsea
 923019,,Église St-Clément,,45.602545,-75.892695,,,0,,,,Église Saint-Clément
 923020,,Église St-Clément,,45.602435,-75.893349,,,0,,,,Église Saint-Clément
 923022,,Riverside | Maclaren,,45.649976,-75.925211,,,0,,,,Riverside et Maclaren
@@ -327,7 +327,7 @@
 925160,,Scott | Belle-Terre,,45.51709,-75.808702,,,0,,,,Scott et Belle-Terre
 925161,,Scott | Belle-Terre,,45.516876,-75.808971,,,0,,,,Scott et Belle-Terre
 925167,,Route 105 | St-Clément,,45.599565,-75.900877,,,0,,,,Route 105 et Saint-Clément
-925168,,Route 105 | de la Rivière,,45.573757,-75.870897,,,0,,,,Route 105 et de la Rivière
+925168,,Route 105 | de la Rivière,,45.5732770907465,-75.8700497304379,,,0,,,,Route 105 et de la Rivière
 925171,,Kingsmere | Notch,,45.500132,-75.814568,,,0,,,,Kingsmere et Notch
 925172,,Kingsmere | Notch,,45.500038,-75.814421,,,0,,,,Kingsmere et Notch
 925177,,Notch | Dunn (Arrêt de courtoisie),,45.495497,-75.814047,,,0,,,,Notch et Dunn (Arrêt de courtoisie)
@@ -351,7 +351,6 @@
 925214,,Place Vincent Massey,,45.442762,-75.732924,,,0,,,,Place Vincent Massey
 925217,,Gamelin | St-Joseph,,45.443818,-75.733663,,,0,,,,Gamelin et Saint-Joseph
 925218,,Lionel-Émond | Gamelin,,45.443541,-75.747319,,,0,,,,Lionel-Émond et Gamelin
-925219,,Old Chelsea | Scott,,45.503017,-75.811561,,,0,,,,Old Chelsea et Scott
 925224,,Route 105 | Ditchfield,,45.562712,-75.843477,,,0,,,,Route 105 et Ditchfield
 925230,,Route 105 | Pine (Arrêt de courtoisie),,45.578989,-75.876917,,,0,,,,Route 105 et Pine (Arrêt de courtoisie)
 925240,,Route 105 | Hammond (Arrêt de courtoisie),,45.588763,-75.889495,,,0,,,,Route 105 et Hammond (Arrêt de courtoisie)
@@ -548,10 +547,6 @@
 943079,,St-Joseph | École l'Équipage,,45.599752,-75.620515,,,0,,,,Saint-Joseph et École l'Équipage
 943080,,St-Joseph | École l'Équipage,,45.599909,-75.620596,,,0,,,,Saint-Joseph et École l'Équipage
 943084,,St-Joseph | du Carrefour,,45.600177,-75.618077,,,0,,,,Saint-Joseph et du Carrefour
-943121,,Près du 855 chemin Fogarty (Arrêt de courtoisie),,45.575668,-75.625513,,,0,,,,Près du 855 chemin Fogarty (Arrêt de courtoisie)
-943122,,Près du 854 chemin Fogarty (Arrêt de courtoisie),,45.575467,-75.626,,,0,,,,Près du 854 chemin Fogarty (Arrêt de courtoisie)
-943127,,Fogarty | Sucrerie du Terroir (Arrêt de courtoisie),,45.578403,-75.633443,,,0,,,,Fogarty et Sucrerie du Terroir (Arrêt de courtoisie)
-943128,,Fogarty | Sucrerie du Terroir (Arrêt de courtoisie),,45.578304,-75.633765,,,0,,,,Fogarty et Sucrerie du Terroir (Arrêt de courtoisie)
 943131,,Fogarty | St-Charles,,45.58097,-75.64095,,,0,,,,Fogarty et Saint-Charles
 943132,,Fogarty | St-Charles,,45.580943,-75.640618,,,0,,,,Fogarty et Saint-Charles
 943145,,Près du 609 chemin Fogarty (Arrêt de courtoisie),,45.570658,-75.650075,,,0,,,,Près du 609 chemin Fogarty (Arrêt de courtoisie)
