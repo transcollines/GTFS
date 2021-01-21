@@ -501,6 +501,7 @@
 940011,,St-Pierre | St-Charles (Arrêt de courtoisie),,45.582351,-75.643533,,,0,,,,Saint-Pierre et Saint-Charles (Arrêt de courtoisie)
 940020,,St-Pierre | Noé (Arrêt de courtoisie),,45.585204,-75.632252,,,0,,,,Saint-Pierre et Noé (Arrêt de courtoisie)
 940021,,Noé | St-Pierre (Arrêt de courtoisie),,45.585399,-75.631978,,,0,,,,Noé et Saint-Pierre (Arrêt de courtoisie)
+940022,,St-Pierre | Noé (Arrêt de courtoisie),,45.5852272866703,-75.631784574381,,,0,,,,Saint-Pierre et Noé (Arrêt de courtoisie)
 940030,,Noé | de l'Arche (Arrêt de courtoisie),,45.586939,-75.631667,,,0,,,,Noé et de l'Arche (Arrêt de courtoisie)
 940031,,de l'Arche | Noé (Arrêt de courtoisie),,45.587055,-75.632048,,,0,,,,de l'Arche et Noé (Arrêt de courtoisie)
 940040,,de la Cascade | de l'Arche,,45.59013,-75.634156,,,0,,,,de la Cascade et de l'Arche
@@ -511,6 +512,7 @@
 940061,,de la Cascade | du Belvédère (Arrêt de courtoisie),,45.590621,-75.623838,,,0,,,,de la Cascade et du Belvédère (Arrêt de courtoisie)
 940070,,de la Cascade | des Pins (Arrêt de courtoisie),,45.58963,-75.620168,,,0,,,,de la Cascade et des Pins (Arrêt de courtoisie)
 940071,,des Pins | de la Cascade (Arrêt de courtoisie),,45.58957,-75.619862,,,0,,,,des Pins et de la Cascade (Arrêt de courtoisie)
+940072,,des Pins | de la Cascade (Arrêt de courtoisie),,45.5895089709805,-75.6203572258851,,,0,,,,des Pins et de la Cascade (Arrêt de courtoisie)
 940080,,de la Pineraie | du Carrefour,,45.594765,-75.617753,,,0,,,,de la Pineraie et du Carrefour
 940081,,de la Pineraie | du Carrefour,,45.594655,-75.617791,,,0,,,,de la Pineraie | du Carrefour
 940090,,de la Pineraie | des Bâtisseurs,,45.595261,-75.620366,,,0,,,,de la Pineraie et des Bâtisseurs
@@ -522,6 +524,10 @@
 940120,,des Bâtisseurs | Cléophas Scatland,,45.595623,-75.631765,,,0,,,,des Bâtisseurs et Cléophas Scatland
 940121,,des Bâtisseurs | du Village,,45.595974,-75.632116,,,0,,,,des Bâtisseurs | du Village
 940130,,Près du 2202 Montée Paiement,,45.599268,-75.626036,,,0,,,,Près du 2 2 0 2 Montée Paiement
+940140,,St-Pierre | du Petit-Ruisseau (Arrêt de courtoisie),,45.5843865966882,-75.6281457111218,,,0,,,,Saint-Pierre et du Petit-Ruisseau (Arrêt de courtoisie)
+940141,,St-Pierre | du Petit-Ruisseau (Arrêt de courtoisie),,45.5843581472361,-75.6277824166768,,,0,,,,Saint-Pierre et du Petit-Ruisseau (Arrêt de courtoisie)
+940150,,St-Pierre | des Pins (Arrêt de courtoisie),,45.5846301853354,-75.6210457575302,,,0,,,,Saint-Pierre et des Pins (Arrêt de courtoisie)
+940151,,St-Pierre | des Pins (Arrêt de courtoisie),,45.5846849359946,-75.621140619638,,,0,,,,Saint-Pierre et des Pins (Arrêt de courtoisie)
 941001,,St-Joseph | du Carrefour,,45.600073,-75.618247,,,0,,,,Saint-Joseph et du Carrefour
 941002,,du Carrefour | St-Pierre,,45.584403,-75.618359,,,0,,,,du Carrefour et Saint-Pierre
 941003,,du Carrefour | Fogarty,,45.576381,-75.619526,,,0,,,,du Carrefour et Fogarty
