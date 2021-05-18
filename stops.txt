@@ -500,17 +500,7 @@
 940010,,St-Charles | St-Pierre (Arrêt de courtoisie),,45.582253,-75.64312,,,0,,,,Saint-Charles et Saint-Pierre (Arrêt de courtoisie)
 940011,,St-Pierre | St-Charles (Arrêt de courtoisie),,45.582351,-75.643533,,,0,,,,Saint-Pierre et Saint-Charles (Arrêt de courtoisie)
 940020,,St-Pierre | Noé (Arrêt de courtoisie),,45.585204,-75.632252,,,0,,,,Saint-Pierre et Noé (Arrêt de courtoisie)
-940021,,Noé | St-Pierre (Arrêt de courtoisie),,45.585399,-75.631978,,,0,,,,Noé et Saint-Pierre (Arrêt de courtoisie)
 940022,,St-Pierre | Noé (Arrêt de courtoisie),,45.5852272866703,-75.631784574381,,,0,,,,Saint-Pierre et Noé (Arrêt de courtoisie)
-940030,,Noé | de l'Arche (Arrêt de courtoisie),,45.586939,-75.631667,,,0,,,,Noé et de l'Arche (Arrêt de courtoisie)
-940031,,de l'Arche | Noé (Arrêt de courtoisie),,45.587055,-75.632048,,,0,,,,de l'Arche et Noé (Arrêt de courtoisie)
-940040,,de la Cascade | de l'Arche,,45.59013,-75.634156,,,0,,,,de la Cascade et de l'Arche
-940041,,de la Cascade | de l'Arche,,45.590227,-75.634247,,,0,,,,de la Cascade et de l'Arche
-940050,,de la Cascade | du Mont-Everest (Arrêt de courtoisie),,45.590099,-75.628759,,,0,,,,de la Cascade et du Mont-Everest (Arrêt de courtoisie)
-940051,,de la Cascade | du Mont-Everest (Arrêt de courtoisie),,45.590009,-75.628502,,,0,,,,de la Cascade et du Mont-Everest (Arrêt de courtoisie)
-940060,,de la Cascade | du Belvédère (Arrêt de courtoisie),,45.590463,-75.623817,,,0,,,,de la Cascade et du Belvédère (Arrêt de courtoisie)
-940061,,de la Cascade | du Belvédère (Arrêt de courtoisie),,45.590621,-75.623838,,,0,,,,de la Cascade et du Belvédère (Arrêt de courtoisie)
-940070,,de la Cascade | des Pins (Arrêt de courtoisie),,45.58963,-75.620168,,,0,,,,de la Cascade et des Pins (Arrêt de courtoisie)
 940071,,des Pins | de la Cascade (Arrêt de courtoisie),,45.58957,-75.619862,,,0,,,,des Pins et de la Cascade (Arrêt de courtoisie)
 940072,,des Pins | de la Cascade (Arrêt de courtoisie),,45.5895089709805,-75.6203572258851,,,0,,,,des Pins et de la Cascade (Arrêt de courtoisie)
 940080,,de la Pineraie | du Carrefour,,45.594765,-75.617753,,,0,,,,de la Pineraie et du Carrefour
