@@ -2,13 +2,12 @@
 910,Transcollines,910,Pontiac - Gatineau,via Route 148,3,https://transcollines.ca/910,0047BB,FFFFFF,910,0,0
 921,Transcollines,921,La Pêche - Chelsea - Gatineau,via Autoroute,3,https://transcollines.ca/921,0047BB,FFFFFF,921,0,0
 922,Transcollines,922,Chelsea - Gatineau,via Montagne,3,https://transcollines.ca/922,0047BB,FFFFFF,922,0,0
-923,Transcollines,923,La Pêche - Chelsea - Gatineau,via Old Chelsea,3,https://transcollines.ca/923,0047BB,FFFFFF,923,0,0
+923,Transcollines,923,La Pêche - Chelsea - Gatineau,via Old Chelsea,3,https://transcollines.ca/923,0047BB,FFFFFF,923,s,0
 924,Transcollines,924,La Pêche - Chelsea - Gatineau,via Scott,3,https://transcollines.ca/924,0047BB,FFFFFF,924,0,0
 925,Transcollines,925,La Pêche - Chelsea - Gatineau,via de la Mine,3,https://transcollines.ca/925,0047BB,FFFFFF,925,0,0
 931,Transcollines,931,Cantley - Gatineau,via Bouchette,3,https://transcollines.ca/931,0047BB,FFFFFF,931,0,0
 932,Transcollines,932,Cantley - Gatineau,via Alonzo-Wright,3,https://transcollines.ca/932,0047BB,FFFFFF,932,0,0
 933,Transcollines,933,Cantley - Gatineau,via Hogan,3,https://transcollines.ca/933,0047BB,FFFFFF,933,0,0
 934,Transcollines,934,Cantley - Gatineau,via Route 307,3,https://transcollines.ca/934,0047BB,FFFFFF,934,0,0
-935,Transcollines,935,Cantley - Val-des-Monts - Gatineau,via Lamoureux,3,https://transcollines.ca/935,0047BB,FFFFFF,935,0,0
 941,Transcollines,941,Val-des-Monts - Gatineau,via Carrefour,3,https://transcollines.ca/941,0047BB,FFFFFF,941,0,0
 943,Transcollines,943,Val-des-Monts - Gatineau,via Fogarty,3,https://transcollines.ca/943,0047BB,FFFFFF,943,0,0
