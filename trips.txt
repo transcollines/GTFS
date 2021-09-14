@@ -95,7 +95,6 @@
 925,2021-Semaine-4,2021-Semaine-4.925G_T02,les Galeries via de la Mine,0,110G,925G,,1,Gatineau,0
 925,2021-Semaine-4,2021-Semaine-4.925C_T01,Masham via de la Mine,1,110G,925C,,1,Collines,0
 925,2021-Semaine-4,2021-Semaine-4.925C_T02,Masham via de la Mine,1,114T,925C,,1,Collines,0
-925,2021-Semaine-4,2021-Semaine-4.925C_T03,Accueil CCN via de la Mine,1,114T,925CN,,1,Collines,0
 931,2021-Semaine-4,2021-Semaine-4.931G_T01,de la Gappe via Bouchette,0,106G,931G,,1,Gatineau,0
 931,2021-Semaine-4,2021-Semaine-4.931G_T02,de la Gappe via Bouchette,0,106G,931G,,1,Gatineau,0
 931,2021-Semaine-4,2021-Semaine-4.931G_T03,de la Gappe via Bouchette,0,111M,931G,,1,Gatineau,0
@@ -103,9 +102,8 @@
 931,2021-Semaine-4,2021-Semaine-4.931C_T01,Hogan via Bouchette,1,111M,931C,,1,Collines,0
 931,2021-Semaine-4,2021-Semaine-4.931C_T02,Hogan via Bouchette,1,118G,931C,,1,Collines,0
 931,2021-Semaine-4,2021-Semaine-4.931C_T03,Hogan via Bouchette,1,118G,931C,,1,Collines,0
-931,2021-Semaine-4,2021-Semaine-4.931C_T04,Hogan via Bouchette,1,120G,931C,,1,Collines,0
+931,2021-Semaine-4,2021-Semaine-4.931C_T04,Hogan via Bouchette,1,123M,931C,,1,Collines,0
 931,2021-Semaine-4,2021-Semaine-4.931C_T05,Hogan via Bouchette,1,123M,931C,,1,Collines,0
-931,2021-Semaine-4,2021-Semaine-4.931C_T06,Hogan via Bouchette,1,123M,931C,,1,Collines,0
 932,2021-Semaine-4,2021-Semaine-4.932G_T01,Cégep G-Roy via Alonzo,0,108G,932G,,1,Gatineau,0
 932,2021-Semaine-4,2021-Semaine-4.932C_T01,Hogan via Alonzo,1,113G,932C,,1,Collines,0
 933,2021-Semaine-4,2021-Semaine-4.933G_T01,de la Gappe via Hogan,0,105G,933G,,1,Gatineau,0
@@ -145,9 +143,80 @@
 943,2021-Weekend-4,2021-Weekend-4.943C_T01,Perkins via Fogarty,1,201M,943CI,,1,Collines,0
 943,2021-Weekend-4,2021-Weekend-4.943C_T02,Perkins via Fogarty,1,204M,943CI,,1,Collines,0
 943,2021-Weekend-4,2021-Weekend-4.943C_T03,Perkins via Fogarty,1,206M,943CI,,1,Collines,0
-924,2021-CFeries-4,2021-CFeries-4.924G_T01,les Galeries via Scott,0,401G,924GG,,1,Gatineau,0
-924,2021-CFeries-4,2021-CFeries-4.924C_T01,Masham via Scott,1,402G,924CG,,1,Collines,0
-931,2021-CFeries-4,2021-CFeries-4.931G_T01,de la Gappe via Bouchette,0,401G,931G,,1,Gatineau,0
-931,2021-CFeries-4,2021-CFeries-4.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Collines,0
-943,2021-CFeries-4,2021-CFeries-4.943G_T01,Labrosse via Fogarty,0,401G,943GI,,1,Gatineau,0
-943,2021-CFeries-4,2021-CFeries-4.943C_T01,Perkins via Fogarty,1,402G,943CI,,1,Collines,0
+910,2021-Semaine-5,2021-Semaine-5.910G_T01,Cégep G-Roy via Route 148,0,101T,910G,,1,Gatineau,0
+910,2021-Semaine-5,2021-Semaine-5.910P_T01,Chapeau via Route 148,1,117T,910P,,1,Pontiac,0
+921,2021-Semaine-5,2021-Semaine-5.921G_T01,les Galeries via Autoroute,0,103T,921GR,,1,Gatineau,0
+921,2021-Semaine-5,2021-Semaine-5.921G_T02,les Galeries via Autoroute,0,104G,921GR,,1,Gatineau,0
+921,2021-Semaine-5,2021-Semaine-5.921G_T03,les Galeries via Autoroute,0,112T,921GR,,1,Gatineau,0
+921,2021-Semaine-5,2021-Semaine-5.921C_T01,Masham via Autoroute,1,104G,921CR,,1,Collines,0
+922,2021-Semaine-5,2021-Semaine-5.922G_T01,Cégep G-Roy via Montagne,0,109M,922G,,1,Gatineau,0
+922,2021-Semaine-5,2021-Semaine-5.922C_T01,Hollow Glen via Montagne,1,119M,922C,,1,Collines,0
+923,2021-Semaine-5,2021-Semaine-5.923G_T01,les Galeries via Old Chelsea,0,104G,923G,,1,Gatineau,0
+923,2021-Semaine-5,2021-Semaine-5.923G_T02,les Galeries via Old Chelsea,0,103T,923G,,1,Gatineau,0
+923,2021-Semaine-5,2021-Semaine-5.923C_T01,Masham via Old Chelsea,1,116G,923C,,1,Collines,0
+923,2021-Semaine-5,2021-Semaine-5.923C_T02,Masham via Old Chelsea,1,112T,923C,,1,Collines,0
+923,2021-Semaine-5,2021-Semaine-5.923C_T03,Masham via Old Chelsea,1,116G,923C,,1,Collines,0
+924,2021-Semaine-5,2021-Semaine-5.924G_T01,Cégep G-Roy via Scott,0,121G,924G,,1,Gatineau,0
+924,2021-Semaine-5,2021-Semaine-5.924C_T01,Masham via Scott,1,112T,924C,,1,Collines,0
+924,2021-Semaine-5,2021-Semaine-5.924C_T02,Masham via Scott,1,121G,924C,,1,Collines,0
+924,2021-Semaine-5,2021-Semaine-5.924C_T03,Masham via Scott,1,121G,924C,,1,Collines,0
+925,2021-Semaine-5,2021-Semaine-5.925G_T01,les Galeries via de la Mine,0,107T,925G,,1,Gatineau,0
+925,2021-Semaine-5,2021-Semaine-5.925G_T02,les Galeries via de la Mine,0,110G,925G,,1,Gatineau,0
+925,2021-Semaine-5,2021-Semaine-5.925C_T01,Masham via de la Mine,1,110G,925C,,1,Collines,0
+925,2021-Semaine-5,2021-Semaine-5.925C_T02,Masham via de la Mine,1,114T,925C,,1,Collines,0
+925,2021-Semaine-5,2021-Semaine-5.925C_T03,Accueil CCN via de la Mine,1,114T,925CN,,1,Collines,0
+931,2021-Semaine-5,2021-Semaine-5.931G_T01,de la Gappe via Bouchette,0,106G,931G,,1,Gatineau,0
+931,2021-Semaine-5,2021-Semaine-5.931G_T02,de la Gappe via Bouchette,0,106G,931G,,1,Gatineau,0
+931,2021-Semaine-5,2021-Semaine-5.931G_T03,de la Gappe via Bouchette,0,111M,931G,,1,Gatineau,0
+931,2021-Semaine-5,2021-Semaine-5.931G_T04,de la Gappe via Bouchette,0,123M,931G,,1,Gatineau,0
+931,2021-Semaine-5,2021-Semaine-5.931C_T01,Hogan via Bouchette,1,111M,931C,,1,Collines,0
+931,2021-Semaine-5,2021-Semaine-5.931C_T02,Hogan via Bouchette,1,118G,931C,,1,Collines,0
+931,2021-Semaine-5,2021-Semaine-5.931C_T03,Hogan via Bouchette,1,118G,931C,,1,Collines,0
+931,2021-Semaine-5,2021-Semaine-5.931C_T04,Hogan via Bouchette,1,120G,931C,,1,Collines,0
+931,2021-Semaine-5,2021-Semaine-5.931C_T05,Hogan via Bouchette,1,123M,931C,,1,Collines,0
+931,2021-Semaine-5,2021-Semaine-5.931C_T06,Hogan via Bouchette,1,123M,931C,,1,Collines,0
+932,2021-Semaine-5,2021-Semaine-5.932G_T01,Cégep G-Roy via Alonzo,0,108G,932G,,1,Gatineau,0
+932,2021-Semaine-5,2021-Semaine-5.932C_T01,Hogan via Alonzo,1,113G,932C,,1,Collines,0
+933,2021-Semaine-5,2021-Semaine-5.933G_T01,de la Gappe via Hogan,0,105G,933G,,1,Gatineau,0
+933,2021-Semaine-5,2021-Semaine-5.933C_T01,Des Érables via Hogan,1,120G,933C,,1,Collines,0
+934,2021-Semaine-5,2021-Semaine-5.934G_T01,de la Gappe via Route 307,0,118G,934G,,1,Gatineau,0
+934,2021-Semaine-5,2021-Semaine-5.934C_T01,Hogan via Route 307,1,106G,934C,,1,Collines,0
+941,2021-Semaine-5,2021-Semaine-5.941G_T01,Labrosse via Carrefour,0,102G,941G,,1,Gatineau,0
+941,2021-Semaine-5,2021-Semaine-5.941G_T02,Labrosse via Carrefour,0,102G,941G,,1,Gatineau,0
+941,2021-Semaine-5,2021-Semaine-5.941G_T03,Labrosse via Carrefour,0,111M,941G,,1,Gatineau,0
+941,2021-Semaine-5,2021-Semaine-5.941G_T04,Labrosse via Carrefour,0,115G,941G,,1,Gatineau,0
+941,2021-Semaine-5,2021-Semaine-5.941G_T05,Labrosse via Carrefour,0,115G,941G,,1,Gatineau,0
+941,2021-Semaine-5,2021-Semaine-5.941C_T01,Perkins via Carrefour,1,102G,941C,,1,Collines,0
+941,2021-Semaine-5,2021-Semaine-5.941C_T02,Perkins via Carrefour,1,102G,941C,,1,Collines,0
+941,2021-Semaine-5,2021-Semaine-5.941C_T03,Perkins via Carrefour,1,111M,941C,,1,Collines,0
+941,2021-Semaine-5,2021-Semaine-5.941C_T04,Perkins via Carrefour,1,115G,941C,,1,Collines,0
+941,2021-Semaine-5,2021-Semaine-5.941C_T05,Perkins via Carrefour,1,115G,941C,,1,Collines,0
+943,2021-Semaine-5,2021-Semaine-5.943G_T01,Labrosse via Fogarty,0,102G,943GI,,1,Gatineau,0
+943,2021-Semaine-5,2021-Semaine-5.943G_T02,Labrosse via Fogarty,0,122M,943GI,,1,Gatineau,0
+943,2021-Semaine-5,2021-Semaine-5.943C_T01,Perkins via Fogarty,1,115G,943CI,,1,Collines,0
+943,2021-Semaine-5,2021-Semaine-5.943C_T02,Perkins via Fogarty,1,122M,943CI,,1,Collines,0
+943,2021-Semaine-5,2021-Semaine-5.943C_T03,Perkins via Fogarty,1,122M,943CI,,1,Collines,0
+924,2021-Weekend-5,2021-Weekend-5.924G_T01,les Galeries via Scott,0,202G,924GG,,1,Gatineau,0
+924,2021-Weekend-5,2021-Weekend-5.924G_T02,les Galeries via Scott,0,203G,924GG,,1,Gatineau,0
+924,2021-Weekend-5,2021-Weekend-5.924G_T03,les Galeries via Scott,0,205G,924GG,,1,Gatineau,0
+924,2021-Weekend-5,2021-Weekend-5.924C_T01,Masham via Scott,1,202G,924CG,,1,Collines,0
+924,2021-Weekend-5,2021-Weekend-5.924C_T02,Masham via Scott,1,203G,924CG,,1,Collines,0
+924,2021-Weekend-5,2021-Weekend-5.924C_T03,Masham via Scott,1,205G,924CG,,1,Collines,0
+931,2021-Weekend-5,2021-Weekend-5.931G_T01,de la Gappe via Bouchette,0,201M,931G,,1,Gatineau,0
+931,2021-Weekend-5,2021-Weekend-5.931G_T02,de la Gappe via Bouchette,0,204M,931G,,1,Gatineau,0
+931,2021-Weekend-5,2021-Weekend-5.931G_T03,de la Gappe via Bouchette,0,206M,931G,,1,Gatineau,0
+931,2021-Weekend-5,2021-Weekend-5.931C_T01,Hogan via Bouchette,1,201M,931C,,1,Collines,0
+931,2021-Weekend-5,2021-Weekend-5.931C_T02,Hogan via Bouchette,1,204M,931C,,1,Collines,0
+931,2021-Weekend-5,2021-Weekend-5.931C_T03,Hogan via Bouchette,1,206M,931C,,1,Collines,0
+943,2021-Weekend-5,2021-Weekend-5.943G_T01,Labrosse via Fogarty,0,201M,943GI,,1,Gatineau,0
+943,2021-Weekend-5,2021-Weekend-5.943G_T02,Labrosse via Fogarty,0,204M,943GI,,1,Gatineau,0
+943,2021-Weekend-5,2021-Weekend-5.943G_T03,Labrosse via Fogarty,0,206M,943GI,,1,Gatineau,0
+943,2021-Weekend-5,2021-Weekend-5.943C_T01,Perkins via Fogarty,1,201M,943CI,,1,Collines,0
+943,2021-Weekend-5,2021-Weekend-5.943C_T02,Perkins via Fogarty,1,204M,943CI,,1,Collines,0
+943,2021-Weekend-5,2021-Weekend-5.943C_T03,Perkins via Fogarty,1,206M,943CI,,1,Collines,0
+924,2021-CFeries-5,2021-CFeries-5.924G_T01,les Galeries via Scott,0,401G,924GG,,1,Gatineau,0
+924,2021-CFeries-5,2021-CFeries-5.924C_T01,Masham via Scott,1,402G,924CG,,1,Collines,0
+931,2021-CFeries-5,2021-CFeries-5.931G_T01,de la Gappe via Bouchette,0,401G,931G,,1,Gatineau,0
+931,2021-CFeries-5,2021-CFeries-5.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Collines,0
+943,2021-CFeries-5,2021-CFeries-5.943G_T01,Labrosse via Fogarty,0,401G,943GI,,1,Gatineau,0
+943,2021-CFeries-5,2021-CFeries-5.943C_T01,Perkins via Fogarty,1,402G,943CI,,1,Collines,0
