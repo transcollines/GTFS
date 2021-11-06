@@ -1,3 +1,5 @@
 ﻿service_id,date,exception_type
-2021-CFeries-6,20211011,1
-2021-Semaine-6,20211011,2
+2021-CFeries-6,20211225,1
+2021-CFeries-6,20220101,1
+2021-Weekend-6,20211225,2
+2021-Weekend-6,20220101,2

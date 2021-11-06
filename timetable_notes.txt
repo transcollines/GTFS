@@ -1,10 +1,8 @@
 ﻿note_id,symbol,note
-6,x,Voyage court: Destination Accueil CCN via de la Mine
-1,,Ce voyage se poursuit jusqu'à l'Édifice Louis-Saint-Laurent et l'arrivée est 1 minute plus tard.
-4,> 923,Correspondance avec la ligne 923 Direction Collines à 18 h 22.
-5,< 925,Correspondance en provenance de la ligne 925 Direction Collines.
-7,>> 994,Ce voyage se poursuit sur la ligne 994 lorsqu'une demande de service à été placée.
-8,,Embarquement du côté de l'Hôpital de Hull.
-9,,Débarquement du côté du Collège Nouvelles Frontières.
-10,,En service lors des jours fériés ouvrables seulement.
-11,!,ATTENTION: Les heures de passage indiquées pour ce voyage entrent en vigueur le lundi 27 septembre 2021.
+6,x,Voyage court: Destination Accueil CCN via de la Mine. / Short turn: To Accueil CCN via de la Mine.
+1,,Ce voyage se poursuit jusqu'à l'Édifice Louis-Saint-Laurent et l'arrivée est 1 minute plus tard. / This trip continues to Édifice Louis-Saint-Laurent. Arrival is 1 minute later.
+4,> 923,Correspondance avec la ligne 923 Direction Collines à 18 h 22. / Transfer with line 923 Collines at 18:22.
+5,< 925,Correspondance en provenance de la ligne 925 Direction Collines. / Transfer from line 925 Collines.
+7,>> 994,Ce voyage se poursuit sur la ligne 994 lorsqu'une demande de service à été placée. / This trip continues on line 994 if service has been requested ahead of time.
+10,,En service lors des jours fériés ouvrables seulement. / In service on holidays only
+STO,STO,Point de correspondance vers le réseau de la STO / Transfer is available to the STO network at this location.
