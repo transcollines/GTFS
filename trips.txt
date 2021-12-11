@@ -76,3 +76,37 @@
 931,2021-CFeries-6,2021-CFeries-6.931C_T01,Hogan via Bouchette,1,402G,931C,,1,Collines,0
 943,2021-CFeries-6,2021-CFeries-6.943G_T01,Labrosse via Fogarty,0,401G,943GI,,1,Gatineau,0
 943,2021-CFeries-6,2021-CFeries-6.943C_T01,Perkins via Fogarty,1,402G,943CI,,1,Collines,0
+910,2021-SemFete-1,2021-SemFete-1.910G_T01,Cégep G-Roy via Route 148,0,701T,910G,,1,Gatineau,0
+910,2021-SemFete-1,2021-SemFete-1.910P_T01,Chapeau via Route 148,1,717T,910P,,1,Pontiac,0
+921,2021-SemFete-1,2021-SemFete-1.921G_T01,les Galeries via Autoroute,0,703T,921GR,,1,Gatineau,0
+921,2021-SemFete-1,2021-SemFete-1.921G_T02,les Galeries via Autoroute,0,704G,921GR,,1,Gatineau,0
+921,2021-SemFete-1,2021-SemFete-1.921G_T03,les Galeries via Autoroute,0,712T,921GR,,1,Gatineau,0
+921,2021-SemFete-1,2021-SemFete-1.921C_T01,Masham via Autoroute,1,704G,921CR,,1,Collines,0
+922,2021-SemFete-1,2021-SemFete-1.922G_T01,Cégep G-Roy via Montagne,0,709M,922G,,1,Gatineau,0
+922,2021-SemFete-1,2021-SemFete-1.922C_T01,Hollow Glen via Montagne,1,719M,922C,,1,Collines,0
+923,2021-SemFete-1,2021-SemFete-1.923G_T01,les Galeries via Old Chelsea,0,704G,923G,,1,Gatineau,0
+923,2021-SemFete-1,2021-SemFete-1.923G_T02,les Galeries via Old Chelsea,0,703T,923G,,1,Gatineau,0
+923,2021-SemFete-1,2021-SemFete-1.923C_T01,Masham via Old Chelsea,1,716G,923C,,1,Collines,0
+924,2021-SemFete-1,2021-SemFete-1.924C_T01,Masham via Scott,1,712T,924C,,1,Collines,0
+925,2021-SemFete-1,2021-SemFete-1.925G_T01,les Galeries via de la Mine,0,707T,925G,,1,Gatineau,0
+925,2021-SemFete-1,2021-SemFete-1.925G_T02,les Galeries via de la Mine,0,710G,925G,,1,Gatineau,0
+925,2021-SemFete-1,2021-SemFete-1.925C_T01,Masham via de la Mine,1,710G,925C,,1,Collines,0
+925,2021-SemFete-1,2021-SemFete-1.925C_T02,Masham via de la Mine,1,714T,925C,,1,Collines,0
+931,2021-SemFete-1,2021-SemFete-1.931G_T01,de la Gappe via Bouchette,0,706G,931G,,1,Gatineau,0
+931,2021-SemFete-1,2021-SemFete-1.931G_T02,de la Gappe via Bouchette,0,706G,931G,,1,Gatineau,0
+931,2021-SemFete-1,2021-SemFete-1.931G_T03,de la Gappe via Bouchette,0,711M,931G,,1,Gatineau,0
+931,2021-SemFete-1,2021-SemFete-1.931C_T01,Hogan via Bouchette,1,711M,931C,,1,Collines,0
+931,2021-SemFete-1,2021-SemFete-1.931C_T02,Hogan via Bouchette,1,718G,931C,,1,Collines,0
+932,2021-SemFete-1,2021-SemFete-1.932G_T01,Cégep G-Roy via Alonzo,0,708G,932G,,1,Gatineau,0
+932,2021-SemFete-1,2021-SemFete-1.932C_T01,Hogan via Alonzo,1,713G,932C,,1,Collines,0
+933,2021-SemFete-1,2021-SemFete-1.933G_T01,de la Gappe via Hogan,0,705G,933G,,1,Gatineau,0
+934,2021-SemFete-1,2021-SemFete-1.934C_T01,Hogan via Route 307,1,706G,934C,,1,Collines,0
+941,2021-SemFete-1,2021-SemFete-1.941G_T01,Labrosse via Carrefour,0,702G,941G,,1,Gatineau,0
+941,2021-SemFete-1,2021-SemFete-1.941G_T02,Labrosse via Carrefour,0,702G,941G,,1,Gatineau,0
+941,2021-SemFete-1,2021-SemFete-1.941G_T03,Labrosse via Carrefour,0,711M,941G,,1,Gatineau,0
+941,2021-SemFete-1,2021-SemFete-1.941G_T04,Labrosse via Carrefour,0,715G,941G,,1,Gatineau,0
+941,2021-SemFete-1,2021-SemFete-1.941C_T01,Perkins via Carrefour,1,702G,941C,,1,Collines,0
+941,2021-SemFete-1,2021-SemFete-1.941C_T02,Perkins via Carrefour,1,702G,941C,,1,Collines,0
+941,2021-SemFete-1,2021-SemFete-1.941C_T03,Perkins via Carrefour,1,711M,941C,,1,Collines,0
+941,2021-SemFete-1,2021-SemFete-1.941C_T04,Perkins via Carrefour,1,715G,941C,,1,Collines,0
+943,2021-SemFete-1,2021-SemFete-1.943G_T01,Labrosse via Fogarty,0,702G,943GI,,1,Gatineau,0

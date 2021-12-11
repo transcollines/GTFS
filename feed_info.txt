@@ -1,2 +1,2 @@
 ﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Transcollines,https://transcollines.ca/,fr,20211101,20220103,2021-11-06 09:46:27,gtfs@transcollines.ca,https://github.com/transcollines/GTFS/issues
+Transcollines,https://transcollines.ca/,fr,20211101,20220614,2021-12-10 21:19:44,gtfs@transcollines.ca,https://github.com/transcollines/GTFS/issues
