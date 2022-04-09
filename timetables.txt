@@ -1,69 +1,69 @@
 ﻿timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_time,end_time,include_exceptions,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
-910_0,910,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,910,1,Gatineau,1
-910_1,910,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Pontiac,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,910,2,Pontiac,1
-921_0,921,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,921,1,Gatineau,1
-921_1,921,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,921,2,Collines,1
-922_0,922,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,922,1,Gatineau,1
-922_1,922,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,922,2,Collines,1
-923_0,923,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,923,1,Gatineau,1
-923_1,923,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,923,2,Collines,1
-924_0,924,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,924,1,Gatineau,1
-924_1,924,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,924,2,Collines,1
-924_2,924,0,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,924,3,Gatineau,1
-924_3,924,1,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,924,4,Collines,1
-925_0,925,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,925,1,Gatineau,1
-925_1,925,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,925,2,Collines,1
-931_0,931,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,931,1,Gatineau,1
-931_1,931,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,931,2,Collines,1
-931_2,931,0,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,931,3,Gatineau,1
-931_3,931,1,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,931,4,Collines,1
-932_0,932,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,932,1,Gatineau,1
-932_1,932,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,932,2,Collines,1
-933_0,933,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,933,1,Gatineau,1
-933_1,933,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,933,2,Collines,1
-934_0,934,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,934,1,Gatineau,1
-934_1,934,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,934,2,Collines,1
-941_0,941,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,941,1,Gatineau,1
-941_1,941,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,941,2,Collines,1
-943_0,943,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,943,1,Gatineau,1
-943_1,943,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,943,2,Collines,1
-943_2,943,0,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,943,3,Gatineau,1
-943_3,943,1,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,943,4,Collines,1
-920_0,921,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
-920_1,921,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
-920_0,923,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
-920_1,923,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
-920_0,924,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
-920_1,924,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
-920_0,925,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
-920_1,925,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
-920_2,924,0,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,920,3,Gatineau,1
-920_3,924,1,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,920,4,Collines,1
-930_0,931,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
-930_1,931,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
-930_0,932,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
-930_1,932,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
-930_0,933,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
-930_1,933,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
-930_0,934,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
-930_1,934,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
-930_2,931,0,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,930,3,Gatineau,1
-930_3,931,1,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,930,4,Collines,1
-940_0,941,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,1,Gatineau,1
-940_1,941,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,2,Collines,1
-940_0,943,0,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,1,Gatineau,1
-940_1,943,1,20211101,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,2,Collines,1
-940_2,943,0,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,940,3,Gatineau,1
-940_3,943,1,20211101,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,940,4,Collines,1
-924F_G,924,0,20211225,20211225,0,0,0,0,0,0,0,07:00:00,07:01:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,924,5,Gatineau,1
-924F_C,924,1,20211225,20211225,0,0,0,0,0,0,0,16:00:00,16:01:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,924,6,Collines,1
-920F_G,924,0,20211225,20211225,0,0,0,0,0,0,0,07:00:00,07:01:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,920,5,Gatineau,1
-920F_C,924,1,20211225,20211225,0,0,0,0,0,0,0,16:00:00,16:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,920,6,Collines,1
-931F_G,931,0,20211225,20211225,0,0,0,0,0,0,0,08:16:00,08:17:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,931,5,Gatineau,1
-931F_C,931,1,20211225,20211225,0,0,0,0,0,0,0,17:11:00,17:12:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,931,6,Collines,1
-930F_G,931,0,20211225,20211225,0,0,0,0,0,0,0,08:16:00,08:17:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,930,5,Gatineau,1
-930F_C,931,1,20211225,20211225,0,0,0,0,0,0,0,17:11:00,17:12:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,930,6,Collines,1
-943F_G,943,0,20211225,20211225,0,0,0,0,0,0,0,09:04:00,09:05:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,943,5,Gatineau,1
-943F_C,943,1,20211225,20211225,0,0,0,0,0,0,0,17:59:00,18:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,943,6,Collines,1
-940F_G,943,0,20211225,20211225,0,0,0,0,0,0,0,09:04:00,09:05:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,940,5,Gatineau,1
-940F_C,943,1,20211225,20211225,0,0,0,0,0,0,0,17:59:00,18:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,940,6,Collines,1
+910_0,910,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,910,1,Gatineau,1
+910_1,910,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Pontiac,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,910,2,Pontiac,1
+921_0,921,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,921,1,Gatineau,1
+921_1,921,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,921,2,Collines,1
+922_0,922,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,922,1,Gatineau,1
+922_1,922,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,922,2,Collines,1
+923_0,923,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,923,1,Gatineau,1
+923_1,923,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,923,2,Collines,1
+924_0,924,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,924,1,Gatineau,1
+924_1,924,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,924,2,Collines,1
+924_2,924,0,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,924,3,Gatineau,1
+924_3,924,1,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,924,4,Collines,1
+925_0,925,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,925,1,Gatineau,1
+925_1,925,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,925,2,Collines,1
+931_0,931,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,931,1,Gatineau,1
+931_1,931,1,20220401,20220415,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,931,2,Collines,1
+931_2,931,0,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,931,3,Gatineau,1
+931_3,931,1,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,931,4,Collines,1
+932_0,932,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,932,1,Gatineau,1
+932_1,932,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,932,2,Collines,1
+933_0,933,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,933,1,Gatineau,1
+933_1,933,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,933,2,Collines,1
+934_0,934,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,934,1,Gatineau,1
+934_1,934,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,934,2,Collines,1
+941_0,941,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,941,1,Gatineau,1
+941_1,941,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,941,2,Collines,1
+943_0,943,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,943,1,Gatineau,1
+943_1,943,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,943,2,Collines,1
+943_2,943,0,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,943,3,Gatineau,1
+943_3,943,1,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,943,4,Collines,1
+920_0,921,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
+920_1,921,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
+920_0,923,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
+920_1,923,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
+920_0,924,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
+920_1,924,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
+920_0,925,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,1,Gatineau,1
+920_1,925,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,920,2,Collines,1
+920_2,924,0,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,920,3,Gatineau,1
+920_3,924,1,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,920,4,Collines,1
+930_0,931,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
+930_1,931,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
+930_0,932,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
+930_1,932,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
+930_0,933,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
+930_1,933,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
+930_0,934,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,1,Gatineau,1
+930_1,934,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,930,2,Collines,1
+930_2,931,0,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,930,3,Gatineau,1
+930_3,931,1,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,930,4,Collines,1
+940_0,941,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,1,Gatineau,1
+940_1,941,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,2,Collines,1
+940_0,943,0,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,1,Gatineau,1
+940_1,943,1,20220416,20220614,1,1,1,1,1,0,0,,,0,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,2,Collines,1
+940_2,943,0,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,940,3,Gatineau,1
+940_3,943,1,20220416,20220614,0,0,0,0,0,1,1,,,0,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,940,4,Collines,1
+924F_G,924,0,20220415,20220418,0,0,0,0,0,0,0,07:00:00,07:01:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,924,5,Gatineau,1
+924F_C,924,1,20220415,20220418,0,0,0,0,0,0,0,16:00:00,16:01:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,924,6,Collines,1
+920F_G,924,0,20220415,20220418,0,0,0,0,0,0,0,07:00:00,07:01:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,920,5,Gatineau,1
+920F_C,924,1,20220415,20220418,0,0,0,0,0,0,0,16:00:00,16:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,920,6,Collines,1
+931F_G,931,0,20220415,20220418,0,0,0,0,0,0,0,08:16:00,08:17:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,931,5,Gatineau,1
+931F_C,931,1,20220415,20220418,0,0,0,0,0,0,0,17:11:00,17:12:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,931,6,Collines,1
+930F_G,931,0,20220415,20220418,0,0,0,0,0,0,0,08:16:00,08:17:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,930,5,Gatineau,1
+930F_C,931,1,20220415,20220418,0,0,0,0,0,0,0,17:11:00,17:12:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,930,6,Collines,1
+943F_G,943,0,20220415,20220418,0,0,0,0,0,0,0,09:04:00,09:05:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,943,5,Gatineau,1
+943F_C,943,1,20220415,20220418,0,0,0,0,0,0,0,17:59:00,18:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,943,6,Collines,1
+940F_G,943,0,20220415,20220418,0,0,0,0,0,0,0,09:04:00,09:05:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,940,5,Gatineau,1
+940F_C,943,1,20220415,20220418,0,0,0,0,0,0,0,17:59:00,18:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,940,6,Collines,1
