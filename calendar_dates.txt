@@ -1,5 +1,9 @@
 ﻿service_id,date,exception_type
-2022-CFeries-1,20220415,1
-2022-CFeries-1,20220418,1
 2022-CFeries-1,20220523,1
 2022-Semaine-1,20220523,2
+2022-CFeries-1,20220701,1
+2022-Semaine-1,20220701,2
+2022-CFeries-1,20220905,1
+2022-Semaine-1,20220905,2
+2022-CFeries-1,20221010,1
+2022-Semaine-1,20221010,2

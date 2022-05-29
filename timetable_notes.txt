@@ -4,8 +4,5 @@
 5,< 925,Correspondance en provenance de la ligne 925 Direction Collines. / Transfer from line 925 Collines.
 6,x,Voyage court: Destination Accueil CCN via de la Mine. / Short turn: To Accueil CCN via de la Mine.
 7,>> 994,Ce voyage se poursuit sur la ligne 994 lorsqu'une demande de service à été placée. / This trip continues on line 994 if service has been requested ahead of time.
-10,,"Cet horaire est valable uniquement le vendredi 15 avril 2022, le lundi 18 avril 2022 et le lundi 23 mai 2022. / This timetable is only valid for Friday April 15th 2022, Monday April 18th 2022 and Monday May 23rd 2022."
-12,⚠,"Ce voyage sera retiré à partir du lundi 18 avril 2022 et remplacé par un voyage sur la ligne 933. / Effective Monday, April 18th 2022, this trip will be withdrawn and replaced by a trip on line 933."
-13,⚠,"Ce voyage sera offert uniquement à partir du lundi 18 avril 2022. Un voyage sur la ligne 931 est offert à la même heure jusqu'à cette date. / This trip will only be operated starting Monday, April 18th 2022. Until then, a trip at the same time is offered on line 931."
-14,,"Jours fériés: cet horaire n'est pas en vigueur le vendredi 15 avril 2022, le lundi 18 avril 2022 et le lundi 23 mai 2022. Veuillez consulter les horaires spéciaux des lignes 924, 931 et 943 pour le service lors de ces dates. Statutory holidays: These schedules are not in effect on Friday April 15th 2022, Monday April 18th 2022 and Monday May 23rd 2022. Please see the special timetables on lines 924, 931 and 943 for service on these days."
 STO,STO,Point de correspondance vers le réseau de la STO / Transfer is available to the STO network at this location.
+15,,"Les jours de classe du Collège Nouvelles Frontières, l'embarquement est effectué environ 40 mètres avant l'abribus en raison de l'achalandage. / On Collège Nouvelles Frontières school days, the bus will stop about 40 meters before the shelter due to crowding."
