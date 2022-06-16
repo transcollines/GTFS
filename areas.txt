@@ -1,0 +1,4 @@
+﻿area_id,area_name
+GAT,Ville de Gatineau
+COL,MRC des Collines-de-l'Outaouais
+PNT,MRC Pontiac

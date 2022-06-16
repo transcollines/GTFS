@@ -1,2 +1,2 @@
 ﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-Transcollines,Transcollines,https://transcollines.ca/,America/New_York,fr,1.866.310.1114,,info@transcollines.ca
+Transcollines,Transcollines,https://transcollines.ca/,America/New_York,fr,1.866.310.1114,https://transcollines.ca/me-deplacer/transport-en-commun/#2,info@transcollines.ca

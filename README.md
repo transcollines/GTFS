@@ -3,7 +3,8 @@ Ce répertoire contient les données GTFS officielles de [Transcollines](https:/
 Pour plus d'information sur le format GTFS, consultez [la spécification officielle](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md).
 
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.**
-
+## NOUVAUTÉ
+(16 juin 2022) Les données GTFS de Transcollines intègrent maintenant les informations sur la tarification selon la nouvelle norme GTFS _Fares V2!_ Notez cependant qu'en raison de particularités en ce qui a trait aux correspondances vers le réseau de la STO, certains noms de titre sont particulièrement longs.
 ## Télécharger le GTFS:
 Pour télécharger le GTFS de Transcollines, utilisez le lien ci-dessous.
 https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca.zip
@@ -17,7 +18,7 @@ Transcollines utilise cette liste de distribution pour informer les développeur
 ## Extensions particulières aux fichiers GTFS de Transcollines
 * **`trips.trip_direction_headsign`**: Ce champ est utilisé pour indiquer la direction du voyage qui est présentée aux utilisateurs sur les afficheurs de destination des autobus en alternance avec le contenu du champ `trips.trip_headsign`
 * **`trips.exceptional`**: Veuillez Consulter [ceci](https://developers.google.com/transit/gtfs/reference/gtfs-extensions#trips.txt).
-* **`transfers.to_route_id`, `transfers.from_route_id`, `transfers.from_trip_id` et `transfers.from_trip_id`**: Veuillez consulter [ceci](https://developers.google.com/transit/gtfs/reference/gtfs-extensions#TripToTripTransfers).
+
 ## Registre des applications
 Vous avez créé un outil utilisant les données ouvertes de Transcollines? Nous avons l'intention d'éventuellement créer une galerie d'applications sur notre site web et aimerions y présenter votre application! Informez-nous de votre application [ici!](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUMVk0Wko5VEhINlBNSjY1TkUwU0Y2N1FIQy4u)
 
