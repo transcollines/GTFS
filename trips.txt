@@ -76,3 +76,21 @@
 931,2022-CFeries-1,2022-CFeries-1.931C_T01,Hogan via Bouchette,1,402G,931C,2,1,Collines,0
 943,2022-CFeries-1,2022-CFeries-1.943G_T01,Labrosse via Fogarty,0,401G,943GI,2,1,Gatineau,0
 943,2022-CFeries-1,2022-CFeries-1.943C_T01,Perkins via Fogarty,1,402G,943CI,2,1,Collines,0
+924,2022-WELacPh-1,2022-WELacPh-1.924G_T01,les Galeries via Lac Philippe/Scott,0,202G,924GSL,2,1,Gatineau,0
+924,2022-WELacPh-1,2022-WELacPh-1.924G_T02,les Galeries via Lac Philippe/Scott,0,203G,924GSL,2,1,Gatineau,0
+924,2022-WELacPh-1,2022-WELacPh-1.924G_T03,les Galeries via Lac Philippe/Scott,0,205G,924GSL,2,1,Gatineau,0
+924,2022-WELacPh-1,2022-WELacPh-1.924C_T01,Masham via Scott/Lac Philippe,1,202G,924CPL,2,1,Collines,0
+924,2022-WELacPh-1,2022-WELacPh-1.924C_T02,Masham via Scott/Lac Philippe,1,203G,924CPL,2,1,Collines,0
+924,2022-WELacPh-1,2022-WELacPh-1.924C_T03,Masham via Scott/Lac Philippe,1,205G,924CPL,2,1,Collines,0
+931,2022-WELacPh-1,2022-WELacPh-1.931G_T01,de la Gappe via Bouchette,0,201M,931G,2,1,Gatineau,0
+931,2022-WELacPh-1,2022-WELacPh-1.931G_T02,de la Gappe via Bouchette,0,204M,931G,2,1,Gatineau,0
+931,2022-WELacPh-1,2022-WELacPh-1.931G_T03,de la Gappe via Bouchette,0,206M,931G,2,1,Gatineau,0
+931,2022-WELacPh-1,2022-WELacPh-1.931C_T01,Hogan via Bouchette,1,201M,931C,2,1,Collines,0
+931,2022-WELacPh-1,2022-WELacPh-1.931C_T02,Hogan via Bouchette,1,204M,931C,2,1,Collines,0
+931,2022-WELacPh-1,2022-WELacPh-1.931C_T03,Hogan via Bouchette,1,206M,931C,2,1,Collines,0
+943,2022-WELacPh-1,2022-WELacPh-1.943G_T01,Labrosse via Fogarty,0,201M,943GI,2,1,Gatineau,0
+943,2022-WELacPh-1,2022-WELacPh-1.943G_T02,Labrosse via Fogarty,0,204M,943GI,2,1,Gatineau,0
+943,2022-WELacPh-1,2022-WELacPh-1.943G_T03,Labrosse via Fogarty,0,206M,943GI,2,1,Gatineau,0
+943,2022-WELacPh-1,2022-WELacPh-1.943C_T01,Perkins via Fogarty,1,201M,943CI,2,1,Collines,0
+943,2022-WELacPh-1,2022-WELacPh-1.943C_T02,Perkins via Fogarty,1,204M,943CI,2,1,Collines,0
+943,2022-WELacPh-1,2022-WELacPh-1.943C_T03,Perkins via Fogarty,1,206M,943CI,2,1,Collines,0

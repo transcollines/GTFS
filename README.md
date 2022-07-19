@@ -3,8 +3,8 @@ Ce répertoire contient les données GTFS officielles de [Transcollines](https:/
 Pour plus d'information sur le format GTFS, consultez [la spécification officielle](https://github.com/google/transit/blob/master/gtfs/spec/en/README.md).
 
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.**
-## NOUVAUTÉ
-(16 juin 2022) Les données GTFS de Transcollines intègrent maintenant les informations sur la tarification selon la nouvelle norme GTFS _Fares V2!_ Notez cependant qu'en raison de particularités en ce qui a trait aux correspondances vers le réseau de la STO, certains noms de titre sont particulièrement longs.
+## Fares-V2 (Tarifs)
+En date du 17 juin 2022, les développeurs ont maintenant accès aux informations sur la tarification selon la nouvelle norme GTFS _Fares V2_ dans le fichier GTFS secondaire _transcollines-qc-ca-fares.zip_. Lorsque la norme _Fares-V2_ sera adoptée plus globalement, les fichiers de tarification seront ajoutés au GTFS "Régulier" et le fichier spécial _fares-V2_ cessera d'être produit. Notez également qu'en raison de particularités en ce qui a trait aux correspondances vers le réseau de la STO, certains noms de titre sont particulièrement longs.
 ## Télécharger le GTFS:
 Pour télécharger le GTFS de Transcollines, utilisez le lien ci-dessous.
 https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca.zip

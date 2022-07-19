@@ -1,3 +1,4 @@
 ﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 2022-Semaine-1,1,1,1,1,1,0,0,20220419,20221201
-2022-Weekend-1,0,0,0,0,0,1,1,20220419,20221201
+2022-Weekend-1,0,0,0,0,0,1,1,20220905,20221201
+2022-WELacPh-1,0,0,0,0,0,1,1,20220723,20220904
