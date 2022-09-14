@@ -155,7 +155,6 @@
 910155,,du Plateau | de l'Atmosphère,,45.436297,-75.771943,,,0,,,,du Plateau et de l'Atmosphère,
 910156,,du Plateau | de l'Atmosphère,,45.436436,-75.772394,,,0,,,,du Plateau et de l'Atmosphère,
 920001,,Station les Galeries de Hull (455 de la Carrière),,45.443072,-75.728312,,,0,,,,Station les Galeries de Hull (455 de la Carrière),
-920002,,Lac Philippe (Plage Breton),,45.6131470041687,-76.0104019102448,,,0,,,,"Lac Philippe, Plage Breton",
 921006,,Principale Est | de la Prairie,,45.643215,-76.031897,,,0,,,,Principale Est et de la Prairie,
 921010,,de Ste-Cécile-de-Masham | Stationnement P17 (Arrêt de courtoisie),,45.628023,-75.938798,,,0,,,,de Sainte-Cécile-de-Masham et Stationnement P17 (Arrêt de courtoisie),
 921011,,de Ste-Cécile-de-Masham | Stationnement P17 (Arrêt de courtoisie),,45.627822,-75.938568,,,0,,,,de Sainte-Cécile-de-Masham et Stationnement P17 (Arrêt de courtoisie),
