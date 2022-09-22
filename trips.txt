@@ -76,3 +76,5 @@
 931,2022-CFeries-1,2022-CFeries-1.931C_T01,Hogan via Bouchette,1,402G.2022-CFeries-1,931C,2,1,Collines,0
 943,2022-CFeries-1,2022-CFeries-1.943G_T01,Labrosse via Fogarty,0,401G.2022-CFeries-1,943GI,2,1,Gatineau,0
 943,2022-CFeries-1,2022-CFeries-1.943C_T01,Perkins via Fogarty,1,402G.2022-CFeries-1,943CI,2,1,Collines,0
+994,2022-Semaine-1,2022-Semaine-1.994G_T01,Perkins via Carrefour (Service sur demande),0,102GD.2022-Semaine-1,994G,2,1,Gatineau,0
+994,2022-Semaine-1,2022-Semaine-1.994C_T01,Poltimore via Carrefour (Service sur demande),1,115GD.2022-Semaine-1,994C,2,1,Collines,0

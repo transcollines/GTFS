@@ -67,3 +67,5 @@
 943F_C,943,1,20221010,20221010,0,0,0,0,0,0,0,17:59:00,18:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,943,6,Collines,1
 940F_G,943,0,20221010,20221010,0,0,0,0,0,0,0,09:04:00,09:05:00,1,Direction Gatineau,Jours fériés seulement / Statutory Holidays Only,horizontal,940,5,Gatineau,1
 940F_C,943,1,20221010,20221010,0,0,0,0,0,0,0,17:59:00,18:00:00,1,Direction Collines,Jours fériés seulement / Statutory Holidays Only,horizontal,940,6,Collines,1
+994_0,994,0,20220905,20221231,1,1,1,1,1,0,0,,,0,Direction Gatineau,"Service sur demande du lundi au vendredi sauf jours fériés / Service upon request, Monday to Friday except statutory holidays",horizontal,994,1,Gatineau,1
+994_1,994,1,20220905,20221231,1,1,1,1,1,0,0,,,0,Direction Collines,"Service sur demande du lundi au vendredi sauf jours fériés / Service upon request, Monday to Friday except statutory holidays",horizontal,994,2,Collines,1
