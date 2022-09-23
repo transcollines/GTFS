@@ -1,5 +1,3 @@
 ﻿from_stop_id,to_stop_id,transfer_type,min_transfer_time,from_route_id,to_route_id,from_trip_id,to_trip_id
 921024,921024,0,,,,,
 921024,921024,1,,,,2022-Semaine-1.925C_T03,2022-Semaine-1.923C_T03
-943084,943084,4,,,,2022-Semaine-1.994G_T01,2022-Semaine-1.941G_T01
-941001,941001,4,,,,2022-Semaine-1.941C_T05,2022-Semaine-1.994C_T01
