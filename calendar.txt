@@ -1,3 +1,5 @@
 ﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-2022-Semaine-1,1,1,1,1,1,0,0,20220905,20221231
-2022-Weekend-1,0,0,0,0,0,1,1,20220905,20221231
+2022-Semaine-1,1,1,1,1,1,0,0,20220926,20221231
+2022-Weekend-1,0,0,0,0,0,1,1,20221024,20221231
+2022-Weekend-2,0,0,0,0,0,1,1,20221001,20221023
+2022-nCCNOct-1,0,0,0,0,0,1,1,20221001,20221023

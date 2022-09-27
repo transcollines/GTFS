@@ -1,5 +1,4 @@
 ﻿service_id,date,exception_type
-2022-CFeries-1,20220905,1
-2022-Semaine-1,20220905,2
 2022-CFeries-1,20221010,1
 2022-Semaine-1,20221010,2
+2022-nCCNOct-1,20221010,1
