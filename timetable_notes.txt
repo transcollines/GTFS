@@ -8,6 +8,6 @@ STO,STO,Point de correspondance vers le réseau de la STO / Transfer is availabl
 15,,"Les jours de classe du Collège Nouvelles Frontières, l'embarquement est effectué environ 40 mètres avant l'abribus en raison de l'achalandage. / On Collège Nouvelles Frontières school days, the bus will stop about 40 meters before the shelter due to crowding."
 16,>> 941,Ce voyage se poursuit sur la ligne 941 en direction Gatineau / This trip continues on line 941 Gatineau.
 17,<< 941,Arrivée en provenance de la ligne 941 direction Collines. / This trip is a continuation of line 941 Collines.
-20,🎆,Service des jours fériés: ce voyage est en service UNIQUEMENT les 25 et 26 décembre 2022 ainsi que les 1er et 2 janvier 2023. / Holiday service: this trip is in service ONLY on December 25th and 26th 2022 as well as January 1st and 2nd 2023.
-21,🔸,Ce voyage n'est PAS offert le 25 décembre 2022 ainsi que le 1er janvier 2023. / This trip does NOT operate on December 25th 2022 as well as on January 1st 2023.
-22,🔸,Ce voyage n'est PAS offert le 26 décembre 2022 ainsi que le 2 janvier 2023. / This trip does NOT operate on December 26th 2022 as well as on January 2nd 2023.
+20,⭐,Service des jours fériés: ce voyage est en service UNIQUEMENT les 25 et 26 décembre 2022 ainsi que les 1er et 2 janvier 2023. / Holiday service: this trip is in service ONLY on December 25th and 26th 2022 as well as January 1st and 2nd 2023.
+21,❗,Ce voyage n'est PAS offert le 25 décembre 2022 ainsi que le 1er janvier 2023. / This trip does NOT operate on December 25th 2022 as well as on January 1st 2023.
+22,❗,Ce voyage n'est PAS offert le 26 décembre 2022 ainsi que le 2 janvier 2023. / This trip does NOT operate on December 26th 2022 as well as on January 2nd 2023.
