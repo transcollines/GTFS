@@ -70,27 +70,11 @@
 943,2022-Weekend-1,2022-Weekend-1.943C_T01,Perkins via Fogarty,1,201M.2022-Weekend-1,943CI,2,1,Collines,0
 943,2022-Weekend-1,2022-Weekend-1.943C_T02,Perkins via Fogarty,1,204M.2022-Weekend-1,943CI,2,1,Collines,0
 943,2022-Weekend-1,2022-Weekend-1.943C_T03,Perkins via Fogarty,1,206M.2022-Weekend-1,943CI,2,1,Collines,0
+994,2022-Semaine-1,2022-Semaine-1.994G_T01,Perkins via Carrefour (Service sur demande),0,102GD.2022-Semaine-1,994G,2,1,Gatineau,0
+994,2022-Semaine-1,2022-Semaine-1.994C_T01,Poltimore via Carrefour (Service sur demande),1,115GD.2022-Semaine-1,994C,2,1,Collines,0
+924,2022-CFeries-1,2022-CFeries-1.924G_T01,les Galeries via Scott,0,401G.2022-CFeries-1,924GG,2,1,Gatineau,0
+924,2022-CFeries-1,2022-CFeries-1.924C_T01,Masham via Scott,1,402G.2022-CFeries-1,924CG,2,1,Collines,0
 931,2022-CFeries-1,2022-CFeries-1.931G_T01,de la Gappe via Bouchette,0,401G.2022-CFeries-1,931G,2,1,Gatineau,0
 931,2022-CFeries-1,2022-CFeries-1.931C_T01,Hogan via Bouchette,1,402G.2022-CFeries-1,931C,2,1,Collines,0
 943,2022-CFeries-1,2022-CFeries-1.943G_T01,Labrosse via Fogarty,0,401G.2022-CFeries-1,943GI,2,1,Gatineau,0
 943,2022-CFeries-1,2022-CFeries-1.943C_T01,Perkins via Fogarty,1,402G.2022-CFeries-1,943CI,2,1,Collines,0
-994,2022-Semaine-1,2022-Semaine-1.994G_T01,Perkins via Carrefour (Service sur demande),0,102GD.2022-Semaine-1,994G,2,1,Gatineau,0
-994,2022-Semaine-1,2022-Semaine-1.994C_T01,Poltimore via Carrefour (Service sur demande),1,115GD.2022-Semaine-1,994C,2,1,Collines,0
-931,2022-Weekend-2,2022-Weekend-2.931G_T01,de la Gappe via Bouchette,0,201M.2022-Weekend-2,931G,2,1,Gatineau,0
-931,2022-Weekend-2,2022-Weekend-2.931G_T02,de la Gappe via Bouchette,0,204M.2022-Weekend-2,931G,2,1,Gatineau,0
-931,2022-Weekend-2,2022-Weekend-2.931G_T03,de la Gappe via Bouchette,0,206M.2022-Weekend-2,931G,2,1,Gatineau,0
-931,2022-Weekend-2,2022-Weekend-2.931C_T01,Hogan via Bouchette,1,201M.2022-Weekend-2,931C,2,1,Collines,0
-931,2022-Weekend-2,2022-Weekend-2.931C_T02,Hogan via Bouchette,1,204M.2022-Weekend-2,931C,2,1,Collines,0
-931,2022-Weekend-2,2022-Weekend-2.931C_T03,Hogan via Bouchette,1,206M.2022-Weekend-2,931C,2,1,Collines,0
-943,2022-Weekend-2,2022-Weekend-2.943G_T01,Labrosse via Fogarty,0,201M.2022-Weekend-2,943GI,2,1,Gatineau,0
-943,2022-Weekend-2,2022-Weekend-2.943G_T02,Labrosse via Fogarty,0,204M.2022-Weekend-2,943GI,2,1,Gatineau,0
-943,2022-Weekend-2,2022-Weekend-2.943G_T03,Labrosse via Fogarty,0,206M.2022-Weekend-2,943GI,2,1,Gatineau,0
-943,2022-Weekend-2,2022-Weekend-2.943C_T01,Perkins via Fogarty,1,201M.2022-Weekend-2,943CI,2,1,Collines,0
-943,2022-Weekend-2,2022-Weekend-2.943C_T02,Perkins via Fogarty,1,204M.2022-Weekend-2,943CI,2,1,Collines,0
-943,2022-Weekend-2,2022-Weekend-2.943C_T03,Perkins via Fogarty,1,206M.2022-Weekend-2,943CI,2,1,Collines,0
-924,2022-nCCNOct-1,2022-nCCNOct-1.924G_T01,les Galeries via Lac Philippe/Scott,0,202G.2022-nCCNOct-1,924GGPV,2,1,Gatineau,1
-924,2022-nCCNOct-1,2022-nCCNOct-1.924G_T02,les Galeries via Lac Philippe/Scott,0,203G.2022-nCCNOct-1,924GGPV,2,1,Gatineau,1
-924,2022-nCCNOct-1,2022-nCCNOct-1.924G_T03,les Galeries via Lac Philippe/Scott,0,205G.2022-nCCNOct-1,924GGPV,2,1,Gatineau,1
-924,2022-nCCNOct-1,2022-nCCNOct-1.924C_T01,Masham via Scott/Lac Philippe,1,202G.2022-nCCNOct-1,924CGVP,2,1,Collines,1
-924,2022-nCCNOct-1,2022-nCCNOct-1.924C_T02,Masham via Scott/Lac Philippe,1,203G.2022-nCCNOct-1,924CGVP,2,1,Collines,1
-924,2022-nCCNOct-1,2022-nCCNOct-1.924C_T03,Masham via Scott/Lac Philippe,1,205G.2022-nCCNOct-1,924CGVP,2,1,Collines,1
