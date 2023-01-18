@@ -1,3 +1,9 @@
-﻿from_stop_id,to_stop_id,transfer_type,min_transfer_time,from_route_id,to_route_id,from_trip_id,to_trip_id
+from_stop_id,to_stop_id,transfer_type,min_transfer_time,from_route_id,to_route_id,from_trip_id,to_trip_id
 921024,921024,0,,,,,
 921024,921024,1,,,,2022-Semaine-1.925C_T03,2022-Semaine-1.923C_T03
+,,5,,,,2022-CFeries-1.924G_T01,2022-CFeries-1.931G_T01
+,,5,,,,2022-CFeries-1.931G_T01,2022-CFeries-1.943G_T01
+,,5,,,,2022-CFeries-1.924C_T01,2022-CFeries-1.931C_T01
+,,5,,,,2022-CFeries-1.931C_T01,2022-CFeries-1.943C_T01
+,,4,,,,2022-Semaine-1.994G_T01,2022-Semaine-1.941G_T01
+,,4,,,,2022-Semaine-1.941C_T05,2022-Semaine-1.994C_T01
