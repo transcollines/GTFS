@@ -38,6 +38,10 @@ La RITC recommande au développeur de consulter au besoin les multiples sources 
 * https://developers.google.com/transit/gtfs/ (en anglais seulement)
 
 La RITC ou ses employés ne peuvent être tenus responsables de tout type de dommage prévisible ou imprévisible (incluant la perte de profits ou d'opportunités) découlant de l'utilisation ou de l'impossibilité totale ou partielle d'utiliser les données ouvertes de la RITC.
+
+## Données des utilisateurs
+Le développeur qui fait usage des données ouvertes de la RITC s'engage à ne pas transférer, vendre ou commercialiser les données des utilisateurs. Les données des utilisateurs ne peuvent être divulguées publiquement sans l'approbation écrite préalable de la RITC, laquelle approbation peut être refusée pour tout motif, à la seule discrétion de la RITC.
+
 ## Autres dispositions
 La nullité de l’un des articles des présentes n’a pas pour effet d’annuler les présentes Conditions d’utilisation qui devront alors être lues comme si ledit article n’y était pas inscrit.
 
