@@ -78,3 +78,13 @@
 931,2022-CFeries-1,2022-CFeries-1.931C_T01,Hogan via Bouchette,1,402G.2022-CFeries-1,931C,2,1,Collines,0
 943,2022-CFeries-1,2022-CFeries-1.943G_T01,Labrosse via Fogarty,0,401G.2022-CFeries-1,943GI,2,1,Gatineau,0
 943,2022-CFeries-1,2022-CFeries-1.943C_T01,Perkins via Fogarty,1,402G.2022-CFeries-1,943CI,2,1,Collines,0
+910,2023-Semaine-1,2023-Semaine-1.910G_T01,Cégep G-Roy via Route 148,0,101.2023-Semaine-1,910G,2,1,Gatineau,0
+910,2023-Semaine-1,2023-Semaine-1.910P_T01,Chapeau via Route 148,1,109.2023-Semaine-1,910P,2,1,Pontiac,0
+920,2023-Semaine-1,2023-Semaine-1.920G_T01,les Galeries via de la Mine,0,102.2023-Semaine-1,920G,2,1,Gatineau,0
+920,2023-Semaine-1,2023-Semaine-1.920G_T02,les Galeries via de la Mine,0,105.2023-Semaine-1,920G,2,1,Gatineau,0
+920,2023-Semaine-1,2023-Semaine-1.920C_T01,Masham via de la Mine,1,106.2023-Semaine-1,920C,2,1,Collines,0
+920,2023-Semaine-1,2023-Semaine-1.920C_T02,Masham via de la Mine,1,108.2023-Semaine-1,920C,2,1,Collines,0
+930,2023-Semaine-1,2023-Semaine-1.930G_T01,Cégep G-Roy via Alonzo,0,104.2023-Semaine-1,930G,2,1,Gatineau,0
+920,2022-Semaine-1,2023-Semaine-1.930C_T01,Hogan via Alonzo,1,107.2023-Semaine-1,930C,2,1,Collines,0
+940,2023-Semaine-1,2023-Semaine-1.940G_T01,Labrosse via Fogarty,0,103.2023-Semaine-1,940G,2,1,Gatineau,0
+940,2023-Semaine-1,2023-Semaine-1.940C_T01,Perkins via Fogarty,1,110.2023-Semaine-1,940C,2,1,Collines,0

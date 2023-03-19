@@ -11,7 +11,7 @@
 934,Cantley - Gatineau,934.html
 941,Val-des-Monts - Gatineau,941.html
 943,Val-des-Monts - Gatineau,943.html
-920,Corridor La Pêche - Chelsea - Gatineau,920.html
-930,Corridor Cantley - Gatineau,930.html
-940,Corridor Val-des-Monts - Gatineau,940.html
+920,La Pêche - Chelsea - Gatineau,920.html
+930,Cantley - Gatineau,930.html
+940,Val-des-Monts - Gatineau,940.html
 994,Val-des-Monts (Sur demande),994.html

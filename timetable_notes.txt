@@ -8,3 +8,10 @@ STO,STO,Point de correspondance vers le réseau de la STO / Transfer is availabl
 15,,"Les jours de classe du Collège Nouvelles Frontières, l'embarquement est effectué environ 40 mètres avant l'abribus en raison de l'achalandage. / On Collège Nouvelles Frontières school days, the bus will stop about 40 meters before the shelter due to crowding."
 16,>> 941,Ce voyage se poursuit sur la ligne 941 en direction Gatineau / This trip continues on line 941 Gatineau.
 17,<< 941,Arrivée en provenance de la ligne 941 direction Collines. / This trip is a continuation of line 941 Collines.
+18,*,"Le 18 avril 2023, cette ligne deviendra la ligne 920 et les horaires seront modifiés. / Effective April 18th, 2023, this line will become line 920 and schedules will be modified."
+19,*,"Le 18 avril 2023, cette ligne deviendra la ligne 930 et les horaires seront modifiés. / Effective April 18th, 2023, this line will become line 930 and schedules will be modified."
+20,*,"Le 18 avril 2023, cette ligne deviendra la ligne 940 et les horaires seront modifiés. / Effective April 18th, 2023, this line will become line 940 and schedules will be modified."
+21,*,"Le 18 avril 2023, cette ligne sera retirée et remplacée par Transcollines à la demande. / Effective April 18th, 2023, this line will be withdrawn and replaced by Transcollines on demand."
+22,*,"Cet ligne entre en vigueur le 18 avril 2023. / This line begins operations on April 18th, 2023."
+23,,Horaire des jours fériés en vigueur le vendredi 7 et lundi 10 avril 2023. / Statutory holiday schedule in effect on Friday the 7th and Monday the 10th of April 2023.
+24,,Jours fériés: Aucun service sur cette ligne le vendredi 7 et lundi 10 avril 2023. / Statutory holidays: No service on this line on Friday the 7th and Monday the 10th of April 2023.
