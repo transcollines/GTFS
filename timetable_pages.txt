@@ -1,15 +1,9 @@
 ﻿timetable_page_id,timetable_page_label,filename
 910,Pontiac - Gatineau,910.html
 921,La Pêche - Chelsea - Gatineau,921.html
-922,Chelsea - Gatineau,922.html
 923,La Pêche - Chelsea - Gatineau,923.html
 924,La Pêche - Chelsea - Gatineau,924.html
 925,La Pêche - Chelsea - Gatineau,925.html
 931,Cantley - Gatineau,931.html
 932,Cantley - Gatineau,932.html
-933,Cantley - Gatineau,933.html
-934,Cantley - Gatineau,934.html
-941,Val-des-Monts - Gatineau,941.html
-943,Val-des-Monts - Gatineau,943.html
 940,Val-des-Monts - Gatineau,940.html
-994,Val-des-Monts (Sur demande),994.html
