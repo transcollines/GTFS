@@ -1,3 +1,5 @@
 ﻿transfer_type,from_stop_id,to_stop_id,min_transfer_time,from_route_id,to_route_id,from_trip_id,to_trip_id
 0,921024,921024,,,,,
 5,923009,923010,,,,2023-COL-Semaine-2.921G_T02,2023-COL-Semaine-2.923C_T02
+5,9154,9154,,,,2023-COL-Navette-1.924G_T01,2023-COL-Navette-1.924C_T01
+5,9154,9154,,,,2023-COL-Navette-1.924G_T03,2023-COL-Navette-1.924C_T03
