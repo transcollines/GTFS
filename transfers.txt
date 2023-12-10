@@ -1,5 +1,8 @@
-﻿transfer_type,from_stop_id,to_stop_id,min_transfer_time,from_route_id,to_route_id,from_trip_id,to_trip_id
-0,921024,921024,,,,,
-5,923009,923010,,,,2023-COL-Semaine-2.921G_T02,2023-COL-Semaine-2.923C_T02
-5,9154,9154,,,,2023-COL-Navette-1.924G_T01,2023-COL-Navette-1.924C_T01
-5,9154,9154,,,,2023-COL-Navette-1.924G_T03,2023-COL-Navette-1.924C_T03
+from_stop_id,to_stop_id,transfer_type,min_transfer_time,from_trip_id,to_trip_id
+921024,921024,0,,,
+921032,921032,5,,2023-COL-Weekend-2.924G_T03,2023-COL-Weekend-2.924C_T03
+923009,923010,5,,2023-COL-Semaine-2.921G_T02,2023-COL-Semaine-2.923C_T02
+921032,921032,5,,2023-COL-Semaine-2.925G_T03,2023-COL-Semaine-2.925C_T01
+921032,921032,5,,2023-COL-Weekend-2.924G_T02,2023-COL-Weekend-2.924C_T02
+921032,921032,5,,2023-COL-Weekend-2.924G_T01,2023-COL-Weekend-2.924C_T01
+923009,923010,5,,2023-COL-Semaine-2.923G_T01,2023-COL-Semaine-2.921C_T01

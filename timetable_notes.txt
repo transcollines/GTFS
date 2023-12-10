@@ -5,6 +5,5 @@ STO,STO,Point de correspondance vers le réseau de la STO / Transfer is availabl
 25,,"Lorsque cette ligne n'est pas en service, nous vous invitons à utiliser Transcollines à la demande. / When this route is not in service, we invite you to use Transcollines On Demand."
 26,,Jours fériés: aucun service de ligne fixe. Veuillez utiliser Transcollines à la demande. / Statutory holidays: no fixed-route service. Please use Transcollines On Demand.
 27,,Jours fériés: aucun service de ligne fixe. / Staturory holidays: no fixed-route service.
-28,N,Transfert à la navette gratuite de la STO pour vous rendre aux destinations populaires du secteurs des promenades du Parc de la Gatineau. / Transfer to the free STO shuttle to get to popular destinations near the Gatineau Park parkways.
-29,3,Quai 3 (Rue Montcalm) / Platform 3 (Montcalm Street)
-30,0$,Autobus gratuit / Free bus
+31,⭐,"Période des Fêtes 2023: Aucun service de ligne fixe les 23, 24, 25, 26, 30 et 31 décembre 2023 ainsi que les 1er et 2 janvier 2024. Veuillez utiliser Transcollines à la demande. / 2023-24 holiday season: no fixed-route service on December 23rd, 24th, 25th, 26th, 30th and 31st 2023 as well as on January 1st and 2nd 2024. Please use Transcollines On Demand."
+32,⭐,"Période des Fêtes 2023: Aucun service de ligne fixe les 23, 24, 25, 26, 30 et 31 décembre 2023 ainsi que les 1er et 2 janvier 2024. / 2023-24 holiday season: no fixed-route service on December 23rd, 24th, 25th, 26th, 30th and 31st 2023 as well as on January 1st and 2nd 2024."

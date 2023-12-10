@@ -1,4 +1,14 @@
-﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed,trip_direction_headsign,exceptional
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed,trip_direction_headsign,exceptional
+932,2023-COL-Semaine-2,2023-COL-Semaine-2.932G_T01,Cégep G-Roy via Alonzo,0,106.2023-COL-Semaine-2,932G,2,1,Gatineau,0
+932,2023-COL-Semaine-2,2023-COL-Semaine-2.932C_T01,Hogan via Alonzo,1,110.2023-COL-Semaine-2,932C,2,1,Collines,0
+940,2023-COL-Semaine-2,2023-COL-Semaine-2.940G_T01,Labrosse via Carrefour,0,104.2023-COL-Semaine-2,940G,2,1,Gatineau,0
+940,2023-COL-Semaine-2,2023-COL-Semaine-2.940C_T01,Perkins via Carrefour,1,111.2023-COL-Semaine-2,940C,2,1,Collines,0
+924,2023-COL-Weekend-2,2023-COL-Weekend-2.924G_T01,les Galeries via Scott,0,201.2023-COL-Weekend-2,924GG,2,1,Gatineau,0
+924,2023-COL-Weekend-2,2023-COL-Weekend-2.924G_T02,les Galeries via Scott,0,202.2023-COL-Weekend-2,924GG,2,1,Gatineau,0
+924,2023-COL-Weekend-2,2023-COL-Weekend-2.924G_T03,les Galeries via Scott,0,203.2023-COL-Weekend-2,924GG,2,1,Gatineau,0
+924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T01,Masham via Scott,1,201.2023-COL-Weekend-2,924CG,2,1,Collines,0
+924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T02,Masham via Scott,1,202.2023-COL-Weekend-2,924CG,2,1,Collines,0
+924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T03,Masham via Scott,1,203.2023-COL-Weekend-2,924CG,2,1,Collines,0
 910,2023-PON-Semaine-1,2023-PON-Semaine-1.910G_T01,Cégep G-Roy via Route 148,0,101.2023-PON-Semaine-1,910G,2,1,Gatineau,0
 910,2023-PON-Semaine-1,2023-PON-Semaine-1.910P_T01,Chapeau via Route 148,1,114.2023-PON-Semaine-2,910P,2,1,Pontiac,0
 921,2023-COL-Semaine-2,2023-COL-Semaine-2.921G_T01,les Galeries via Autoroute,0,102.2023-COL-Semaine-2,921GR,2,1,Gatineau,0
@@ -6,29 +16,13 @@
 921,2023-COL-Semaine-2,2023-COL-Semaine-2.921C_T01,Masham via Autoroute,1,103.2023-COL-Semaine-2,921CR,2,1,Collines,0
 923,2023-COL-Semaine-2,2023-COL-Semaine-2.923G_T01,les Galeries via Old Chelsea,0,103.2023-COL-Semaine-2,923G,2,1,Gatineau,0
 923,2023-COL-Semaine-2,2023-COL-Semaine-2.923G_T02,les Galeries via Old Chelsea,0,102.2023-COL-Semaine-2,923G,2,1,Gatineau,0
-923,2023-COL-Semaine-2,2023-COL-Semaine-2.923C_T01,Masham via Old Chelsea,1,113.2023-COL-Semaine-2,923C,2,1,Collines,0
-923,2023-COL-Semaine-2,2023-COL-Semaine-2.923C_T02,Masham via Old Chelsea,1,115.2023-COL-Semaine-2,923C,2,1,Collines,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925G_T01,les Galeries via de la Mine,0,105.2023-COL-Semaine-2,925G,2,1,Gatineau,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925G_T02,les Galeries via de la Mine,0,107.2023-COL-Semaine-2,925G,2,1,Gatineau,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925G_T03,les Galeries via de la Mine,0,108.2023-COL-Semaine-2,925G,2,1,Gatineau,0
+923,2023-COL-Semaine-2,2023-COL-Semaine-2.923C_T01,Masham via Old Chelsea,1,113.2023-COL-Semaine-2,923C,2,1,Collines,0
+923,2023-COL-Semaine-2,2023-COL-Semaine-2.923C_T02,Masham via Old Chelsea,1,115.2023-COL-Semaine-2,923C,2,1,Collines,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925C_T01,Masham via de la Mine,1,108.2023-COL-Semaine-2,925C,2,1,Collines,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925C_T02,Masham via de la Mine,1,109.2023-COL-Semaine-2,925C,2,1,Collines,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925C_T03,Masham via de la Mine,1,112.2023-COL-Semaine-2,925C,2,1,Collines,0
-924,2023-COL-Weekend-2,2023-COL-Weekend-2.924G_T01,les Galeries via Scott,0,201.2023-COL-Weekend-2,924GG,2,1,Gatineau,0
-924,2023-COL-Weekend-2,2023-COL-Weekend-2.924G_T02,les Galeries via Scott,0,202.2023-COL-Weekend-2,924GG,2,1,Gatineau,0
-924,2023-COL-Weekend-2,2023-COL-Weekend-2.924G_T03,les Galeries via Scott,0,203.2023-COL-Weekend-2,924GG,2,1,Gatineau,0
-924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T01,Masham via Scott,1,201.2023-COL-Weekend-2,924CG,2,1,Collines,0
-924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T02,Masham via Scott,1,202.2023-COL-Weekend-2,924CG,2,1,Collines,0
-924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T03,Masham via Scott,1,203.2023-COL-Weekend-2,924CG,2,1,Collines,0
 931,2023-COL-Semaine-2,2023-COL-Semaine-2.931G_T01,de la Gappe via Bouchette,0,104.2023-COL-Semaine-2,931G,2,1,Gatineau,0
 931,2023-COL-Semaine-2,2023-COL-Semaine-2.931C_T01,Hogan via Bouchette,1,111.2023-COL-Semaine-2,931C,2,1,Collines,0
-932,2023-COL-Semaine-2,2023-COL-Semaine-2.932G_T01,Cégep G-Roy via Alonzo,0,106.2023-COL-Semaine-2,932G,2,1,Gatineau,0
-932,2023-COL-Semaine-2,2023-COL-Semaine-2.932C_T01,Hogan via Alonzo,1,110.2023-COL-Semaine-2,932C,2,1,Collines,0
-940,2023-COL-Semaine-2,2023-COL-Semaine-2.940G_T01,Labrosse via Carrefour,0,104.2023-COL-Semaine-2,940G,2,1,Gatineau,0
-940,2023-COL-Semaine-2,2023-COL-Semaine-2.940C_T01,Perkins via Carrefour,1,111.2023-COL-Semaine-2,940C,2,1,Collines,0
-924,2023-COL-Navette-1,2023-COL-Navette-1.924G_T01,Station Montcalm via Scott,0,201.2023-COL-Navette-1,924GMPV,2,1,Gatineau,0
-924,2023-COL-Navette-1,2023-COL-Navette-1.924G_T02,Station Montcalm via Scott,0,202.2023-COL-Navette-1,924GMPV,2,1,Gatineau,0
-924,2023-COL-Navette-1,2023-COL-Navette-1.924G_T03,Station Montcalm via Scott,0,203.2023-COL-Navette-1,924GMPV,2,1,Gatineau,0
-924,2023-COL-Navette-1,2023-COL-Navette-1.924C_T01,Masham via Scott,1,201.2023-COL-Navette-1,924CMVP,2,1,Collines,0
-924,2023-COL-Navette-1,2023-COL-Navette-1.924C_T02,Masham via Scott,1,202.2023-COL-Navette-1,924CMVP,2,1,Collines,0
-924,2023-COL-Navette-1,2023-COL-Navette-1.924C_T03,Masham via Scott,1,203.2023-COL-Navette-1,924CMVP,2,1,Collines,0

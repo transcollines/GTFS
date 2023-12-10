@@ -1,6 +1,4 @@
-﻿area_id,stop_id
-GAT,9154
-GAT,9155
+area_id,stop_id
 PNT,910001
 PNT,910002
 PNT,910003
