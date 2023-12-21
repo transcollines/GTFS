@@ -11,9 +11,6 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 924,2023-COL-Weekend-2,2023-COL-Weekend-2.924C_T03,Masham via Scott,1,203.2023-COL-Weekend-2,924CG,2,1,Collines,0
 910,2023-PON-Semaine-1,2023-PON-Semaine-1.910G_T01,Cégep G-Roy via Route 148,0,101.2023-PON-Semaine-1,910G,2,1,Gatineau,0
 910,2023-PON-Semaine-1,2023-PON-Semaine-1.910P_T01,Chapeau via Route 148,1,114.2023-PON-Semaine-2,910P,2,1,Pontiac,0
-921,2023-COL-Semaine-2,2023-COL-Semaine-2.921G_T01,les Galeries via Autoroute,0,102.2023-COL-Semaine-2,921GR,2,1,Gatineau,0
-921,2023-COL-Semaine-2,2023-COL-Semaine-2.921G_T02,les Galeries via Autoroute,0,115.2023-COL-Semaine-2,921GR,2,1,Gatineau,0
-921,2023-COL-Semaine-2,2023-COL-Semaine-2.921C_T01,Masham via Autoroute,1,103.2023-COL-Semaine-2,921CR,2,1,Collines,0
 923,2023-COL-Semaine-2,2023-COL-Semaine-2.923G_T01,les Galeries via Old Chelsea,0,103.2023-COL-Semaine-2,923G,2,1,Gatineau,0
 923,2023-COL-Semaine-2,2023-COL-Semaine-2.923G_T02,les Galeries via Old Chelsea,0,102.2023-COL-Semaine-2,923G,2,1,Gatineau,0
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925G_T01,les Galeries via de la Mine,0,105.2023-COL-Semaine-2,925G,2,1,Gatineau,0
@@ -26,3 +23,22 @@ route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelch
 925,2023-COL-Semaine-2,2023-COL-Semaine-2.925C_T03,Masham via de la Mine,1,112.2023-COL-Semaine-2,925C,2,1,Collines,0
 931,2023-COL-Semaine-2,2023-COL-Semaine-2.931G_T01,de la Gappe via Bouchette,0,104.2023-COL-Semaine-2,931G,2,1,Gatineau,0
 931,2023-COL-Semaine-2,2023-COL-Semaine-2.931C_T01,Hogan via Bouchette,1,111.2023-COL-Semaine-2,931C,2,1,Collines,0
+921,2023-COL-Semaine-2,2023-COL-Semaine-2.921G_T01,les Galeries via Autoroute,0,102.2023-COL-Semaine-2,921GR,2,1,Gatineau,0
+921,2023-COL-Semaine-2,2023-COL-Semaine-2.921G_T02,les Galeries via Autoroute,0,115.2023-COL-Semaine-2,921GR,2,1,Gatineau,0
+921,2023-COL-Semaine-2,2023-COL-Semaine-2.921C_T01,Masham via Autoroute,1,103.2023-COL-Semaine-2,921CR,2,1,Collines,0
+921,2023-COL-SemFete-1,2023-COL-SemFete-1.921G-1,les Galeries via Autoroute,0,102,921GR,,1,Gatineau,0
+921,2023-COL-SemFete-1,2023-COL-SemFete-1.921G-2,les Galeries via Autoroute,0,115,921GR,,1,Gatineau,0
+923,2023-COL-SemFete-1,2023-COL-SemFete-1.923G-1,les Galeries via Old Chelsea,0,102,923G,,1,Gatineau,0
+923,2023-COL-SemFete-1,2023-COL-SemFete-1.923C-1,Masham via Old Chelsea,1,115,923C,,1,Collines,0
+925,2023-COL-SemFete-1,2023-COL-SemFete-1.925G-1,les Galeries via de la Mine,0,105,925G,,1,Gatineau,0
+925,2023-COL-SemFete-1,2023-COL-SemFete-1.925G-2,les Galeries via de la Mine,0,107,925G,,1,Gatineau,0
+925,2023-COL-SemFete-1,2023-COL-SemFete-1.925G-3,les Galeries via de la Mine,0,108,925G,,1,Gatineau,0
+925,2023-COL-SemFete-1,2023-COL-SemFete-1.925C-1,Masham via de la Mine,1,108,925C,,1,Collines,0
+931,2023-COL-SemFete-1,2023-COL-SemFete-1.931G-1,de la Gappe via Bouchette,0,104,931G,,1,Gatineau,0
+925,2023-COL-SemFete-1,2023-COL-SemFete-1.925C-2,Masham via de la Mine,1,109,925C,,1,Collines,0
+925,2023-COL-SemFete-1,2023-COL-SemFete-1.925C-3,Masham via de la Mine,1,112,925C,,1,Collines,0
+931,2023-COL-SemFete-1,2023-COL-SemFete-1.931C-1,Hogan via Bouchette,1,111,931C,,1,Collines,0
+932,2023-COL-SemFete-1,2023-COL-SemFete-1.932G-1,Cégep G-Roy via Alonzo,0,106,932G,,1,Gatineau,0
+932,2023-COL-SemFete-1,2023-COL-SemFete-1.932C-1,Hogan via Alonzo,1,110,932C,,1,Collines,0
+940,2023-COL-SemFete-1,2023-COL-SemFete-1.940G-1,Labrosse via Carrefour,0,104,940G,,1,Gatineau,0
+940,2023-COL-SemFete-1,2023-COL-SemFete-1.940C-1,Perkins via Carrefour,1,111,940C,,1,Collines,0
