@@ -2,3 +2,4 @@ service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,e
 2023-COL-Semaine-2,1,1,1,1,1,0,0,20231201,20240630
 2023-COL-Weekend-2,0,0,0,0,0,1,1,20231201,20240630
 2023-PON-Semaine-1,1,1,1,1,1,0,0,20231201,20240630
+2023-COL-SemFete-1,0,0,1,1,1,0,0,20231227,20231229
