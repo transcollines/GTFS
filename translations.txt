@@ -110,7 +110,6 @@ stops,stop_name,en,Route 105 | Croissant (Courtesy Stop),,,Route 105 | Croissant
 stops,stop_name,en,de la Cité-des-Jeunes | Cégep Gabrielle-Roy,,,de la Cité-des-Jeunes | Cégep Gabrielle-Roy
 stops,stop_name,en,Lionel-Émond | Collège Nouvelles Frontières,,,Lionel-Émond | Collège Nouvelles Frontières
 stops,stop_name,en,de la Cité-des-Jeunes | Centre Asticou,,,de la Cité-des-Jeunes | Centre Asticou
-stops,stop_name,en,Riverside | Maclaren,,,Riverside | Maclaren
 stops,stop_name,en,Route 105 | de la Rivière,,,Route 105 | de la Rivière
 stops,stop_name,en,Route 105 | Loretta,,,Route 105 | Loretta
 stops,stop_name,en,Édifice Louis St-Laurent,,,Édifice Louis St-Laurent
@@ -128,9 +127,6 @@ stops,stop_name,en,Stationnement Incitatif de la Locomotive,,,Stationnement Inci
 stops,stop_name,en,Riverside | de la Légion,,,Riverside | de la Légion
 stops,stop_name,en,Riverside | Burnside,,,Riverside | Burnside
 stops,stop_name,en,Riverside | Mill,,,Riverside | Mill
-stops,stop_name,en,Near 740 Riverside,,,Près du 740 Riverside
-stops,stop_name,en,de la Vallée de Wakefield | Riverside,,,de la Vallée de Wakefield | Riverside
-stops,stop_name,en,Riverside | de la Vallée de Wakefield,,,Riverside | de la Vallée de Wakefield
 stops,stop_name,en,de la Rivière | St-Clément,,,de la Rivière | St-Clément
 stops,stop_name,en,St-Clément | de la Rivière,,,St-Clément | de la Rivière
 stops,stop_name,en,de la Rivière | de la Carrière,,,de la Rivière | de la Carrière
@@ -190,14 +186,12 @@ stops,stop_name,en,Route 105 | Craiglands,,,Route 105 | Craiglands
 stops,stop_name,en,Route 105 | Williamson,,,Route 105 | Williamson
 stops,stop_name,en,Route 105 | Musie,,,Route 105 | Musie
 stops,stop_name,en,Route 105 | Forest Hill,,,Route 105 | Forest Hill
-stops,stop_name,en,Scott | Belle-Terre,,,Scott | Belle-Terre
 stops,stop_name,en,Kingsmere | Notch,,,Kingsmere | Notch
 stops,stop_name,en,Notch | Dunn (Courtesy Stop),,,Notch | Dunn (Arrêt de courtoisie)
 stops,stop_name,en,Notch | Bronson,,,Notch | Bronson
 stops,stop_name,en,Notch | Tamarack (Courtesy Stop),,,Notch | Tamarack (Arrêt de courtoisie)
 stops,stop_name,en,Notch | de la Mine,,,Notch | de la Mine
 stops,stop_name,en,de la Mine | Link,,,de la Mine | Link
-stops,stop_name,en,de la Mine | Solitude,,,de la Mine | Solitude
 stops,stop_name,en,de la Mine | Mike (Courtesy Stop),,,de la Mine | Mike (Arrêt de courtoisie)
 stops,stop_name,en,de la Mine | Marie-Burger,,,de la Mine | Marie-Burger
 stops,stop_name,en,Gamelin | St-Joseph,,,Gamelin | St-Joseph
@@ -207,19 +201,12 @@ stops,stop_name,en,Near 1638 route 105 (Courtesy Stop),,,Près du 1638 route 105
 stops,stop_name,en,Centre Communautaire Wakefield,,,Centre Communautaire Wakefield
 stops,stop_name,en,Taché | de Maricourt (Courtesy Stop),,,Taché | de Maricourt (Arrêt de courtoisie)
 stops,stop_name,en,Taché | du Domaine-Champêtre (Courtesy Stop),,,Taché | du Domaine-Champêtre (Arrêt de courtoisie)
-stops,stop_name,en,Taché | Boisé des Mûriers (Courtesy Stop),,,Taché | Boisé des Mûriers (Arrêt de courtoisie)
-stops,stop_name,en,Boisé des Mûriers | des Pruniers (Courtesy Stop),,,Boisé des Mûriers | des Pruniers (Arrêt de courtoisie)
-stops,stop_name,en,Boisé des Mûriers | des Framboisiers (Courtesy Stop),,,Boisé des Mûriers | des Framboisiers (Arrêt de courtoisie)
-stops,stop_name,en,Boisé des Mûriers | des Groseilliers (Courtesy Stop),,,Boisé des Mûriers | des Groseilliers (Arrêt de courtoisie)
-stops,stop_name,en,Boisé des Mûriers | des Poiriers (Courtesy Stop),,,Boisé des Mûriers | des Poiriers (Arrêt de courtoisie)
-stops,stop_name,en,Boisé des Mûriers | Denis,,,Boisé des Mûriers | Denis
 stops,stop_name,en,Route 307 | Hogan,,,Route 307 | Hogan
 stops,stop_name,en,Route 307 | du Mont-des-Cascades,,,Route 307 | du Mont-des-Cascades
 stops,stop_name,en,Route 307 | Blackburn,,,Route 307 | Blackburn
 stops,stop_name,en,Route 307 | Bouchette,,,Route 307 | Bouchette
 stops,stop_name,en,de Bouchette | Godmaire,,,de Bouchette | Godmaire
 stops,stop_name,en,de Bouchette | du Commandeur,,,de Bouchette | du Commandeur
-stops,stop_name,en,de Bouchette | Tourterelles,,,de Bouchette | Tourterelles
 stops,stop_name,en,de Bouchette | du Mont-Joël,,,de Bouchette | du Mont-Joël
 stops,stop_name,en,du Mont-Joël | Marsolais,,,du Mont-Joël | Marsolais
 stops,stop_name,en,du Mont-Joël | Denis,,,du Mont-Joël | Denis
@@ -251,7 +238,6 @@ stops,stop_name,en,de la Pineraie | du Carrefour,,,de la Pineraie | du Carrefour
 stops,stop_name,en,de la Pineraie | des Bâtisseurs,,,de la Pineraie | des Bâtisseurs
 stops,stop_name,en,des Bâtisseurs | des Mélèzes,,,des Bâtisseurs | des Mélèzes
 stops,stop_name,en,des Bâtisseurs | Henri Bélec,,,des Bâtisseurs | Henri Bélec
-stops,stop_name,en,des Bâtisseurs | des Terres,,,des Bâtisseurs | des Terres
 stops,stop_name,en,des Bâtisseurs | des Générations,,,des Bâtisseurs | des Générations
 stops,stop_name,en,des Bâtisseurs | Cléophas Scatland,,,des Bâtisseurs | Cléophas Scatland
 stops,stop_name,en,des Bâtisseurs | du Village,,,des Bâtisseurs | du Village
@@ -379,7 +365,6 @@ stops,tts_stop_name,en,Route 105 and Croissant (Courtesy Stop),,,Route 105 et Cr
 stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Gabrielle-Roy,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
 stops,tts_stop_name,en,Lionel-Émond and Collège Nouvelles Frontières,,,Lionel-Émond et Collège Nouvelles Frontières
 stops,tts_stop_name,en,de la Cité-des-Jeunes and Centre Asticou,,,de la Cité-des-Jeunes et Centre Asticou
-stops,tts_stop_name,en,Riverside and Maclaren,,,Riverside et Maclaren
 stops,tts_stop_name,en,Route 105 and de la Rivière,,,Route 105 et de la Rivière
 stops,tts_stop_name,en,Route 105 and Loretta,,,Route 105 et Loretta
 stops,tts_stop_name,en,Édifice Louis Saint-Laurent,,,Édifice Louis Saint-Laurent
@@ -397,9 +382,6 @@ stops,tts_stop_name,en,Stationnement Incitatif de la Locomotive,,,Stationnement 
 stops,tts_stop_name,en,Riverside and de la Légion,,,Riverside et de la Légion
 stops,tts_stop_name,en,Riverside and Burnside,,,Riverside et Burnside
 stops,tts_stop_name,en,Riverside and Mill,,,Riverside et Mill
-stops,tts_stop_name,en,Near 740 Riverside,,,Près du 740 Riverside
-stops,tts_stop_name,en,de la Vallée de Wakefield and Riverside,,,de la Vallée de Wakefield et Riverside
-stops,tts_stop_name,en,Riverside and de la Vallée de Wakefield,,,Riverside et de la Vallée de Wakefield
 stops,tts_stop_name,en,de la Rivière and Saint-Clément,,,de la Rivière et Saint-Clément
 stops,tts_stop_name,en,Saint-Clément and de la Rivière,,,Saint-Clément et de la Rivière
 stops,tts_stop_name,en,de la Rivière and de la Carrière,,,de la Rivière et de la Carrière
@@ -459,14 +441,12 @@ stops,tts_stop_name,en,Route 105 and Craiglands,,,Route 105 et Craiglands
 stops,tts_stop_name,en,Route 105 and Williamson,,,Route 105 et Williamson
 stops,tts_stop_name,en,Route 105 and Musie,,,Route 105 et Musie
 stops,tts_stop_name,en,Route 105 and Forest Hill,,,Route 105 et Forest Hill
-stops,tts_stop_name,en,Scott and Belle-Terre,,,Scott et Belle-Terre
 stops,tts_stop_name,en,Kingsmere and Notch,,,Kingsmere et Notch
 stops,tts_stop_name,en,Notch and Dunn (Courtesy Stop),,,Notch et Dunn (Arrêt de courtoisie)
 stops,tts_stop_name,en,Notch and Bronson,,,Notch et Bronson
 stops,tts_stop_name,en,Notch and Tamarack (Courtesy Stop),,,Notch et Tamarack (Arrêt de courtoisie)
 stops,tts_stop_name,en,Notch and de la Mine,,,Notch et de la Mine
 stops,tts_stop_name,en,de la Mine and Link,,,de la Mine et Link
-stops,tts_stop_name,en,de la Mine and Solitude,,,de la Mine et Solitude
 stops,tts_stop_name,en,de la Mine and Mike (Courtesy Stop),,,de la Mine et Mike (Arrêt de courtoisie)
 stops,tts_stop_name,en,de la Mine and Marie-Burger,,,de la Mine et Marie-Burger
 stops,tts_stop_name,en,Gamelin and Saint-Joseph,,,Gamelin et Saint-Joseph
@@ -475,19 +455,12 @@ stops,tts_stop_name,en,Route 105 and Ditchfield,,,Route 105 et Ditchfield
 stops,tts_stop_name,en,Centre Communautaire Wakefield,,,Centre Communautaire Wakefield
 stops,tts_stop_name,en,Taché and de Maricourt (Courtesy Stop),,,Taché et de Maricourt (Arrêt de courtoisie)
 stops,tts_stop_name,en,Taché and du Domaine-Champêtre (Courtesy Stop),,,Taché et du Domaine-Champêtre (Arrêt de courtoisie)
-stops,tts_stop_name,en,Taché and Boisé des Mûriers (Courtesy Stop),,,Taché et Boisé des Mûriers (Arrêt de courtoisie)
-stops,tts_stop_name,en,Boisé des Mûriers and des Pruniers (Courtesy Stop),,,Boisé des Mûriers et des Pruniers (Arrêt de courtoisie)
-stops,tts_stop_name,en,Boisé des Mûriers and des Framboisiers (Courtesy Stop),,,Boisé des Mûriers et des Framboisiers (Arrêt de courtoisie)
-stops,tts_stop_name,en,Boisé des Mûriers and des Groseilliers (Courtesy Stop),,,Boisé des Mûriers et des Groseilliers (Arrêt de courtoisie)
-stops,tts_stop_name,en,Boisé des Mûriers and des Poiriers (Courtesy Stop),,,Boisé des Mûriers et des Poiriers (Arrêt de courtoisie)
-stops,tts_stop_name,en,Boisé des Mûriers and Denis,,,Boisé des Mûriers et Denis
 stops,tts_stop_name,en,Route 307 and Hogan,,,Route 307 et Hogan
 stops,tts_stop_name,en,Route 307 and du Mont-des-Cascades,,,Route 307 et du Mont-des-Cascades
 stops,tts_stop_name,en,Route 307 and Blackburn,,,Route 307 et Blackburn
 stops,tts_stop_name,en,Route 307 and Bouchette,,,Route 307 et Bouchette
 stops,tts_stop_name,en,de Bouchette and Godmaire,,,de Bouchette et Godmaire
 stops,tts_stop_name,en,de Bouchette and du Commandeur,,,de Bouchette et du Commandeur
-stops,tts_stop_name,en,de Bouchette and Tourterelles,,,de Bouchette et Tourterelles
 stops,tts_stop_name,en,de Bouchette and du Mont-Joël,,,de Bouchette et du Mont-Joël
 stops,tts_stop_name,en,du Mont-Joël and Marsolais,,,du Mont-Joël et Marsolais
 stops,tts_stop_name,en,du Mont-Joël and Denis,,,du Mont-Joël et Denis
@@ -519,7 +492,6 @@ stops,tts_stop_name,en,de la Pineraie and du Carrefour,,,de la Pineraie et du Ca
 stops,tts_stop_name,en,de la Pineraie and des Bâtisseurs,,,de la Pineraie et des Bâtisseurs
 stops,tts_stop_name,en,des Bâtisseurs and des Mélèzes,,,des Bâtisseurs et des Mélèzes
 stops,tts_stop_name,en,des Bâtisseurs and Henri Bélec,,,des Bâtisseurs et Henri Bélec
-stops,tts_stop_name,en,des Bâtisseurs and des Terres,,,des Bâtisseurs et des Terres
 stops,tts_stop_name,en,des Bâtisseurs and des Générations,,,des Bâtisseurs et des Générations
 stops,tts_stop_name,en,des Bâtisseurs and Cléophas Scatland,,,des Bâtisseurs et Cléophas Scatland
 stops,tts_stop_name,en,des Bâtisseurs | du Village,,,des Bâtisseurs | du Village
@@ -551,3 +523,31 @@ stops,tts_stop_name,en,Near 22 02 Montée Paiement,,,Près du 22 02 Montée Paie
 stops,tts_stop_name,en,Near 21 23 route du Carrefour (Courtesy Stop),,,Près du 21 23 route du Carrefour (Arrêt de courtoisie)
 stops,tts_stop_name,en,Near 21 20 route du Carrefour (Courtesy Stop),,,Près du 21 20 route du Carrefour (Arrêt de courtoisie)
 stops,tts_stop_name,en,N C C Visitor's Centre,,,Accueil C C N
+stops,stop_name,en,Riverside | MacLaren,,,Riverside | MacLaren
+stops,stop_name,en,de la Vallée-de-Wakefield | Riverside,,,de la Vallée-de-Wakefield | Riverside
+stops,stop_name,en,Riverside | de la Vallée-de-Wakefield,,,Riverside | de la Vallée-de-Wakefield
+stops,stop_name,en,Near 740 chemin Riverside,,,Près du 740 chemin Riverside
+stops,stop_name,en,Scott | de la Belle-Terre,,,Scott | de la Belle-Terre
+stops,stop_name,en,de la Mine | de la Solitude,,,de la Mine | de la Solitude
+stops,stop_name,en,Taché | du Boisé-des-Mûriers (Courtesy Stop),,,Taché | du Boisé-des-Mûriers (Arrêt de courtoisie)
+stops,stop_name,en,de Bouchette | des Tourterelles,,,de Bouchette | des Tourterelles
+stops,stop_name,en,du Boisé-des-Mûriers | des Pruniers (Courtesy Stop),,,du Boisé-des-Mûriers | des Pruniers (Arrêt de courtoisie)
+stops,stop_name,en,du Boisé-des-Mûriers | des Framboisiers (Courtesy Stop),,,du Boisé-des-Mûriers | des Framboisiers (Arrêt de courtoisie)
+stops,stop_name,en,du Boisé-des-Mûriers | des Groseilliers (Courtesy Stop),,,du Boisé-des-Mûriers | des Groseilliers (Arrêt de courtoisie)
+stops,stop_name,en,du Boisé-des-Mûriers | des Poiriers (Courtesy Stop),,,du Boisé-des-Mûriers | des Poiriers (Arrêt de courtoisie)
+stops,stop_name,en,du Boisé-des-Mûriers | Denis,,,du Boisé-des-Mûriers | Denis
+stops,stop_name,en,Église Ste-Élisabeth,,,Église Ste-Élisabeth
+stops,tts_stop_name,en,Riverside and MacLaren,,,Riverside et MacLaren
+stops,tts_stop_name,en,de la Vallée-de-Wakefield and Riverside,,,de la Vallée-de-Wakefield et Riverside
+stops,tts_stop_name,en,Riverside and de la Vallée-de-Wakefield,,,Riverside et de la Vallée-de-Wakefield
+stops,tts_stop_name,en,Near 7 40 chemin Riverside,,,Près du 740 chemin Riverside
+stops,tts_stop_name,en,Scott and de la Belle-Terre,,,Scott et de la Belle-Terre
+stops,tts_stop_name,en,de la Mine and de la Solitude,,,de la Mine et de la Solitude
+stops,tts_stop_name,en,Taché and du Boisé-des-Mûriers (Courtesy Stop),,,Taché et du Boisé-des-Mûriers (Arrêt de courtoisie)
+stops,tts_stop_name,en,de Bouchette and des Tourterelles,,,de Bouchette et des Tourterelles
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Pruniers (Courtesy Stop),,,du Boisé-des-Mûriers et des Pruniers (Arrêt de courtoisie)
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Framboisiers (Courtesy Stop),,,du Boisé-des-Mûriers et des Framboisiers (Arrêt de courtoisie)
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Groseilliers (Courtesy Stop),,,du Boisé-des-Mûriers et des Groseilliers (Arrêt de courtoisie)
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Poiriers (Courtesy Stop),,,du Boisé-des-Mûriers et des Poiriers (Arrêt de courtoisie)
+stops,tts_stop_name,en,du Boisé-des-Mûriers and Denis,,,du Boisé-des-Mûriers et Denis
+stops,tts_stop_name,en,Église Sainte-Élisabeth,,,Église Sainte-Élisabeth

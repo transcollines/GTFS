@@ -1,2 +1,2 @@
-feed_publisher_name,feed_id,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,default_lang,feed_contact_email,feed_contact_url
-Régie Intermunicipale de Transport des Collines (RITC - Transcollines),RITC,https://transcollines.ca/,fr,20231201,20240630,2024-01-15 v. A,fr,gtfs@transcollines.ca,https://github.com/transcollines/GTFS/issues
+feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Transcollines,https://transcollines.ca,fr,fr,20240401,20241130,2024-04-18T01:45:59.399Z,gtfs@transcollines.ca,https://github.com/transcollines/GTFS/issues
