@@ -1,4 +1,6 @@
 stop_id,stop_city
+9154,Gatineau
+9155,Gatineau
 910001,L'Isle-aux-Allumettes
 910002,L'Isle-aux-Allumettes
 910003,Chichester
@@ -155,6 +157,8 @@ stop_id,stop_city
 910155,Gatineau
 910156,Gatineau
 920001,Gatineau
+920002,La Pêche
+920003,Chelsea
 921006,La Pêche
 921010,La Pêche
 921011,La Pêche
