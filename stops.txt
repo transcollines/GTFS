@@ -154,7 +154,11 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 910154,,du Plateau | des Grives,,45.435043,-75.781135,,,0,,,,du Plateau et des Grives,
 910155,,du Plateau | de l'Atmosphère,,45.436297,-75.771943,,,0,,,,du Plateau et de l'Atmosphère,
 910156,,du Plateau | de l'Atmosphère,,45.436436,-75.772394,,,0,,,,du Plateau et de l'Atmosphère,
+9154,,Station Montcalm,,45.430378,-75.729303,,,0,,,,Station Montcalm,3
+9155,,St-Joseph | Centre commercial Canevas,Anciennement Place Cartier,45.444851,-75.732542,,,0,,,,Saint-Joseph et Centre commercial Canevas,
 920001,,Station les Galeries de Hull (455 de la Carrière),,45.443072,-75.728312,,,0,,,,Station les Galeries de Hull (455 de la Carrière),
+920002,,Lac Philippe (Plage Breton),,45.613147,-76.010402,,,0,,,,Lac Philippe,
+920003,,Stationnement P16,,45.572338,-75.885534,,,0,,,,Stationnement Pé seize,
 921006,,Principale | de la Prairie,,45.643215,-76.031897,,,0,,,,Principale et de la Prairie,
 921010,,de Ste-Cécile-de-Masham | Stationnement P17 (Arrêt de courtoisie),,45.628023,-75.938798,,,0,,,,de Sainte-Cécile-de-Masham et Stationnement P17 (Arrêt de courtoisie),
 921011,,de Ste-Cécile-de-Masham | Stationnement P17 (Arrêt de courtoisie),,45.627822,-75.938568,,,0,,,,de Sainte-Cécile-de-Masham et Stationnement P17 (Arrêt de courtoisie),

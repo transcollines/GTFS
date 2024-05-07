@@ -1,5 +1,6 @@
 table_name,field_name,language,translation,record_id,record_sub_id,field_value
 stops,stop_name,en,de Pembroke | Notre-Dame,,,de Pembroke | Notre-Dame
+stops,stop_name,en,Station Montcalm,,,Station Montcalm
 stops,stop_name,en,St-Joseph | Canevas Shopping Centre,,,St-Joseph | Centre commercial Canevas
 stops,stop_name,en,de Pembroke | de Chapeau-Waltham (Courtesy Stop),,,de Pembroke | de Chapeau-Waltham (Arrêt de courtoisie)
 stops,stop_name,en,de Chapeau-Waltham | de Pembroke (Courtesy Stop),,,de Chapeau-Waltham | de Pembroke (Arrêt de courtoisie)
@@ -256,6 +257,7 @@ stops,stop_name,en,Paiement | Prud'homme,,,Paiement | Prud'homme
 stops,stop_name,en,Paiement | des Chutes (Courtesy Stop),,,Paiement | des Chutes (Arrêt de courtoisie)
 stops,stop_name,en,St-Joseph | École l'Équipage,,,St-Joseph | École l'Équipage
 stops,stop_name,en,Labrosse | Polyvalente Nicolas-Gatineau,,,Labrosse | Polyvalente Nicolas-Gatineau
+stops,tts_stop_name,en,Station Montcalm,,,Station Montcalm
 stops,tts_stop_name,en,Saint-Joseph and Canevas Shopping Centre,,,Saint-Joseph et Centre commercial Canevas
 stops,tts_stop_name,en,de Pembroke and Notre-Dame,,,de Pembroke et Notre-Dame
 stops,tts_stop_name,en,de Pembroke and de Chapeau-Waltham (Courtesy Stop),,,de Pembroke et de Chapeau-Waltham (Arrêt de courtoisie)
@@ -507,17 +509,15 @@ stops,tts_stop_name,en,Paiement and Prud'homme,,,Paiement et Prud'homme
 stops,tts_stop_name,en,Paiement and des Chutes (Courtesy Stop),,,Paiement et des Chutes (Arrêt de courtoisie)
 stops,tts_stop_name,en,Saint-Joseph and École l'Équipage,,,Saint-Joseph et École l'Équipage
 stops,tts_stop_name,en,Labrosse and Polyvalente Nicolas-Gatineau,,,Labrosse et Polyvalente Nicolas-Gatineau
-fare_products,fare_product_name,en,Single-trip Inter - If transferring from STO: deposit STO transfer + $16.00,,,"Passage simple Inter - Si transfert STO: déposer correspondance STO + 16,00$"
-fare_products,fare_product_name,en,Single-trip Inter - For STO transfer: $22,,,Passage simple Inter - Pour correspondance STO: 22$
-fare_products,fare_product_name,en,Single-trip Intra,,,Passage simple Intra
-fare_products,fare_product_name,en,Single-trip Regular - For STO transfer: $6.25,,,"Passage simple Régulier - Pour correspondance STO: 6,25$"
-fare_products,fare_product_name,en,Single-trip Regular - If transferring from STO: deposit STO transfer + $2,,,Passage simple Régulier - Si transfert STO: déposer correspondance STO + 2$
-fare_products,fare_product_name,en,Single-trip Regular,,,Passage simple Régulier
 areas,area_name,en,City of Gatineau,,,Ville de Gatineau
 areas,area_name,en,Collines-de-l'Outaouais RCM,,,MRC des Collines-de-l'Outaouais
 areas,area_name,en,Pontiac RCM,,,MRC Pontiac
 agency,agency_url,en,https://transcollines.ca/en/,,,https://transcollines.ca/
+stops,stop_name,en,Lac Philippe (Breton Beach),,,Lac Philippe (Plage Breton)
+stops,stop_name,en,P16 Parking Lot,,,Stationnement P16
 stops,tts_stop_name,en,Route 148 and Concession cinquième (Courtesy Stop),,,Route 148 et Concession cinquième (Arrêt de courtoisie)
+stops,tts_stop_name,en,Lake Philippe,,,Lac Philippe
+stops,tts_stop_name,en,P 16 Parking Lot,,,Stationnement Pé seize
 stops,tts_stop_name,en,Near 16 38 route 1 o 5 (Courtesy Stop),,,Près du 16 38 route 105 (Arrêt de courtoisie)
 stops,tts_stop_name,en,Near 22 02 Montée Paiement,,,Près du 22 02 Montée Paiement
 stops,tts_stop_name,en,Near 21 23 route du Carrefour (Courtesy Stop),,,Près du 21 23 route du Carrefour (Arrêt de courtoisie)

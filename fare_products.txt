@@ -1,7 +1,4 @@
-﻿fare_product_id,fare_product_name,amount,currency
-2022-INTER_GP,"Passage simple Inter - Si transfert STO: déposer correspondance STO + 17.00$",20.00,CAD
-2022-INTER_PG,Passage simple Inter - Pour correspondance STO: 22$,20.00,CAD
-2022-INTRA_TS,Passage simple Intra,5.00,CAD
-2022-REGUL_CG,"Passage simple Régulier - Pour correspondance STO: 7.00$",5.00,CAD
-2022-REGUL_GC,Passage simple Régulier - Si transfert STO: déposer correspondance STO + 2$,5.00,CAD
-2022-REGUL_HG,Passage simple Régulier,5.00,CAD
+﻿fare_product_id,fare_product_name,fare_media_id,amount,currency
+PS-500,,,5.00,CAD
+PS-2000,,,20.00,CAD
+PS-0,,,0.00,CAD
