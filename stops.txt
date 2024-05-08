@@ -342,7 +342,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 925246,,Près du 1638 route 105 (Arrêt de courtoisie),,45.593458,-75.892776,,,0,,,,Près du 16 38 route 105 (Arrêt de courtoisie),
 925250,,Centre Communautaire Wakefield,,45.632133,-75.930249,,,0,,,,Centre Communautaire Wakefield,
 925256,,Route 105 | Reid,,45.543818,-75.820836,,,0,,,,Route 105 et Reid,
-930000,,Église Ste-Élisabeth,,45.564775,-75.774102,,,0,,,,Église Sainte-Élisabeth,
+930000,,Église Ste-Élisabeth,,45.56475,-75.774392,,,0,,,,Église Sainte-Élisabeth,
 930001,,Taché | de Maricourt (Arrêt de courtoisie),,45.520902,-75.763241,,,0,,,,Taché et de Maricourt (Arrêt de courtoisie),
 930002,,Taché | de Maricourt (Arrêt de courtoisie),,45.520926,-75.763096,,,0,,,,Taché et de Maricourt (Arrêt de courtoisie),
 930003,,Taché | du Domaine-Champêtre (Arrêt de courtoisie),,45.520563,-75.760897,,,0,,,,Taché et du Domaine-Champêtre (Arrêt de courtoisie),
