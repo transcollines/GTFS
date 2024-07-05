@@ -7,7 +7,7 @@ on:
     branches: ["master"]
   workflow_dispatch:
 jobs:
-  validation-fares:
+  validation:
     runs-on: ubuntu-latest
 
     steps:
