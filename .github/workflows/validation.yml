@@ -1,0 +1,22 @@
+name: Validation des données GTFS
+# Vérifie la validité des données GTFS à l'aide du valideur MobilityData.
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+  workflow_dispatch:
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validation GTFS Fares
+        uses: npaun/md-gtfs-validator-action@v1
+        with:
+          gtfs_path: transcollines-qc-ca-fares.zip
+      - name: Validation GTFS Régulier
+        uses: npaun/md-gtfs-validator-action@v1
+        with:
+          gtfs_path: transcollines-qc-ca.zip
