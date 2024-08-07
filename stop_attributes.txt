@@ -358,8 +358,6 @@ stop_id,stop_city
 930014,Cantley
 930015,Cantley
 930016,Cantley
-931002,Cantley
-931004,Cantley
 931018,Cantley
 931038,Cantley
 931039,Cantley
@@ -387,9 +385,6 @@ stop_id,stop_city
 931103,Gatineau
 931104,Gatineau
 931105,Gatineau
-933001,Cantley
-933003,Cantley
-933008,Cantley
 933019,Cantley
 933026,Cantley
 933027,Cantley

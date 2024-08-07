@@ -202,8 +202,6 @@ stops,stop_name,en,Near 1638 route 105 (Courtesy Stop),,,Près du 1638 route 105
 stops,stop_name,en,Centre Communautaire Wakefield,,,Centre Communautaire Wakefield
 stops,stop_name,en,Taché | de Maricourt (Courtesy Stop),,,Taché | de Maricourt (Arrêt de courtoisie)
 stops,stop_name,en,Taché | du Domaine-Champêtre (Courtesy Stop),,,Taché | du Domaine-Champêtre (Arrêt de courtoisie)
-stops,stop_name,en,Route 307 | Hogan,,,Route 307 | Hogan
-stops,stop_name,en,Route 307 | du Mont-des-Cascades,,,Route 307 | du Mont-des-Cascades
 stops,stop_name,en,Route 307 | Blackburn,,,Route 307 | Blackburn
 stops,stop_name,en,Route 307 | Bouchette,,,Route 307 | Bouchette
 stops,stop_name,en,de Bouchette | Godmaire,,,de Bouchette | Godmaire
@@ -219,7 +217,6 @@ stops,stop_name,en,des Érables | St-Louis (Collège St-Alexandre),,,des Érable
 stops,stop_name,en,St-Louis | du Pont Alonzo-Wright,,,St-Louis | du Pont Alonzo-Wright
 stops,stop_name,en,St-Louis | Avenue Gatineau,,,St-Louis | Avenue Gatineau
 stops,stop_name,en,des Érables | du Sommelier,,,des Érables | du Sommelier
-stops,stop_name,en,Route 307 | Ste-Élisabeth,,,Route 307 | Ste-Élisabeth
 stops,stop_name,en,Route 307 | River,,,Route 307 | River
 stops,stop_name,en,des Érables | Taché,,,des Érables | Taché
 stops,stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
@@ -457,8 +454,6 @@ stops,tts_stop_name,en,Route 105 and Ditchfield,,,Route 105 et Ditchfield
 stops,tts_stop_name,en,Centre Communautaire Wakefield,,,Centre Communautaire Wakefield
 stops,tts_stop_name,en,Taché and de Maricourt (Courtesy Stop),,,Taché et de Maricourt (Arrêt de courtoisie)
 stops,tts_stop_name,en,Taché and du Domaine-Champêtre (Courtesy Stop),,,Taché et du Domaine-Champêtre (Arrêt de courtoisie)
-stops,tts_stop_name,en,Route 307 and Hogan,,,Route 307 et Hogan
-stops,tts_stop_name,en,Route 307 and du Mont-des-Cascades,,,Route 307 et du Mont-des-Cascades
 stops,tts_stop_name,en,Route 307 and Blackburn,,,Route 307 et Blackburn
 stops,tts_stop_name,en,Route 307 and Bouchette,,,Route 307 et Bouchette
 stops,tts_stop_name,en,de Bouchette and Godmaire,,,de Bouchette et Godmaire
@@ -474,7 +469,6 @@ stops,tts_stop_name,en,des Érables and Saint-Louis (Collège Saint-Alexandre),,
 stops,tts_stop_name,en,Saint-Louis and du Pont Alonzo-Wright,,,Saint-Louis et du Pont Alonzo-Wright
 stops,tts_stop_name,en,Saint-Louis and Avenue Gatineau,,,Saint-Louis et Avenue Gatineau
 stops,tts_stop_name,en,des Érables and du Sommelier,,,des Érables et du Sommelier
-stops,tts_stop_name,en,Route 307 and Sainte-Élisabeth,,,Route 307 et Sainte-Élisabeth
 stops,tts_stop_name,en,Route 307 and River,,,Route 307 et River
 stops,tts_stop_name,en,des Érables and Taché,,,des Érables et Taché
 stops,tts_stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
