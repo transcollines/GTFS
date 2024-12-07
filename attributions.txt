@@ -1,2 +1,0 @@
-attribution_id,agency_id,route_id,trip_id,organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email,attribution_phone
-TC,Transcollines,,,Transcollines - Régie Intermunicipale de Transport des Collines,0,0,1,https://transcollines.ca,info@transcollines.ca,1.866.310.1114
