@@ -1,0 +1,282 @@
+table_name,field_name,language,translation,record_id,record_sub_id,field_value
+agency,agency_url,en,https://transcollines.ca/en/,,,https://transcollines.ca/
+agency,agency_fare_url,en,https://transcollines.ca/en/getting-around/public-transportation/#4,,,https://transcollines.ca/me-deplacer/transport-en-commun/#3
+areas,area_name,en,City of Gatineau,,,Ville de Gatineau
+areas,area_name,en,des Collines-de-l'Outaouais RCM,,,MRC des Collines-de-l'Outaouais
+areas,area_name,en,Pontiac RCM,,,MRC Pontiac
+stops,stop_name,en,NCC Visitor Centre,,,Accueil CCN (Centre des visiteurs)
+stops,tts_stop_name,en,N C C Visitor's Centre,,,Accueil C C N
+stops,tts_stop_name,en,Centre and Marion,,,Centre et Marion
+stops,tts_stop_name,en,Denis and Blondeau,,,Denis et Blondeau
+stops,tts_stop_name,en,Denis and Clermont,,,Denis et Clermont
+stops,tts_stop_name,en,Denis and Perreault,,,Denis et Perreault
+stops,tts_stop_name,en,Denis and Taché,,,Denis et Taché
+stops,tts_stop_name,en,Denis and de Maricourt,,,Denis et de Maricourt
+stops,tts_stop_name,en,Denis and des Pins,,,Denis et des Pins
+stops,tts_stop_name,en,Denis and des Érables,,,Denis et des Érables
+stops,tts_stop_name,en,Denis and du Mont-Joël,,,Denis et du Mont-Joël
+stops,tts_stop_name,en,Gamelin and Saint-Joseph,,,Gamelin et Saint-Joseph
+stops,tts_stop_name,en,Jean-Proulx and Deveault,,,Jean-Proulx et Deveault
+stops,tts_stop_name,en,Jean-Proulx and S T O,,,Jean-Proulx et S T O
+stops,tts_stop_name,en,Kingsmere and Notch,,,Kingsmere et Notch
+stops,tts_stop_name,en,Labrosse and Polyvalente Nicolas-Gatineau,,,Labrosse et Polyvalente Nicolas-Gatineau
+stops,tts_stop_name,en,Lionel-Émond and Collège Nouvelles Frontières,,,Lionel-Émond et Collège Nouvelles Frontières
+stops,tts_stop_name,en,Notch and Bronson,,,Notch et Bronson
+stops,tts_stop_name,en,Notch and Dunn,,,Notch et Dunn
+stops,tts_stop_name,en,Notch and Tamarack,,,Notch et Tamarack
+stops,tts_stop_name,en,Notch and de la Mine,,,Notch et de la Mine
+stops,tts_stop_name,en,Old Chelsea and Boischatel,,,Old Chelsea et Boischatel
+stops,tts_stop_name,en,Old Chelsea and Boisjoli,,,Old Chelsea et Boisjoli
+stops,tts_stop_name,en,Old Chelsea and Douglas,,,Old Chelsea et Douglas
+stops,tts_stop_name,en,Old Chelsea and Jean-Paul-Lemieux,,,Old Chelsea et Jean-Paul-Lemieux
+stops,tts_stop_name,en,Old Chelsea and Ladyfield,,,Old Chelsea et Ladyfield
+stops,tts_stop_name,en,Old Chelsea and Lonergan,,,Old Chelsea et Lonergan
+stops,tts_stop_name,en,Old Chelsea and de l'Hôtel de Ville,,,Old Chelsea et de l'Hôtel de Ville
+stops,tts_stop_name,en,Old Chelsea and du Relais,,,Old Chelsea et du Relais
+stops,tts_stop_name,en,Paiement and Prud'homme,,,Paiement et Prud'homme
+stops,tts_stop_name,en,Paiement and des Chutes,,,Paiement et des Chutes
+stops,tts_stop_name,en,Principale and Brisebois,,,Principale et Brisebois
+stops,tts_stop_name,en,Principale and Charlevoix,,,Principale et Charlevoix
+stops,tts_stop_name,en,Principale and Gosselin,,,Principale et Gosselin
+stops,tts_stop_name,en,Principale and Kennedy,,,Principale et Kennedy
+stops,tts_stop_name,en,Principale and Murray,,,Principale et Murray
+stops,tts_stop_name,en,Principale and Passe-Partout,,,Principale et Passe-Partout
+stops,tts_stop_name,en,Principale and Philippe,,,Principale et Philippe
+stops,tts_stop_name,en,Principale and Richard,,,Principale et Richard
+stops,tts_stop_name,en,Principale and Vaillant,,,Principale et Vaillant
+stops,tts_stop_name,en,Principale and de la Beurrerie,,,Principale et de la Beurrerie
+stops,tts_stop_name,en,Principale and de la Prairie,,,Principale et de la Prairie
+stops,stop_name,en,Near 126 chemin de la Rivière,,,Près du 126 chemin de la Rivière
+stops,tts_stop_name,en,Near 1 26 chemin de la Rivière,,,Près du 126 chemin de la Rivière
+stops,stop_name,en,Near 149 chemin de la Rivière,,,Près du 149 chemin de la Rivière
+stops,tts_stop_name,en,Near 1 49 chemin de la Rivière,,,Près du 149 chemin de la Rivière
+stops,stop_name,en,Near 150 chemin de la Rivière,,,Près du 150 chemin de la Rivière
+stops,tts_stop_name,en,Near 1 50 chemin de la Rivière,,,Près du 150 chemin de la Rivière
+stops,stop_name,en,Near 1638 route 105,,,Près du 1638 route 105
+stops,tts_stop_name,en,Near 16 38 route 1 o 5,,,Près du 16 38 route 105
+stops,stop_name,en,Near 177 chemin de la Rivière,,,Près du 177 chemin de la Rivière
+stops,tts_stop_name,en,Near 1 77 chemin de la Rivière,,,Près du 177 chemin de la Rivière
+stops,stop_name,en,Near 178 chemin de la Rivière,,,Près du 178 chemin de la Rivière
+stops,tts_stop_name,en,Near 1 78 chemin de la Rivière,,,Près du 178 chemin de la Rivière
+stops,stop_name,en,Near 2120 route du Carrefour,,,Près du 2120 route du Carrefour
+stops,tts_stop_name,en,Near 21 20 route du Carrefour,,,Près du 21 20 route du Carrefour
+stops,stop_name,en,Near 2123 route du Carrefour,,,Près du 2123 route du Carrefour
+stops,tts_stop_name,en,Near 21 23 route du Carrefour,,,Près du 21 23 route du Carrefour
+stops,stop_name,en,Near 2202 Montée Paiement,,,Près du 2202 Montée Paiement
+stops,tts_stop_name,en,Near 22 o 2 Montée Paiement,,,Près du 22 02 Montée Paiement
+stops,stop_name,en,Near 319 chemin Denis,,,Près du 319 chemin Denis
+stops,tts_stop_name,en,Near 3 19 chemin Denis,,,Près du 319 chemin Denis
+stops,stop_name,en,Near 322 chemin Denis,,,Près du 322 chemin Denis
+stops,tts_stop_name,en,Near 3 22 chemin Denis,,,Près du 322 chemin Denis
+stops,stop_name,en,Near 740 chemin Riverside,,,Près du 740 chemin Riverside
+stops,tts_stop_name,en,Near 7 40 chemin Riverside,,,Près du 740 chemin Riverside
+stops,tts_stop_name,en,Riverside and Burnside,,,Riverside et Burnside
+stops,tts_stop_name,en,Riverside and Elmdale,,,Riverside et Elmdale
+stops,tts_stop_name,en,Riverside and Gendron,,,Riverside et Gendron
+stops,tts_stop_name,en,Riverside and MacLaren,,,Riverside et MacLaren
+stops,tts_stop_name,en,Riverside and Mill,,,Riverside et Mill
+stops,tts_stop_name,en,Riverside and de la Légion,,,Riverside et de la Légion
+stops,tts_stop_name,en,Riverside and de la Vallée-de-Wakefield,,,Riverside et de la Vallée-de-Wakefield
+stops,tts_stop_name,en,Riverside and École Wakefield,,,Riverside et École Wakefield
+stops,tts_stop_name,en,Route 1 o 5 and Brock,,,Route 105 et Brock
+stops,tts_stop_name,en,Route 1 o 5 and Burnett,,,Route 105 et Burnett
+stops,tts_stop_name,en,Route 1 o 5 and Carman,,,Route 105 et Carman
+stops,tts_stop_name,en,Route 1 o 5 and Centennial,,,Route 105 et Centennial
+stops,tts_stop_name,en,Route 1 o 5 and Craiglands,,,Route 105 et Craiglands
+stops,tts_stop_name,en,Route 1 o 5 and Croissant,,,Route 105 et Croissant
+stops,tts_stop_name,en,Route 1 o 5 and Deschênes,,,Route 105 et Deschênes
+stops,tts_stop_name,en,Route 1 o 5 and Ditchfield,,,Route 105 et Ditchfield
+stops,tts_stop_name,en,Route 1 o 5 and Doucette-Landing,,,Route 105 et Doucette-Landing
+stops,tts_stop_name,en,Route 1 o 5 and Epps,,,Route 105 et Epps
+stops,tts_stop_name,en,Route 1 o 5 and Fleury,,,Route 105 et Fleury
+stops,tts_stop_name,en,Route 1 o 5 and Forest Hill,,,Route 105 et Forest Hill
+stops,tts_stop_name,en,Route 1 o 5 and Hammond,,,Route 105 et Hammond
+stops,tts_stop_name,en,Route 1 o 5 and Hudson,,,Route 105 et Hudson
+stops,tts_stop_name,en,Route 1 o 5 and Juniper,,,Route 105 et Juniper
+stops,tts_stop_name,en,Route 1 o 5 and Loretta,,,Route 105 et Loretta
+stops,tts_stop_name,en,Route 1 o 5 and Léa,,,Route 105 et Léa
+stops,tts_stop_name,en,Route 1 o 5 and Maple Woods,,,Route 105 et Maple Woods
+stops,tts_stop_name,en,Route 1 o 5 and Montrose,,,Route 105 et Montrose
+stops,tts_stop_name,en,Route 1 o 5 and Musie,,,Route 105 et Musie
+stops,tts_stop_name,en,Route 1 o 5 and Ojai,,,Route 105 et Ojai
+stops,tts_stop_name,en,Route 1 o 5 and Old Sawmill,,,Route 105 et Old Sawmill
+stops,tts_stop_name,en,Route 1 o 5 and Patrick,,,Route 105 et Patrick
+stops,tts_stop_name,en,Route 1 o 5 and Pine,,,Route 105 et Pine
+stops,tts_stop_name,en,Route 1 o 5 and Place des Collines,,,Route 105 et Place des Collines
+stops,tts_stop_name,en,Route 1 o 5 and Radapaw,,,Route 105 et Radapaw
+stops,tts_stop_name,en,Route 1 o 5 and Reid,,,Route 105 et Reid
+stops,tts_stop_name,en,Route 1 o 5 and Sherrin,,,Route 105 et Sherrin
+stops,tts_stop_name,en,Route 1 o 5 and Saint-Clément,,,Route 105 et Saint-Clément
+stops,tts_stop_name,en,Route 1 o 5 and Thomas,,,Route 105 et Thomas
+stops,tts_stop_name,en,Route 1 o 5 and Valle Verde,,,Route 105 et Valle Verde
+stops,tts_stop_name,en,Route 1 o 5 and Williamson,,,Route 105 et Williamson
+stops,tts_stop_name,en,Route 1 o 5 and Wilson,,,Route 105 et Wilson
+stops,tts_stop_name,en,Route 1 o 5 and de la Rivière,,,Route 105 et de la Rivière
+stops,tts_stop_name,en,Route 1 o 5 and des Artisans,,,Route 105 et des Artisans
+stops,tts_stop_name,en,Route 1 o 5 and du Progrès,,,Route 105 et du Progrès
+stops,tts_stop_name,en,Route 1 48 and seventh line,,,Route 148 et 7th Line
+stops,tts_stop_name,en,Route 1 48 and Alary,,,Route 148 et Alary
+stops,tts_stop_name,en,Route 1 48 and Breckenridge,,,Route 148 et Breckenridge
+stops,tts_stop_name,en,Route 1 48 and Bristol Mines,,,Route 148 et Bristol Mines
+stops,tts_stop_name,en,Route 1 48 and Concession Cinquième,,,Route 148 et Concession cinquième
+stops,tts_stop_name,en,Route 1 48 and Crégheur,,,Route 148 et Crégheur
+stops,tts_stop_name,en,Route 1 48 and Dagenais,,,Route 148 et Dagenais
+stops,tts_stop_name,en,Route 1 48 and Eardley-Masham,,,Route 148 et Eardley-Masham
+stops,tts_stop_name,en,Route 1 48 and Eight,,,Route 148 et Eight
+stops,tts_stop_name,en,Route 1 48 and Elm,,,Route 148 et Elm
+stops,tts_stop_name,en,Route 1 48 and Fortin,,,Route 148 et Fortin
+stops,tts_stop_name,en,Route 1 48 and Front,,,Route 148 et Front
+stops,stop_name,en,Route 148 | Gold Mine North,,,Route 148 | Gold Mine Nord
+stops,tts_stop_name,en,Route 1 48 and Gold Mine North,,,Route 148 et Gold Mine Nord
+stops,stop_name,en,Route 148 | Gold Mine South,,,Route 148 | Gold Mine Sud
+stops,tts_stop_name,en,Route 1 48 and Gold Mine South,,,Route 148 et Gold Mine Sud
+stops,tts_stop_name,en,Route 1 48 and Graveline,,,Route 148 et Graveline
+stops,tts_stop_name,en,Route 1 48 and Hayes,,,Route 148 et Hayes
+stops,tts_stop_name,en,Route 1 48 and Hearty,,,Route 148 et Hearty
+stops,tts_stop_name,en,Route 1 48 and Homer,,,Route 148 et Homer
+stops,tts_stop_name,en,Route 1 48 and Kelly,,,Route 148 et Kelly
+stops,tts_stop_name,en,Route 1 48 and Kennedy,,,Route 148 et Kennedy
+stops,tts_stop_name,en,Route 1 48 and Knox,,,Route 148 et Knox
+stops,tts_stop_name,en,Route 1 48 and Laforest,,,Route 148 et Laforest
+stops,tts_stop_name,en,Route 1 48 and Lebrun,,,Route 148 et Lebrun
+stops,tts_stop_name,en,Route 1 48 and MacKechnie,,,Route 148 et MacKechnie
+stops,tts_stop_name,en,Route 1 48 and Murtagh,,,Route 148 et Murtagh
+stops,tts_stop_name,en,Route 1 48 and Parker,,,Route 148 et Parker
+stops,tts_stop_name,en,Route 1 48 and Pilon,,,Route 148 et Pilon
+stops,tts_stop_name,en,Route 1 48 and Principale,,,Route 148 et Principale
+stops,tts_stop_name,en,Route 1 48 and Radford,,,Route 148 et Radford
+stops,tts_stop_name,en,Route 1 48 and Ragged Chute,,,Route 148 et Ragged Chute
+stops,tts_stop_name,en,Route 1 48 and Rectory,,,Route 148 et Rectory
+stops,tts_stop_name,en,Route 1 48 and Robinson,,,Route 148 et Robinson
+stops,tts_stop_name,en,Route 1 48 and Romain,,,Route 148 et Romain
+stops,tts_stop_name,en,Route 1 48 and Route 3 o 1,,,Route 148 et Route 301
+stops,tts_stop_name,en,Route 1 48 and Route 3 o 3,,,Route 148 et Route 303
+stops,tts_stop_name,en,Route 1 48 and Russell,,,Route 148 et Russell
+stops,tts_stop_name,en,Route 1 48 and Smith-Léonard,,,Route 148 et Smith-Léonard
+stops,tts_stop_name,en,Route 1 48 and Stanton,,,Route 148 et Stanton
+stops,tts_stop_name,en,Route 1 48 and Stewart,,,Route 148 et Stewart
+stops,tts_stop_name,en,Route 1 48 and Stitt,,,Route 148 et Stitt
+stops,tts_stop_name,en,Route 1 48 and Telford,,,Route 148 et Telford
+stops,tts_stop_name,en,Route 1 48 and Terry-Fox,,,Route 148 et Terry-Fox
+stops,stop_name,en,Route 148 | Thomas-Lefebvre North,,,Route 148 | Thomas-Lefebvre Nord
+stops,tts_stop_name,en,Route 1 48 and Thomas-Lefebvre North,,,Route 148 et Thomas-Lefebvre Nord
+stops,stop_name,en,Route 148 | Thomas-Lefebvre South,,,Route 148 | Thomas-Lefebvre Sud
+stops,tts_stop_name,en,Route 1 48 and Thomas-Lefebvre South,,,Route 148 et Thomas-Lefebvre Sud
+stops,tts_stop_name,en,Route 1 48 and Tremblay,,,Route 148 et Tremblay
+stops,tts_stop_name,en,Route 1 48 and Wharf,,,Route 148 et Wharf
+stops,tts_stop_name,en,Route 1 48 and Wilson,,,Route 148 et Wilson
+stops,tts_stop_name,en,Route 1 48 and Zion,,,Route 148 et Zion
+stops,tts_stop_name,en,Route 1 48 and d'Aylmer,,,Route 148 et d'Aylmer
+stops,tts_stop_name,en,Route 1 48 and de Bristol,,,Route 148 et de Bristol
+stops,tts_stop_name,en,Route 1 48 and de Bristol-Clarendon Sud,,,Route 148 et de Bristol-Clarendon Sud
+stops,stop_name,en,Route 148 | de Calumet East,,,Route 148 | de Calumet Est
+stops,tts_stop_name,en,Route 1 48 and de Calumet East,,,Route 148 et de Calumet Est
+stops,tts_stop_name,en,Route 1 48 and de Chapeau-Waltham,,,Route 148 et de Chapeau-Waltham
+stops,tts_stop_name,en,Route 1 48 and de Clarendon,,,Route 148 et de Clarendon
+stops,tts_stop_name,en,Route 1 48 and de Morehead,,,Route 148 et de Morehead
+stops,tts_stop_name,en,Route 1 48 and de Sand Bay,,,Route 148 et de Sand Bay
+stops,tts_stop_name,en,Route 1 48 and de Wyman,,,Route 148 et de Wyman
+stops,tts_stop_name,en,Route 1 48 and de l'Hôtel-de-Ville,,,Route 148 et de l'Hôtel-de-Ville
+stops,tts_stop_name,en,Route 1 48 and de la Chute,,,Route 148 et de la Chute
+stops,tts_stop_name,en,Route 1 48 and de la Montagne,,,Route 148 et de la Montagne
+stops,tts_stop_name,en,Route 1 48 and de la Rivière,,,Route 148 et de la Rivière
+stops,tts_stop_name,en,Route 1 48 and de la Rivière-Noire,,,Route 148 et de la Rivière-Noire
+stops,tts_stop_name,en,Route 1 48 and des Lilas,,,Route 148 et des Lilas
+stops,tts_stop_name,en,Route 1 48 and du Devonshire,,,Route 148 et du Devonshire
+stops,tts_stop_name,en,Route 1 48 and du Lac-de-la-Truite,,,Route 148 et du Lac-de-la-Truite
+stops,tts_stop_name,en,Route 1 48 and du Marquis,,,Route 148 et du Marquis
+stops,tts_stop_name,en,Route 1 48 and du Village,,,Route 148 et du Village
+stops,tts_stop_name,en,Route 3 o 7 and Blackburn,,,Route 307 et Blackburn
+stops,tts_stop_name,en,Route 3 o 7 and Bouchette,,,Route 307 et Bouchette
+stops,tts_stop_name,en,Route 3 o 7 and Pink,,,Route 307 et Pink
+stops,tts_stop_name,en,Route 3 o 7 and River,,,Route 307 et River
+stops,tts_stop_name,en,Route 3 o 7 and du Bois de Limbour,,,Route 307 et du Bois de Limbour
+stops,tts_stop_name,en,Scott and Lilsam,,,Scott et Lilsam
+stops,tts_stop_name,en,Scott and Old Chelsea,,,Scott et Old Chelsea
+stops,tts_stop_name,en,Scott and Preston,,,Scott et Preston
+stops,tts_stop_name,en,Scott and de la Belle-Terre,,,Scott et de la Belle-Terre
+stops,tts_stop_name,en,Scott and des Cerisiers,,,Scott et des Cerisiers
+stops,tts_stop_name,en,Saint-Clément and de la Rivière,,,Saint-Clément et de la Rivière
+stops,stop_name,en,St-Joseph | Canevas Shopping Centre,,,St-Joseph | Centre commercial Canevas
+stops,tts_stop_name,en,Saint-Joseph and Canevas Shopping Centre,,,Saint-Joseph et Centre commercial Canevas
+stops,tts_stop_name,en,Saint-Joseph and Jean-Proulx,,,Saint-Joseph et Jean-Proulx
+stops,tts_stop_name,en,Saint-Joseph and Juneau,,,Saint-Joseph et Juneau
+stops,tts_stop_name,en,Saint-Joseph and Parc O Bus Freeman,,,Saint-Joseph et Parc au Bus Freeman
+stops,tts_stop_name,en,Saint-Joseph and Sainte-Marie,,,Saint-Joseph et Sainte-Marie
+stops,tts_stop_name,en,Saint-Joseph and du Carrefour,,,Saint-Joseph et du Carrefour
+stops,tts_stop_name,en,Saint-Joseph and École l'Équipage,,,Saint-Joseph et École l'Équipage
+stops,tts_stop_name,en,Saint-Louis and Avenue Gatineau,,,Saint-Louis et Avenue Gatineau
+stops,tts_stop_name,en,Saint-Louis and du Pont Alonzo-Wright,,,Saint-Louis et du Pont Alonzo-Wright
+stops,stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
+stops,tts_stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
+stops,tts_stop_name,en,Station les Galeries de Hull (4 55 de la Carrière),,,Station les Galeries de Hull (455 de la Carrière)
+stops,tts_stop_name,en,Taché and de Maricourt,,,Taché et de Maricourt
+stops,tts_stop_name,en,Taché and du Boisé-des-Mûriers,,,Taché et du Boisé-des-Mûriers
+stops,tts_stop_name,en,Taché and du Domaine-Champêtre,,,Taché et du Domaine-Champêtre
+stops,tts_stop_name,en,de Bouchette and Godmaire,,,de Bouchette et Godmaire
+stops,tts_stop_name,en,de Bouchette and des Tourterelles,,,de Bouchette et des Tourterelles
+stops,tts_stop_name,en,de Bouchette and du Commandeur,,,de Bouchette et du Commandeur
+stops,tts_stop_name,en,de Bouchette and du Mont-Joël,,,de Bouchette et du Mont-Joël
+stops,tts_stop_name,en,de Chapeau-Waltham and Campeau,,,de Chapeau-Waltham et Campeau
+stops,tts_stop_name,en,de Chapeau-Waltham and De Souza,,,de Chapeau-Waltham et De Souza
+stops,tts_stop_name,en,de Chapeau-Waltham and Dirty-Dozen,,,de Chapeau-Waltham et Dirty-Dozen
+stops,tts_stop_name,en,de Chapeau-Waltham and Donlan,,,de Chapeau-Waltham et Donlan
+stops,tts_stop_name,en,de Chapeau-Waltham and Kelly,,,de Chapeau-Waltham et Kelly
+stops,tts_stop_name,en,de Chapeau-Waltham and Leslie,,,de Chapeau-Waltham et Leslie
+stops,tts_stop_name,en,de Chapeau-Waltham and McGuire,,,de Chapeau-Waltham et McGuire
+stops,tts_stop_name,en,de Chapeau-Waltham and Rochon,,,de Chapeau-Waltham et Rochon
+stops,tts_stop_name,en,de Chapeau-Waltham and de Pembroke,,,de Chapeau-Waltham et de Pembroke
+stops,tts_stop_name,en,de Clarendon and Ferry,,,de Clarendon et Ferry
+stops,tts_stop_name,en,de Pembroke and Notre-Dame,,,de Pembroke et Notre-Dame
+stops,tts_stop_name,en,de Pembroke and de Chapeau-Waltham,,,de Pembroke et de Chapeau-Waltham
+stops,stop_name,en,de Ste-Cécile-de-Masham | P17 Parking Lot,,,de Ste-Cécile-de-Masham | Stationnement P17
+stops,tts_stop_name,en,de Sainte-Cécile-de-Masham and Pee 17 Parking Lot,,,de Sainte-Cécile-de-Masham et Stationnement Pé 17
+stops,tts_stop_name,en,de la Carrière and Adrien-Robert,,,de la Carrière et Adrien-Robert
+stops,tts_stop_name,en,de la Carrière and Atawe,,,de la Carrière et Atawe
+stops,tts_stop_name,en,de la Carrière and du Casino,,,de la Carrière et du Casino
+stops,tts_stop_name,en,de la Cité-des-Jeunes and Centre Asticou,,,de la Cité-des-Jeunes et Centre Asticou
+stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Gabrielle-Roy,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
+stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Héritage,,,de la Cité-des-Jeunes et Cégep Héritage
+stops,tts_stop_name,en,de la Mine and Link,,,de la Mine et Link
+stops,tts_stop_name,en,de la Mine and Marie-Burger,,,de la Mine et Marie-Burger
+stops,tts_stop_name,en,de la Mine and Mike,,,de la Mine et Mike
+stops,tts_stop_name,en,de la Mine and de la Solitude,,,de la Mine et de la Solitude
+stops,tts_stop_name,en,de la Pineraie and des Bâtisseurs,,,de la Pineraie et des Bâtisseurs
+stops,tts_stop_name,en,de la Pineraie and du Carrefour,,,de la Pineraie et du Carrefour
+stops,tts_stop_name,en,de la Rivière and Carnochan,,,de la Rivière et Carnochan
+stops,tts_stop_name,en,de la Rivière and Jenness,,,de la Rivière et Jenness
+stops,tts_stop_name,en,de la Rivière and Mountainview,,,de la Rivière et Mountainview
+stops,tts_stop_name,en,de la Rivière and Pine,,,de la Rivière et Pine
+stops,tts_stop_name,en,de la Rivière and Saint-Clément,,,de la Rivière et Saint-Clément
+stops,tts_stop_name,en,de la Rivière and de la Carrière,,,de la Rivière et de la Carrière
+stops,tts_stop_name,en,de la Vallée-de-Wakefield and Riverside,,,de la Vallée-de-Wakefield et Riverside
+stops,tts_stop_name,en,des Allumettières and Wilfrid-Lavigne,,,des Allumettières et Wilfrid-Lavigne
+stops,tts_stop_name,en,des Bâtisseurs and Cléophas Scatland,,,des Bâtisseurs et Cléophas Scatland
+stops,tts_stop_name,en,des Bâtisseurs and Henri Bélec,,,des Bâtisseurs et Henri Bélec
+stops,tts_stop_name,en,des Bâtisseurs and des Générations,,,des Bâtisseurs et des Générations
+stops,tts_stop_name,en,des Bâtisseurs and des Mélèzes,,,des Bâtisseurs et des Mélèzes
+stops,tts_stop_name,en,des Pins and de la Cascade,,,des Pins et de la Cascade
+stops,tts_stop_name,en,des Érables and Crémazie,,,des Érables et Crémazie
+stops,tts_stop_name,en,des Érables and Denis,,,des Érables et Denis
+stops,tts_stop_name,en,des Érables and Saint-Louis (Collège Saint-Alexandre),,,des Érables et Saint-Louis (Collège Saint-Alexandre)
+stops,tts_stop_name,en,des Érables and Taché,,,des Érables et Taché
+stops,tts_stop_name,en,des Érables and des Conifères,,,des Érables et des Conifères
+stops,tts_stop_name,en,des Érables and du Sommelier,,,des Érables et du Sommelier
+stops,tts_stop_name,en,du Boisé-des-Mûriers and Denis,,,du Boisé-des-Mûriers et Denis
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Framboisiers,,,du Boisé-des-Mûriers et des Framboisiers
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Groseilliers,,,du Boisé-des-Mûriers et des Groseilliers
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Poiriers,,,du Boisé-des-Mûriers et des Poiriers
+stops,tts_stop_name,en,du Boisé-des-Mûriers and des Pruniers,,,du Boisé-des-Mûriers et des Pruniers
+stops,tts_stop_name,en,du Carrefour and sixième rang,,,du Carrefour et sixième rang
+stops,tts_stop_name,en,du Carrefour and Brassard,,,du Carrefour et Brassard
+stops,tts_stop_name,en,du Carrefour and Fogarty,,,du Carrefour et Fogarty
+stops,tts_stop_name,en,du Carrefour and Mitchell,,,du Carrefour et Mitchell
+stops,tts_stop_name,en,du Carrefour and Saint-Pierre,,,du Carrefour et Saint-Pierre
+stops,tts_stop_name,en,du Carrefour and des Pins,,,du Carrefour et des Pins
+stops,tts_stop_name,en,du Mont-Joël and Denis,,,du Mont-Joël et Denis
+stops,tts_stop_name,en,du Mont-Joël and Marsolais,,,du Mont-Joël et Marsolais
+stops,tts_stop_name,en,du Plateau and de l'Atmosphère,,,du Plateau et de l'Atmosphère
+stops,tts_stop_name,en,du Plateau and des Grives,,,du Plateau et des Grives
+stops,tts_stop_name,en,du Plateau and du Prado,,,du Plateau et du Prado
+stops,stop_name,en,du Plateau | D'Arcy McGee School,,,du Plateau | École D'Arcy McGee
+stops,tts_stop_name,en,du Plateau and D'Arcy McGee School,,,du Plateau et École D'Arcy McGee

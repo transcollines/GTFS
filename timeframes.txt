@@ -1,4 +1,0 @@
-timeframe_group_id,start_time,end_time,service_id
-924-GRT,,,20240515-201-0000011
-924-PAY-1,,,20240000-G4A-0000011
-924-PAY-2,,,20240501-201-0000011

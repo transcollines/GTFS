@@ -1,0 +1,23 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_time,end_time,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,include_exceptions,show_trip_continuation
+910G,910,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,910,10,Gatineau,0,0
+910P,910,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Pontiac,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,910,20,Pontiac,0,0
+921G,921,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,921,10,Gatineau,0,0
+921C,921,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,921,20,Collines,0,0
+923G,923,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,923,10,Gatineau,0,0
+923C,923,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,923,20,Collines,0,0
+924G,924,0,20241201,20250430,0,0,0,0,0,1,1,,,Direction Gatineau,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,924,10,Gatineau,0,0
+924C,924,1,20241201,20250430,0,0,0,0,0,1,1,,,Direction Collines,Samedi et dimanche sauf jours fériés / Saturday and Sunday except statutory holidays,horizontal,924,20,Collines,0,0
+925G,925,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,925,10,Gatineau,0,0
+925C,925,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,925,20,Collines,0,0
+931G,931,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,931,10,Gatineau,0,0
+931C,931,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,931,20,Collines,0,0
+932G,932,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,932,10,Gatineau,0,0
+932C,932,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,932,20,Collines,0,0
+940G,940,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,10,Gatineau,0,0
+940C,940,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,940,20,Collines,0,0
+92XG,921,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,92X,10,Gatineau,0,0
+92XG,923,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,92X,10,Gatineau,0,0
+92XG,925,0,20241201,20250430,1,1,1,1,1,0,0,,,Direction Gatineau,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,92X,10,Gatineau,0,0
+92XC,921,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,92X,20,Collines,0,0
+92XC,923,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,92X,20,Collines,0,0
+92XC,925,1,20241201,20250430,1,1,1,1,1,0,0,,,Direction Collines,Lundi au vendredi sauf jours fériés / Monday to Friday except statutory holidays,horizontal,92X,20,Collines,0,0
