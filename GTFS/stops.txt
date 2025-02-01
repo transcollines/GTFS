@@ -144,7 +144,7 @@ F135-04,135-04,de Chapeau-Waltham | Dirty-Dozen,de Chapeau-Waltham et Dirty-Doze
 F135-05,135-05,de Chapeau-Waltham | McGuire,de Chapeau-Waltham et McGuire,,45.91833,-77.044914,,,0,,,,,
 F135-06,135-06,de Chapeau-Waltham | McGuire,de Chapeau-Waltham et McGuire,,45.91847,-77.04494,,,0,,,,,
 F213-01,213-01,Principale | Passe-Partout,Principale et Passe-Partout,,45.64117,-76.037476,,,0,,,,,
-F213-04,213-04,Principale Eest | Gosselin,Principale Est et Gosselin,,45.64339,-76.02805,,,0,,,,,
+F213-04,213-04,Principale Eest | Gosselin,Principale Eest | Gosselin,,45.64339,-76.02805,,,0,,,,,
 F213-05,213-05,Principale Est | Gosselin,Principale Est et Gosselin,,45.64328,-76.02777,,,0,,,,,
 F213-06,213-06,Principale Est | de la Beurrerie,Principale Est et de la Beurrerie,,45.64467,-76.01452,,,0,,,,,
 F213-07,213-07,Principale Est | Kennedy,Principale Est et Kennedy,,45.64627,-76.00634,,,0,,,,,

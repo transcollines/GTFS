@@ -56,8 +56,7 @@ stops,tts_stop_name,en,Old Chelsea and de l'Hôtel de Ville,,,Old Chelsea et de 
 stops,tts_stop_name,en,Old Chelsea and du Relais,,,Old Chelsea et du Relais
 stops,tts_stop_name,en,Paiement and Prud'homme,,,Paiement et Prud'homme
 stops,tts_stop_name,en,Paiement and des Chutes,,,Paiement et des Chutes
-stops,stop_name,en,Principale Est | Gosselin,,,Principale Eest | Gosselin
-stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Est et Gosselin
+stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Eest | Gosselin
 stops,tts_stop_name,en,Principale East and Brisebois,,,Principale Est et Brisebois
 stops,tts_stop_name,en,Principale East and Charlevoix,,,Principale Est et Charlevoix
 stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Est et Gosselin
