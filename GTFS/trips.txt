@@ -26,3 +26,30 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 924,20241211-Weekend-01,20241211-Weekend-01-924-1-0855,Masham via Scott,,1,20241211-201-Weekend-01,924CG,2,1,Collines
 924,20241211-Weekend-01,20241211-Weekend-01-924-1-1155,Masham via Scott,,1,20241211-202-Weekend-01,924CG,2,1,Collines
 924,20241211-Weekend-01,20241211-Weekend-01-924-1-1755,Masham via Scott,,1,20241211-203-Weekend-01,924CG,2,1,Collines
+910,20250206-Semaine-01,20250206-Semaine-01-910-0-0517,Cégep G-Roy via Route 148,,0,20250206-101-Semaine-01,g58a,2,1,Gatineau
+910,20250206-Semaine-01,20250206-Semaine-01-910-1-1630,Chapeau via Route 148,,1,20250206-114-Semaine-01,zn4z,2,1,Pontiac
+921,20250206-Semaine-01,20250206-Semaine-01-921-0-0523,les Galeries via Autoroute,,0,20250206-102-Semaine-01,921GR,2,1,Gatineau
+921,20250206-Semaine-01,20250206-Semaine-01-921-0-1630,les Galeries via Autoroute,,0,20250206-115-Semaine-01,921GR,2,1,Gatineau
+921,20250206-Semaine-01,20250206-Semaine-01-921-1-0700,Masham via Autoroute,,1,20250206-103-Semaine-01,921CR,2,1,Collines
+923,20250206-Semaine-01,20250206-Semaine-01-923-0-0537,les Galeries via Old Chelsea,,0,20250206-103-Semaine-01,923G,2,1,Gatineau
+923,20250206-Semaine-01,20250206-Semaine-01-923-0-0637,les Galeries via Old Chelsea,,0,20250206-102-Semaine-01,923G,2,1,Gatineau
+923,20250206-Semaine-01,20250206-Semaine-01-923-1-1625,Masham via Old Chelsea,,1,20250206-113-Semaine-01,923C,2,1,Collines
+923,20250206-Semaine-01,20250206-Semaine-01-923-1-1725,Masham via Old Chelsea,,1,20250206-115-Semaine-01,923C,2,1,Collines
+925,20250206-Semaine-01,20250206-Semaine-01-925-0-0640,les Galeries via de la Mine,,0,20250206-105-Semaine-01,52g9,2,1,Gatineau
+925,20250206-Semaine-01,20250206-Semaine-01-925-0-0700,les Galeries via de la Mine,,0,20250206-107-Semaine-01,52g9,2,1,Gatineau
+925,20250206-Semaine-01,20250206-Semaine-01-925-0-1100,les Galeries via de la Mine,,0,20250206-108-Semaine-01,52g9,2,1,Gatineau
+925,20250206-Semaine-01,20250206-Semaine-01-925-1-1159,Masham via de la Mine,,1,20250206-108-Semaine-01,xwmq,2,1,Collines
+925,20250206-Semaine-01,20250206-Semaine-01-925-1-1515,Masham via de la Mine,,1,20250206-109-Semaine-01,xwmq,2,1,Collines
+925,20250206-Semaine-01,20250206-Semaine-01-925-1-1615,Masham via de la Mine,,1,20250206-112-Semaine-01,xwmq,2,1,Collines
+931,20250206-Semaine-01,20250206-Semaine-01-931-0-0720,de la Gappe via Bouchette,,0,20250206-104-Semaine-01,5wha,2,1,Gatineau
+931,20250206-Semaine-01,20250206-Semaine-01-931-1-1720,Église Sainte-Élisabeth via Bouchette,,1,20250206-111-Semaine-01,aq40,2,1,Collines
+932,20250206-Semaine-01,20250206-Semaine-01-932-0-0645,Cégep G-Roy via Alonzo,,0,20250206-106-Semaine-01,2mvl,2,1,Gatineau
+932,20250206-Semaine-01,20250206-Semaine-01-932-1-1530,Église Sainte-Élisabeth via Alonzo,,1,20250206-110-Semaine-01,6779,2,1,Collines
+940,20250206-Semaine-01,20250206-Semaine-01-940-0-0613,Labrosse via Carrefour,,0,20250206-104-Semaine-01,940G,2,1,Gatineau
+940,20250206-Semaine-01,20250206-Semaine-01-940-1-1624,Perkins via Carrefour,,1,20250206-111-Semaine-01,940C,2,1,Collines
+924,20250206-Weekend-01,20250206-Weekend-01-924-0-0800,les Galeries via Scott,,0,20250206-201-Weekend-01,924GG,2,1,Gatineau
+924,20250206-Weekend-01,20250206-Weekend-01-924-0-1100,les Galeries via Scott,,0,20250206-202-Weekend-01,924GG,2,1,Gatineau
+924,20250206-Weekend-01,20250206-Weekend-01-924-0-1700,les Galeries via Scott,,0,20250206-203-Weekend-01,924GG,2,1,Gatineau
+924,20250206-Weekend-01,20250206-Weekend-01-924-1-0855,Masham via Scott,,1,20250206-201-Weekend-01,924CG,2,1,Collines
+924,20250206-Weekend-01,20250206-Weekend-01-924-1-1155,Masham via Scott,,1,20250206-202-Weekend-01,924CG,2,1,Collines
+924,20250206-Weekend-01,20250206-Weekend-01-924-1-1755,Masham via Scott,,1,20250206-203-Weekend-01,924CG,2,1,Collines
