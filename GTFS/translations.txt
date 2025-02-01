@@ -1,11 +1,37 @@
 table_name,field_name,language,translation,record_id,record_sub_id,field_value
 agency,agency_url,en,https://transcollines.ca/en/,,,https://transcollines.ca/
 agency,agency_fare_url,en,https://transcollines.ca/en/getting-around/public-transportation/#4,,,https://transcollines.ca/me-deplacer/transport-en-commun/#3
-areas,area_name,en,City of Gatineau,,,Ville de Gatineau
-areas,area_name,en,des Collines-de-l'Outaouais RCM,,,MRC des Collines-de-l'Outaouais
-areas,area_name,en,Pontiac RCM,,,MRC Pontiac
 stops,stop_name,en,NCC Visitor Centre,,,Accueil CCN (Centre des visiteurs)
 stops,tts_stop_name,en,N C C Visitor's Centre,,,Accueil C C N
+stops,tts_stop_name,en,Gamelin and Saint-Joseph,,,Gamelin et Saint-Joseph
+stops,tts_stop_name,en,Jean-Proulx and Deveault,,,Jean-Proulx et Deveault
+stops,tts_stop_name,en,Jean-Proulx and S T O,,,Jean-Proulx et S T O
+stops,tts_stop_name,en,Labrosse and Polyvalente Nicolas-Gatineau,,,Labrosse et Polyvalente Nicolas-Gatineau
+stops,tts_stop_name,en,Lionel-Émond and Collège Nouvelles Frontières,,,Lionel-Émond et Collège Nouvelles Frontières
+stops,stop_name,en,St-Joseph | Canevas Shopping Centre,,,St-Joseph | Centre commercial Canevas
+stops,tts_stop_name,en,Saint-Joseph and Canevas Shopping Centre,,,Saint-Joseph et Centre commercial Canevas
+stops,tts_stop_name,en,Saint-Joseph and Jean-Proulx,,,Saint-Joseph et Jean-Proulx
+stops,tts_stop_name,en,Saint-Joseph and Juneau,,,Saint-Joseph et Juneau
+stops,tts_stop_name,en,Saint-Joseph and Parc O Bus Freeman,,,Saint-Joseph et Parc au Bus Freeman
+stops,tts_stop_name,en,Saint-Joseph and Sainte-Marie,,,Saint-Joseph et Sainte-Marie
+stops,tts_stop_name,en,Saint-Louis and Avenue Gatineau,,,Saint-Louis et Avenue Gatineau
+stops,tts_stop_name,en,Saint-Louis and du Pont Alonzo-Wright,,,Saint-Louis et du Pont Alonzo-Wright
+stops,stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
+stops,tts_stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
+stops,tts_stop_name,en,de la Carrière and Adrien-Robert,,,de la Carrière et Adrien-Robert
+stops,tts_stop_name,en,de la Carrière and Atawe,,,de la Carrière et Atawe
+stops,tts_stop_name,en,de la Carrière and du Casino,,,de la Carrière et du Casino
+stops,tts_stop_name,en,de la Cité-des-Jeunes and Centre Asticou,,,de la Cité-des-Jeunes et Centre Asticou
+stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Gabrielle-Roy,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
+stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Héritage,,,de la Cité-des-Jeunes et Cégep Héritage
+stops,tts_stop_name,en,des Allumettières and Wilfrid-Lavigne,,,des Allumettières et Wilfrid-Lavigne
+stops,tts_stop_name,en,des Érables and Saint-Louis (Collège Saint-Alexandre),,,des Érables et Saint-Louis (Collège Saint-Alexandre)
+stops,tts_stop_name,en,des Érables and du Sommelier,,,des Érables et du Sommelier
+stops,tts_stop_name,en,du Plateau and d'Europe,,,du Plateau et d'Europe
+stops,tts_stop_name,en,du Plateau and de l'Atmosphère,,,du Plateau et de l'Atmosphère
+stops,tts_stop_name,en,du Plateau and des Grives,,,du Plateau et des Grives
+stops,stop_name,en,du Plateau | D'Arcy McGee School,,,du Plateau | École D'Arcy McGee
+stops,tts_stop_name,en,du Plateau and D'Arcy McGee School,,,du Plateau et École D'Arcy McGee
 stops,tts_stop_name,en,Centre and Marion,,,Centre et Marion
 stops,tts_stop_name,en,Denis and Blondeau,,,Denis et Blondeau
 stops,tts_stop_name,en,Denis and Clermont,,,Denis et Clermont
@@ -15,12 +41,7 @@ stops,tts_stop_name,en,Denis and de Maricourt,,,Denis et de Maricourt
 stops,tts_stop_name,en,Denis and des Pins,,,Denis et des Pins
 stops,tts_stop_name,en,Denis and des Érables,,,Denis et des Érables
 stops,tts_stop_name,en,Denis and du Mont-Joël,,,Denis et du Mont-Joël
-stops,tts_stop_name,en,Gamelin and Saint-Joseph,,,Gamelin et Saint-Joseph
-stops,tts_stop_name,en,Jean-Proulx and Deveault,,,Jean-Proulx et Deveault
-stops,tts_stop_name,en,Jean-Proulx and S T O,,,Jean-Proulx et S T O
 stops,tts_stop_name,en,Kingsmere and Notch,,,Kingsmere et Notch
-stops,tts_stop_name,en,Labrosse and Polyvalente Nicolas-Gatineau,,,Labrosse et Polyvalente Nicolas-Gatineau
-stops,tts_stop_name,en,Lionel-Émond and Collège Nouvelles Frontières,,,Lionel-Émond et Collège Nouvelles Frontières
 stops,tts_stop_name,en,Notch and Bronson,,,Notch et Bronson
 stops,tts_stop_name,en,Notch and Dunn,,,Notch et Dunn
 stops,tts_stop_name,en,Notch and Tamarack,,,Notch et Tamarack
@@ -35,17 +56,19 @@ stops,tts_stop_name,en,Old Chelsea and de l'Hôtel de Ville,,,Old Chelsea et de 
 stops,tts_stop_name,en,Old Chelsea and du Relais,,,Old Chelsea et du Relais
 stops,tts_stop_name,en,Paiement and Prud'homme,,,Paiement et Prud'homme
 stops,tts_stop_name,en,Paiement and des Chutes,,,Paiement et des Chutes
-stops,tts_stop_name,en,Principale and Brisebois,,,Principale et Brisebois
-stops,tts_stop_name,en,Principale and Charlevoix,,,Principale et Charlevoix
-stops,tts_stop_name,en,Principale and Gosselin,,,Principale et Gosselin
-stops,tts_stop_name,en,Principale and Kennedy,,,Principale et Kennedy
-stops,tts_stop_name,en,Principale and Murray,,,Principale et Murray
+stops,stop_name,en,Principale Est | Gosselin,,,Principale Eest | Gosselin
+stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Est et Gosselin
+stops,tts_stop_name,en,Principale East and Brisebois,,,Principale Est et Brisebois
+stops,tts_stop_name,en,Principale East and Charlevoix,,,Principale Est et Charlevoix
+stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Est et Gosselin
+stops,tts_stop_name,en,Principale East and Kennedy,,,Principale Est et Kennedy
+stops,tts_stop_name,en,Principale East and Murray,,,Principale Est et Murray
+stops,tts_stop_name,en,Principale East and Philippe,,,Principale Est et Philippe
+stops,tts_stop_name,en,Principale East and Richard,,,Principale Est et Richard
+stops,tts_stop_name,en,Principale East | Vaillant,,,Principale Est et Vaillant
+stops,tts_stop_name,en,Principale East and de la Beurrerie,,,Principale Est et de la Beurrerie
+stops,tts_stop_name,en,Principale East and de la Prairie,,,Principale Est et de la Prairie
 stops,tts_stop_name,en,Principale and Passe-Partout,,,Principale et Passe-Partout
-stops,tts_stop_name,en,Principale and Philippe,,,Principale et Philippe
-stops,tts_stop_name,en,Principale and Richard,,,Principale et Richard
-stops,tts_stop_name,en,Principale and Vaillant,,,Principale et Vaillant
-stops,tts_stop_name,en,Principale and de la Beurrerie,,,Principale et de la Beurrerie
-stops,tts_stop_name,en,Principale and de la Prairie,,,Principale et de la Prairie
 stops,stop_name,en,Near 126 chemin de la Rivière,,,Près du 126 chemin de la Rivière
 stops,tts_stop_name,en,Near 1 26 chemin de la Rivière,,,Près du 126 chemin de la Rivière
 stops,stop_name,en,Near 149 chemin de la Rivière,,,Près du 149 chemin de la Rivière
@@ -119,6 +142,8 @@ stops,tts_stop_name,en,Route 1 48 and Alary,,,Route 148 et Alary
 stops,tts_stop_name,en,Route 1 48 and Breckenridge,,,Route 148 et Breckenridge
 stops,tts_stop_name,en,Route 1 48 and Bristol Mines,,,Route 148 et Bristol Mines
 stops,tts_stop_name,en,Route 1 48 and Concession Cinquième,,,Route 148 et Concession cinquième
+stops,stop_name,en,Route 148 | 5th Line,,,Route 148 | Concesssion 5e
+stops,tts_stop_name,en,Route 1 48 and Fifth Line,,,Route 148 et concession cinquième
 stops,tts_stop_name,en,Route 1 48 and Crégheur,,,Route 148 et Crégheur
 stops,tts_stop_name,en,Route 1 48 and Dagenais,,,Route 148 et Dagenais
 stops,tts_stop_name,en,Route 1 48 and Eardley-Masham,,,Route 148 et Eardley-Masham
@@ -197,19 +222,8 @@ stops,tts_stop_name,en,Scott and Preston,,,Scott et Preston
 stops,tts_stop_name,en,Scott and de la Belle-Terre,,,Scott et de la Belle-Terre
 stops,tts_stop_name,en,Scott and des Cerisiers,,,Scott et des Cerisiers
 stops,tts_stop_name,en,Saint-Clément and de la Rivière,,,Saint-Clément et de la Rivière
-stops,stop_name,en,St-Joseph | Canevas Shopping Centre,,,St-Joseph | Centre commercial Canevas
-stops,tts_stop_name,en,Saint-Joseph and Canevas Shopping Centre,,,Saint-Joseph et Centre commercial Canevas
-stops,tts_stop_name,en,Saint-Joseph and Jean-Proulx,,,Saint-Joseph et Jean-Proulx
-stops,tts_stop_name,en,Saint-Joseph and Juneau,,,Saint-Joseph et Juneau
-stops,tts_stop_name,en,Saint-Joseph and Parc O Bus Freeman,,,Saint-Joseph et Parc au Bus Freeman
-stops,tts_stop_name,en,Saint-Joseph and Sainte-Marie,,,Saint-Joseph et Sainte-Marie
 stops,tts_stop_name,en,Saint-Joseph and du Carrefour,,,Saint-Joseph et du Carrefour
 stops,tts_stop_name,en,Saint-Joseph and École l'Équipage,,,Saint-Joseph et École l'Équipage
-stops,tts_stop_name,en,Saint-Louis and Avenue Gatineau,,,Saint-Louis et Avenue Gatineau
-stops,tts_stop_name,en,Saint-Louis and du Pont Alonzo-Wright,,,Saint-Louis et du Pont Alonzo-Wright
-stops,stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
-stops,tts_stop_name,en,Station de la Gappe (de Turin street),,,Station de la Gappe (rue de Turin)
-stops,tts_stop_name,en,Station les Galeries de Hull (4 55 de la Carrière),,,Station les Galeries de Hull (455 de la Carrière)
 stops,tts_stop_name,en,Taché and de Maricourt,,,Taché et de Maricourt
 stops,tts_stop_name,en,Taché and du Boisé-des-Mûriers,,,Taché et du Boisé-des-Mûriers
 stops,tts_stop_name,en,Taché and du Domaine-Champêtre,,,Taché et du Domaine-Champêtre
@@ -231,17 +245,10 @@ stops,tts_stop_name,en,de Pembroke and Notre-Dame,,,de Pembroke et Notre-Dame
 stops,tts_stop_name,en,de Pembroke and de Chapeau-Waltham,,,de Pembroke et de Chapeau-Waltham
 stops,stop_name,en,de Ste-Cécile-de-Masham | P17 Parking Lot,,,de Ste-Cécile-de-Masham | Stationnement P17
 stops,tts_stop_name,en,de Sainte-Cécile-de-Masham and Pee 17 Parking Lot,,,de Sainte-Cécile-de-Masham et Stationnement Pé 17
-stops,tts_stop_name,en,de la Carrière and Adrien-Robert,,,de la Carrière et Adrien-Robert
-stops,tts_stop_name,en,de la Carrière and Atawe,,,de la Carrière et Atawe
-stops,tts_stop_name,en,de la Carrière and du Casino,,,de la Carrière et du Casino
-stops,tts_stop_name,en,de la Cité-des-Jeunes and Centre Asticou,,,de la Cité-des-Jeunes et Centre Asticou
-stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Gabrielle-Roy,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
-stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Héritage,,,de la Cité-des-Jeunes et Cégep Héritage
 stops,tts_stop_name,en,de la Mine and Link,,,de la Mine et Link
 stops,tts_stop_name,en,de la Mine and Marie-Burger,,,de la Mine et Marie-Burger
 stops,tts_stop_name,en,de la Mine and Mike,,,de la Mine et Mike
-stops,tts_stop_name,en,de la Mine and de la Solitude,,,de la Mine et de la Solitude
-stops,tts_stop_name,en,de la Pineraie and des Bâtisseurs,,,de la Pineraie et des Bâtisseurs
+stops,tts_stop_name,en,de la Mine and Solitude,,,de la Mine et Solitude
 stops,tts_stop_name,en,de la Pineraie and du Carrefour,,,de la Pineraie et du Carrefour
 stops,tts_stop_name,en,de la Rivière and Carnochan,,,de la Rivière et Carnochan
 stops,tts_stop_name,en,de la Rivière and Jenness,,,de la Rivière et Jenness
@@ -250,18 +257,14 @@ stops,tts_stop_name,en,de la Rivière and Pine,,,de la Rivière et Pine
 stops,tts_stop_name,en,de la Rivière and Saint-Clément,,,de la Rivière et Saint-Clément
 stops,tts_stop_name,en,de la Rivière and de la Carrière,,,de la Rivière et de la Carrière
 stops,tts_stop_name,en,de la Vallée-de-Wakefield and Riverside,,,de la Vallée-de-Wakefield et Riverside
-stops,tts_stop_name,en,des Allumettières and Wilfrid-Lavigne,,,des Allumettières et Wilfrid-Lavigne
 stops,tts_stop_name,en,des Bâtisseurs and Cléophas Scatland,,,des Bâtisseurs et Cléophas Scatland
 stops,tts_stop_name,en,des Bâtisseurs and Henri Bélec,,,des Bâtisseurs et Henri Bélec
 stops,tts_stop_name,en,des Bâtisseurs and des Générations,,,des Bâtisseurs et des Générations
-stops,tts_stop_name,en,des Bâtisseurs and des Mélèzes,,,des Bâtisseurs et des Mélèzes
 stops,tts_stop_name,en,des Pins and de la Cascade,,,des Pins et de la Cascade
 stops,tts_stop_name,en,des Érables and Crémazie,,,des Érables et Crémazie
 stops,tts_stop_name,en,des Érables and Denis,,,des Érables et Denis
-stops,tts_stop_name,en,des Érables and Saint-Louis (Collège Saint-Alexandre),,,des Érables et Saint-Louis (Collège Saint-Alexandre)
 stops,tts_stop_name,en,des Érables and Taché,,,des Érables et Taché
 stops,tts_stop_name,en,des Érables and des Conifères,,,des Érables et des Conifères
-stops,tts_stop_name,en,des Érables and du Sommelier,,,des Érables et du Sommelier
 stops,tts_stop_name,en,du Boisé-des-Mûriers and Denis,,,du Boisé-des-Mûriers et Denis
 stops,tts_stop_name,en,du Boisé-des-Mûriers and des Framboisiers,,,du Boisé-des-Mûriers et des Framboisiers
 stops,tts_stop_name,en,du Boisé-des-Mûriers and des Groseilliers,,,du Boisé-des-Mûriers et des Groseilliers
@@ -275,8 +278,3 @@ stops,tts_stop_name,en,du Carrefour and Saint-Pierre,,,du Carrefour et Saint-Pie
 stops,tts_stop_name,en,du Carrefour and des Pins,,,du Carrefour et des Pins
 stops,tts_stop_name,en,du Mont-Joël and Denis,,,du Mont-Joël et Denis
 stops,tts_stop_name,en,du Mont-Joël and Marsolais,,,du Mont-Joël et Marsolais
-stops,tts_stop_name,en,du Plateau and de l'Atmosphère,,,du Plateau et de l'Atmosphère
-stops,tts_stop_name,en,du Plateau and des Grives,,,du Plateau et des Grives
-stops,tts_stop_name,en,du Plateau and du Prado,,,du Plateau et du Prado
-stops,stop_name,en,du Plateau | D'Arcy McGee School,,,du Plateau | École D'Arcy McGee
-stops,tts_stop_name,en,du Plateau and D'Arcy McGee School,,,du Plateau et École D'Arcy McGee
