@@ -22,7 +22,6 @@ stops,tts_stop_name,en,de la Carrière and Adrien-Robert,,,de la Carrière et Ad
 stops,tts_stop_name,en,de la Carrière and Atawe,,,de la Carrière et Atawe
 stops,tts_stop_name,en,de la Carrière and du Casino,,,de la Carrière et du Casino
 stops,tts_stop_name,en,de la Cité-des-Jeunes and Centre Asticou,,,de la Cité-des-Jeunes et Centre Asticou
-stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Gabrielle-Roy,,,de la Cité-des-Jeunes et Cégep Gabrielle-Roy
 stops,tts_stop_name,en,de la Cité-des-Jeunes and Cégep Héritage,,,de la Cité-des-Jeunes et Cégep Héritage
 stops,tts_stop_name,en,des Allumettières and Wilfrid-Lavigne,,,des Allumettières et Wilfrid-Lavigne
 stops,tts_stop_name,en,des Érables and Saint-Louis (Collège Saint-Alexandre),,,des Érables et Saint-Louis (Collège Saint-Alexandre)
@@ -56,7 +55,7 @@ stops,tts_stop_name,en,Old Chelsea and de l'Hôtel de Ville,,,Old Chelsea et de 
 stops,tts_stop_name,en,Old Chelsea and du Relais,,,Old Chelsea et du Relais
 stops,tts_stop_name,en,Paiement and Prud'homme,,,Paiement et Prud'homme
 stops,tts_stop_name,en,Paiement and des Chutes,,,Paiement et des Chutes
-stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Eest | Gosselin
+stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Eest et Gosselin
 stops,tts_stop_name,en,Principale East and Brisebois,,,Principale Est et Brisebois
 stops,tts_stop_name,en,Principale East and Charlevoix,,,Principale Est et Charlevoix
 stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Est et Gosselin
@@ -259,6 +258,7 @@ stops,tts_stop_name,en,de la Vallée-de-Wakefield and Riverside,,,de la Vallée-
 stops,tts_stop_name,en,des Bâtisseurs and Cléophas Scatland,,,des Bâtisseurs et Cléophas Scatland
 stops,tts_stop_name,en,des Bâtisseurs and Henri Bélec,,,des Bâtisseurs et Henri Bélec
 stops,tts_stop_name,en,des Bâtisseurs and des Générations,,,des Bâtisseurs et des Générations
+stops,tts_stop_name,en,des Bâtisseurs and du Village,,,des Bâtisseurs et du Village
 stops,tts_stop_name,en,des Pins and de la Cascade,,,des Pins et de la Cascade
 stops,tts_stop_name,en,des Érables and Crémazie,,,des Érables et Crémazie
 stops,tts_stop_name,en,des Érables and Denis,,,des Érables et Denis
