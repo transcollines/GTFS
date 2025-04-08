@@ -67,18 +67,8 @@ stops,tts_stop_name,en,Principale East | Vaillant,,,Principale Est et Vaillant
 stops,tts_stop_name,en,Principale East and de la Beurrerie,,,Principale Est et de la Beurrerie
 stops,tts_stop_name,en,Principale East and de la Prairie,,,Principale Est et de la Prairie
 stops,tts_stop_name,en,Principale and Passe-Partout,,,Principale et Passe-Partout
-stops,stop_name,en,Near 126 chemin de la Rivière,,,Près du 126 chemin de la Rivière
-stops,tts_stop_name,en,Near 1 26 chemin de la Rivière,,,Près du 126 chemin de la Rivière
-stops,stop_name,en,Near 149 chemin de la Rivière,,,Près du 149 chemin de la Rivière
-stops,tts_stop_name,en,Near 1 49 chemin de la Rivière,,,Près du 149 chemin de la Rivière
-stops,stop_name,en,Near 150 chemin de la Rivière,,,Près du 150 chemin de la Rivière
-stops,tts_stop_name,en,Near 1 50 chemin de la Rivière,,,Près du 150 chemin de la Rivière
 stops,stop_name,en,Near 1638 route 105,,,Près du 1638 route 105
 stops,tts_stop_name,en,Near 16 38 route 1 o 5,,,Près du 16 38 route 105
-stops,stop_name,en,Near 177 chemin de la Rivière,,,Près du 177 chemin de la Rivière
-stops,tts_stop_name,en,Near 1 77 chemin de la Rivière,,,Près du 177 chemin de la Rivière
-stops,stop_name,en,Near 178 chemin de la Rivière,,,Près du 178 chemin de la Rivière
-stops,tts_stop_name,en,Near 1 78 chemin de la Rivière,,,Près du 178 chemin de la Rivière
 stops,stop_name,en,Near 2120 route du Carrefour,,,Près du 2120 route du Carrefour
 stops,tts_stop_name,en,Near 21 20 route du Carrefour,,,Près du 21 20 route du Carrefour
 stops,stop_name,en,Near 2123 route du Carrefour,,,Près du 2123 route du Carrefour
@@ -219,7 +209,6 @@ stops,tts_stop_name,en,Scott and Old Chelsea,,,Scott et Old Chelsea
 stops,tts_stop_name,en,Scott and Preston,,,Scott et Preston
 stops,tts_stop_name,en,Scott and de la Belle-Terre,,,Scott et de la Belle-Terre
 stops,tts_stop_name,en,Scott and des Cerisiers,,,Scott et des Cerisiers
-stops,tts_stop_name,en,Saint-Clément and de la Rivière,,,Saint-Clément et de la Rivière
 stops,tts_stop_name,en,Saint-Joseph and du Carrefour,,,Saint-Joseph et du Carrefour
 stops,tts_stop_name,en,Saint-Joseph and École l'Équipage,,,Saint-Joseph et École l'Équipage
 stops,tts_stop_name,en,Taché and de Maricourt,,,Taché et de Maricourt
@@ -248,12 +237,6 @@ stops,tts_stop_name,en,de la Mine and Marie-Burger,,,de la Mine et Marie-Burger
 stops,tts_stop_name,en,de la Mine and Mike,,,de la Mine et Mike
 stops,tts_stop_name,en,de la Mine and Solitude,,,de la Mine et Solitude
 stops,tts_stop_name,en,de la Pineraie and du Carrefour,,,de la Pineraie et du Carrefour
-stops,tts_stop_name,en,de la Rivière and Carnochan,,,de la Rivière et Carnochan
-stops,tts_stop_name,en,de la Rivière and Jenness,,,de la Rivière et Jenness
-stops,tts_stop_name,en,de la Rivière and Mountainview,,,de la Rivière et Mountainview
-stops,tts_stop_name,en,de la Rivière and Pine,,,de la Rivière et Pine
-stops,tts_stop_name,en,de la Rivière and Saint-Clément,,,de la Rivière et Saint-Clément
-stops,tts_stop_name,en,de la Rivière and de la Carrière,,,de la Rivière et de la Carrière
 stops,tts_stop_name,en,de la Vallée-de-Wakefield and Riverside,,,de la Vallée-de-Wakefield et Riverside
 stops,tts_stop_name,en,des Bâtisseurs and Cléophas Scatland,,,des Bâtisseurs et Cléophas Scatland
 stops,tts_stop_name,en,des Bâtisseurs and Henri Bélec,,,des Bâtisseurs et Henri Bélec
