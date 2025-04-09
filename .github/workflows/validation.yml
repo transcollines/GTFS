@@ -20,3 +20,7 @@ jobs:
         uses: npaun/md-gtfs-validator-action@v1
         with:
           gtfs_path: transcollines-qc-ca.zip
+      - name: Validation GTFS Cityway
+        uses: npaun/md-gtfs-validator-action@v1
+        with:
+          gtfs_path: transcollines-qc-ca-cityway.zip

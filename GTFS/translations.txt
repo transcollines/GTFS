@@ -40,6 +40,9 @@ stops,tts_stop_name,en,Denis and de Maricourt,,,Denis et de Maricourt
 stops,tts_stop_name,en,Denis and des Pins,,,Denis et des Pins
 stops,tts_stop_name,en,Denis and des Érables,,,Denis et des Érables
 stops,tts_stop_name,en,Denis and du Mont-Joël,,,Denis et du Mont-Joël
+stops,tts_stop_name,en,Chelsea I G A,,,I G A de Chelsea
+stops,stop_name,en,IGA - Chelsea (East side),,,IGA - Chelsea (coté Est)
+stops,tts_stop_name,en,"Chelsea I G A, East side",,,"I G A de Chelsea, côté Est"
 stops,tts_stop_name,en,Kingsmere and Notch,,,Kingsmere et Notch
 stops,tts_stop_name,en,Notch and Bronson,,,Notch et Bronson
 stops,tts_stop_name,en,Notch and Dunn,,,Notch et Dunn
