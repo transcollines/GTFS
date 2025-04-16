@@ -8,3 +8,4 @@ service_id,date,exception_type,holiday_name
 20250407-Semaine-01,20251013,2,
 20250407-Semaine-01,20251224,2,
 20250407-Semaine-01,20251225,2,
+20250407-Weekend-01,20250420,2,

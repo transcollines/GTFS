@@ -1,4 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-20250407-Weekend-01,0,0,0,0,0,1,1,20250407,20251231
+20250407-Weekend-01,0,0,0,0,0,1,1,20250412,20251228
 20250407-Semaine-01,1,1,1,1,1,0,0,20250407,20251230
-FARES-GT-2025-1,1,1,1,1,1,1,1,20250407,20251231
+FARES-GT-2025-1,1,1,1,1,1,1,1,20250407,20251230
