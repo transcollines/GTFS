@@ -418,7 +418,7 @@ F913-26,913-26,des Érables | St-Louis (Collège St-Alexandre),des Érables et S
 F914-01,914-01,Station Labrosse,Station Labrosse,,45.490833,-75.64355,,,0,,,,,9
 F914-06,914-06,Labrosse | Polyvalente Nicolas-Gatineau,Labrosse et Polyvalente Nicolas-Gatineau,,45.498993,-75.64236,,,0,,,,,
 F914-07,914-07,Labrosse | Polyvalente Nicolas-Gatineau,Labrosse et Polyvalente Nicolas-Gatineau,,45.498943,-75.642136,,,0,,,,,
-FL241-01,241-01,IGA - Chelsea (coté Est),"I G A de Chelsea, côté Est",,45.598564,-75.89935,,,0,,,,,
+FL241-99,241-99,IGA - Chelsea (coté Est),"I G A de Chelsea, côté Est",,45.598564,-75.89935,,,0,,,,,
 FL272-23,272-23,Notch | de la Mine,Notch et de la Mine,,45.487843,-75.812416,,,0,,,,,
 FL411-60,411-60,de la Pineraie | du Carrefour,de la Pineraie et du Carrefour,,45.594765,-75.61775,,,0,,,,,
 FL910-01,910-01,Parc-O-Bus des Allumettières,Parc au Bus des Allumettières,,45.407265,-75.86561,,,0,,,,,
