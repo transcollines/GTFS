@@ -44,6 +44,8 @@ stops,tts_stop_name,en,Chelsea I G A,,,I G A de Chelsea
 stops,stop_name,en,IGA - Chelsea (East side),,,IGA - Chelsea (coté Est)
 stops,tts_stop_name,en,"Chelsea I G A, East side",,,"I G A de Chelsea, côté Est"
 stops,tts_stop_name,en,Kingsmere and Notch,,,Kingsmere et Notch
+stops,stop_name,en,Lac Philippe (Breton Beach),,,Lac Philippe (Plage Breton)
+stops,tts_stop_name,en,"Lake Philippe, Breton Beach",,,"Lac Philippe, Plage Breton"
 stops,tts_stop_name,en,Notch and Bronson,,,Notch et Bronson
 stops,tts_stop_name,en,Notch and Dunn,,,Notch et Dunn
 stops,tts_stop_name,en,Notch and Tamarack,,,Notch et Tamarack
@@ -56,6 +58,8 @@ stops,tts_stop_name,en,Old Chelsea and Ladyfield,,,Old Chelsea et Ladyfield
 stops,tts_stop_name,en,Old Chelsea and Lonergan,,,Old Chelsea et Lonergan
 stops,tts_stop_name,en,Old Chelsea and de l'Hôtel de Ville,,,Old Chelsea et de l'Hôtel de Ville
 stops,tts_stop_name,en,Old Chelsea and du Relais,,,Old Chelsea et du Relais
+stops,stop_name,en,P16 - Gatineau Park,,,P16 - Parc de la Gatineau
+stops,tts_stop_name,en,"Pee Sixteen, Gatineau Park",,,"Pé seize, Parc de la Gatineau"
 stops,tts_stop_name,en,Paiement and Prud'homme,,,Paiement et Prud'homme
 stops,tts_stop_name,en,Paiement and des Chutes,,,Paiement et des Chutes
 stops,tts_stop_name,en,Principale East and Gosselin,,,Principale Eest et Gosselin

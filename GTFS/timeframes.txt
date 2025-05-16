@@ -1,2 +1,6 @@
 timeframe_group_id,start_time,end_time,service_id
 GT-2025,,,FARES-GT-2025-1
+924-REG,,,FARES-924-REG-1
+924-GRT,,,FARES-924-GRT-1
+924-REG,,,FARES-924-REG-2
+924-REG,,,FARES-924-REG-3

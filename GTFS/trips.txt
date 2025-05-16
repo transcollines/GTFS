@@ -26,3 +26,9 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 924,20250407-Weekend-01,20250407-Weekend-01-924-1-0855,Masham via Scott,,1,20250407-G4A-Weekend-01,924CG,2,1,Collines
 924,20250407-Weekend-01,20250407-Weekend-01-924-1-1155,Masham via Scott,,1,20250407-G4M-Weekend-01,924CG,2,1,Collines
 924,20250407-Weekend-01,20250407-Weekend-01-924-1-1755,Masham via Scott,,1,20250407-G4P-Weekend-01,924CG,2,1,Collines
+924,20250407-Weekend-02,20250407-Weekend-02-924-0-0813,Station Montcalm via Lac Philippe,,0,20250407-T4A-Weekend-02,17xt,2,1,Gatineau
+924,20250407-Weekend-02,20250407-Weekend-02-924-0-1240,Station Montcalm via Lac Philippe,,0,20250407-T4M-Weekend-02,17xt,2,1,Gatineau
+924,20250407-Weekend-02,20250407-Weekend-02-924-0-1549,Station Montcalm via Lac Philippe,,0,20250407-T4P-Weekend-02,17xt,2,1,Gatineau
+924,20250407-Weekend-02,20250407-Weekend-02-924-1-0923,Masham via Lac Philippe,,1,20250407-T4A-Weekend-02,epmv,2,1,Collines
+924,20250407-Weekend-02,20250407-Weekend-02-924-1-1123,Masham via Lac Philippe,,1,20250407-T4M-Weekend-02,epmv,2,1,Collines
+924,20250407-Weekend-02,20250407-Weekend-02-924-1-1659,Masham via Lac Philippe,,1,20250407-T4P-Weekend-02,epmv,2,1,Collines
