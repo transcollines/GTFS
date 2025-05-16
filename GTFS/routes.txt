@@ -2,7 +2,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 910,Transcollines,910,Pontiac — Gatineau,via Route 148,3,https://transcollines.ca/910,0047BB,FFFFFF,910,0,0,REG
 921,Transcollines,921,La Pêche — Chelsea — Gatineau,via Autoroute,3,https://transcollines.ca/921,0047BB,FFFFFF,921,0,0,REG
 923,Transcollines,923,La Pêche — Chelsea — Gatineau,via Old Chelsea,3,https://transcollines.ca/923,0047BB,FFFFFF,923,0,0,REG
-924,Transcollines,924,La Pêche — Chelsea — Gatineau,via Scott,3,https://transcollines.ca/924,0047BB,FFFFFF,924,0,0,REG
+924,Transcollines,924,La Pêche — Chelsea — Gatineau,via Scott,3,https://transcollines.ca/924,0047BB,FFFFFF,924,0,0,924
 925,Transcollines,925,La Pêche — Chelsea — Gatineau,via de la Mine,3,https://transcollines.ca/925,0047BB,FFFFFF,925,0,0,REG
 931,Transcollines,931,Cantley — Gatineau,via Bouchette,3,https://transcollines.ca/931,0047BB,FFFFFF,931,0,0,REG
 932,Transcollines,932,Cantley — Gatineau,via Alonzo,3,https://transcollines.ca/932,0047BB,FFFFFF,932,0,0,REG

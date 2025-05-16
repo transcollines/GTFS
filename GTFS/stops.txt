@@ -1,4 +1,6 @@
 stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id,platform_code
+214-01,214-01,Lac Philippe (Plage Breton),"Lac Philippe, Plage Breton",,45.613148,-76.0104,,,0,,,,,
+242-01,242-01,P16 - Parc de la Gatineau,"Pé seize, Parc de la Gatineau",,45.57234,-75.88554,,,0,,,,,
 F101-01,101-01,Route 148 | de la Montagne,Route 148 et de la Montagne,,45.500294,-75.96489,,,0,,,,,
 F101-02,101-02,Route 148 | de la Montagne,Route 148 et de la Montagne,,45.500286,-75.964226,,,0,,,,,
 F101-03,101-03,Route 148 | de la Rivière,Route 148 et de la Rivière,,45.488373,-75.95198,,,0,,,,,
@@ -424,3 +426,4 @@ FL411-60,411-60,de la Pineraie | du Carrefour,de la Pineraie et du Carrefour,,45
 FL910-01,910-01,Parc-O-Bus des Allumettières,Parc au Bus des Allumettières,,45.407265,-75.86561,,,0,,,,,
 FL912-24,912-24,Gamelin | St-Joseph,Gamelin et Saint-Joseph,,45.443848,-75.733665,,,0,,,,,
 FL912-25,912-25,Gamelin | St-Joseph,Gamelin et Saint-Joseph,,45.443672,-75.733246,,,0,,,,,
+FL912-55,912-55,Station Montcalm,Station Montcalm,,45.43038,-75.7293,,,0,,,,,
