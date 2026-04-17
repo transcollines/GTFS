@@ -1,3 +1,2 @@
 timeframe_group_id,start_time,end_time,service_id
 GT-2026,,,FARES-GT-2026-1
-924-REG-2026,,,FARES-924-REG-2026-1
