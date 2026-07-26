@@ -41,7 +41,7 @@ En rendant publiques ses données ouvertes, la MRC s’attend à ce que l’util
 
 La MRC recommande au développeur de consulter au besoin les multiples sources d’informations déjà disponibles sur Internet à propos de l’utilisation des fichiers GTFS par exemple :
 
-- https://github.com/google/transit/blob/master/gtfs/spec/en/README.md (en anglais seulement)
+- https://developers.google.com/transit/gtfs/ (en anglais seulement)
 
 La MRC ou ses employés ne peuvent être tenus responsables de tout type de dommage prévisible ou imprévisible (incluant la perte de profits ou d'opportunités) découlant de l'utilisation ou de l'impossibilité totale ou partielle d'utiliser les données ouvertes de la MRC.
 
@@ -57,4 +57,5 @@ La MRC ne peut être considérée en défaut en vertu des présentes Conditions 
 
 ## Demeurez informés
 
-La MRC recommande à l’utilisateur des données ouvertes de la MRC de s’inscrire aux notifications de changement proposées par la plateforme GitHub sur le répertoire "GTFS" de Transcollines afin d'être tenu informé de tout changement aux données.
+La MRC recommande à l’utilisateur des données ouvertes de la MRC de s’inscrire au courriel d’information afin de recevoir périodiquement le détail des plus récentes mises à jour de ses fichiers GTFS ainsi que toute autre information pertinente concernant le développement et l’accessibilité des données ouvertes de la MRC.
+[Cliquez ici pour vous inscrire à la liste de distribution des développeurs de la MRC (environ un courriel aux deux mois)](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUNFRTMVM0OFo1NjhMR0ZINEhFUDdVQzU2Uy4u)
