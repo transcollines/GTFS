@@ -5,7 +5,7 @@ Pour plus d'information sur le format GTFS, consultez [la spécification officie
 
 **Assurez-vous de lire les conditions d'utilisation (situées dans le fichier LICENCE.md) avant de commencer à utiliser les données de Transcollines.**
 
-> Dernière mise à jour des conditions d'utilisation: 1er février 2025.
+> Dernière mise à jour des conditions d'utilisation: 26 juillet 2026.
 
 ## Fares-V2 (Tarifs)
 
@@ -21,22 +21,12 @@ Pour télécharger le GTFS de Transcollines, utilisez le lien ci-dessous.
 https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca.zip
 **En téléchargeant le GTFS, vous acceptez les conditions d'utilisation détaillées dans le fichier `licence.md`**
 
-## GTFS-Realtime
-
-Transcollines fournit également les informations en temps réel, dans le format GTFS-Realtime.
-Pour plus de détails, rendez-vous au [github.com/transcollines/gtfs-rt](https://github.com/transcollines/gtfs-rt)
-
-## Inscription à la liste de distribution des développeurs Transcollines
-
-Transcollines utilise cette liste de distribution pour informer les développeurs de changements importants au fil GTFS de Transcollines. Il est fortement encouragé de s'y inscrire. Vous devriez recevoir environ un courriel aux deux ou trois mois.
-[Inscrivez-vous ici.](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUNFRTMVM0OFo1NjhMR0ZINEhFUDdVQzU2Uy4u)
-
 ## Extensions particulières aux fichiers GTFS de Transcollines
 
 - **`trips.trip_direction_headsign`**: Ce champ est utilisé pour indiquer la direction du voyage qui est présentée aux utilisateurs sur les afficheurs de destination des autobus en alternance avec le contenu du champ `trips.trip_headsign`
 
-## Registre des applications
+## Fichiers GeoJSON pour les systèmes d'information géographique (SIG)
 
-Vous avez créé un outil utilisant les données ouvertes de Transcollines? Nous avons l'intention d'éventuellement créer une galerie d'applications sur notre site web et aimerions y présenter votre application! Informez-nous de votre application [ici!](https://forms.office.com/Pages/ResponsePage.aspx?id=E7Fe_cNXKEamfise0d6K-7z88p3eAzZIns4uRERv9ZRUMVk0Wko5VEhINlBNSjY1TkUwU0Y2N1FIQy4u)
+Les utilisateurs de SIG et de tout autre programme de cartographie peuvent utiliser les fichiers `parcours.geojson` et `arrets.geojson` qui se situent dans le dossier `GEOJSON`. Ces fichiers sont générés à partir des données GTFS. Leur utilisation est soumise aux mêmes conditions d'utilisation que l'utilisation des fichiers GTFS, présentées dans le fichier `license.md`.
 
 ### Transcollines vous remercie pour votre contribution à la mobilité dans l'Outaouais Rural!
