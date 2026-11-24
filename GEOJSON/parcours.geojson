@@ -11,7 +11,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "924",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -2221,7 +2221,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "932",
         "route_long_name": "Cantley — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -3739,7 +3739,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "923",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -6285,7 +6285,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "925",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -8699,7 +8699,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "931",
         "route_long_name": "Cantley — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -9409,7 +9409,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "932",
         "route_long_name": "Cantley — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -10787,7 +10787,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "921",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -12325,7 +12325,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "921",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -13875,7 +13875,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "924",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -16069,7 +16069,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "931",
         "route_long_name": "Cantley — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -16803,7 +16803,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "923",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -18645,7 +18645,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "910",
         "route_long_name": "Pontiac — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -22939,7 +22939,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "940",
         "route_long_name": "Val-des-Monts — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -23737,7 +23737,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "923",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -25647,7 +25647,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "910",
         "route_long_name": "Pontiac — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -27633,7 +27633,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "940",
         "route_long_name": "Val-des-Monts — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -28467,7 +28467,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "925",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -31037,7 +31037,7 @@
         "trip_direction_headsign": "Gatineau",
         "route_short_name": "923",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -33787,7 +33787,7 @@
         "trip_direction_headsign": "Pontiac",
         "route_short_name": "910",
         "route_long_name": "Pontiac — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -35897,7 +35897,7 @@
         "trip_direction_headsign": "Collines",
         "route_short_name": "925",
         "route_long_name": "La Pêche — Chelsea — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
@@ -35995,8 +35995,12 @@
             45.44321
           ],
           [
-            -75.74738,
-            45.44353
+            -75.74745,
+            45.44419
+          ],
+          [
+            -75.74762,
+            45.44568
           ],
           [
             -75.74769,
@@ -36009,10 +36013,6 @@
           [
             -75.75109,
             45.44636
-          ],
-          [
-            -75.75116,
-            45.44649
           ],
           [
             -75.75123,
@@ -37651,8 +37651,8 @@
             45.59621
           ],
           [
-            -75.89915,
-            45.59829
+            -75.89947,
+            45.598503
           ],
           [
             -75.89983,
@@ -38431,7 +38431,7 @@
         "trip_direction_headsign": "Pontiac",
         "route_short_name": "910",
         "route_long_name": "Pontiac — Gatineau",
-        "feed_version": "2026-07-28T02:49:18.696Z"
+        "feed_version": "2026-11-24T17:32:52.774Z"
       },
       "geometry": {
         "type": "LineString",
