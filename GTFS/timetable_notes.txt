@@ -6,6 +6,4 @@ FER_AUC,🗓️,Jours fériés: aucun service sur cette ligne. [Transcollines à
 923X_FIN_MACLAREN,X,Ligne courte : Terminus Riverside / MacLaren via Old Chelsea.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Short trip : to Riverside / MacLaren via Old Chelsea.*
 910XG_FIN_POB_ALLUM,X,Ligne courte : Terminus Parc-O-Bus des Allumettières via Route 148<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Short trip : to Parc-O-Bus des Allumettières via Route 148.*
 910XP_FIN_CAMPBELLS,X,Ligne courte : Terminus Campbell''s Bay via Route 148<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Short trip : to Campbell''s Bay via Route 148.*
-26AUT_ENVIG_JUSQUAU_16AOUT,🅐,En vigueur jusqu'au 16 août 2026 (inclusivement).<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Effective until August 16th 2026 (inclusive).*
-26AUT_ENVIG_17AOUT,🅑,Ce voyage sera offert à compter du 17 août 2026.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This trip will operate starting August 17th 2026*
 925_VIA_COLLEGE,C,Ce voyage passe par la boucle d'autobus du Collège Nouvelles Frontières. Les élèves du Collège sont priés de monter à bord dans la boucle d'autobus. Les autres passagers montent à l'arrêt 912-49 sur le boulevard Lionel-Émond.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This trip serves the Collège Nouvelles Frontières bus loop. Nouvelles Frontières students are asked to board in the bus loop. All other passengers: board at stop 912-49 on Lionel-Émond boulevard.*

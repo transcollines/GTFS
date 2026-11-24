@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Transcollines - MRC des Collines-de-l'Outaouais,https://transcollines.ca,fr,fr,20260420,20261130,2026-07-28T02:49:18.696Z,gtfs@mrcdescollines.com,https://github.com/transcollines/GTFS/issues
+Transcollines - MRC des Collines-de-l'Outaouais,https://transcollines.ca,fr,fr,20260817,20261220,2026-11-24T17:32:52.774Z,gtfs@mrcdescollines.com,https://github.com/transcollines/GTFS/issues
